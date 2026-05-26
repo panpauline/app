@@ -1,9 +1,9 @@
 name: Ricerca bandi formatori
 
 on:
-  # Ogni 2 giorni, alle 05:00 UTC (07:00 ora italiana legale).
+  # Ogni 4 giorni, alle 05:00 UTC (07:00 ora italiana legale).
   schedule:
-    - cron: "0 5 */2 * *"
+    - cron: "0 5 */4 * *"
   # Permette di lanciarla a mano dalla scheda "Actions" di GitHub.
   workflow_dispatch:
 
@@ -53,7 +53,9 @@ jobs:
           gh issue create \
             --title "Nuovi bandi formatori - $(date +%F)" \
             --body-file nuovi_bandi.md \
+            --assignee panpauline \
             --label "bandi-formatori" 2>/dev/null \
           || gh issue create \
             --title "Nuovi bandi formatori - $(date +%F)" \
-            --body-file nuovi_bandi.md
+            --body-file nuovi_bandi.md \
+            --assignee panpauline

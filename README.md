@@ -13,7 +13,7 @@ avvisi analoghi per la formazione del personale docente ed educativo.
   Italia), filtra i risultati rilevanti e tiene traccia di quelli gia' visti
   in `dati/visti.json` per non segnalarli due volte.
 - **`.github/workflows/ricerca-bandi.yml`** — GitHub Action che:
-  - gira automaticamente **ogni 2 giorni** (cron `0 5 */2 * *`, ore 05:00 UTC);
+  - gira automaticamente **ogni 4 giorni** (cron `0 5 */4 * *`, ore 05:00 UTC);
   - apre una **issue su GitHub** con i nuovi bandi trovati (GitHub ti invia
     un'email di notifica);
   - archivia tutto lo storico in `dati/risultati.md`.

@@ -173,8 +173,8 @@ def scrivi_archivio(nuovi: list[dict], quando: str) -> None:
 
 
 def scrivi_notifica(nuovi: list[dict], quando: str) -> None:
-    righe = [f"Trovati **{len(nuovi)}** nuovi bandi/avvisi per formatori "
-             f"(ricerca del {quando}).", ""]
+    righe = [f"@panpauline — trovati **{len(nuovi)}** nuovi bandi/avvisi per "
+             f"formatori (ricerca del {quando}).", ""]
     for r in nuovi:
         righe.append(f"### [{r['titolo']}]({r['url']})")
         if r["snippet"]:
