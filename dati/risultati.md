@@ -414,3 +414,52 @@
 - [AVVISO UNICO per la SELEZIONE PERSONALE...](https://docs.issgreppi.it/atto-albo/avviso-unico-la-selezione-personale-internoesterno-il-ruolo-di-n-2-formatori-esperti-nei)
   - Vai al nuovo albo pretorio. AVVISO UNICO per la SELEZIONE PERSONALE INTERNO/ESTERNO per il ruolo di n. 2 FORMATORI ESPERTI nei percorsi afferenti al progetto Titolo SiSTEMa Lecco 1. “Percorsi formativi annuali di lingua e metodo.
 
+## Ricerca del 2026-06-09 08:25 UTC
+
+- [AVVISI DI SELEZIONE ESPERTI PER CORSI DI FORMAZIONE DOCENTI](https://www.icsmontelabbate.edu.it/pagine/avvisi-di-selezione-esperti-per-corsi-di-formazione-docenti--as-2021_2022)
+  - DETERMINA Avviso di selezione per il reclutamento di FORMATORI per le azioni di sviluppo professionale del personale docente, per il corso di formazione ...
+- [AVVISO SELEZIONE ESPERTO FORMATORE “PERCORSO ...](https://www.icmoreatinelli.edu.it/2026/02/03/avviso-selezione-esperto-formatore-percorso-formativo-congiunto-zerosei)
+  - 3 feb 2026 · AVVISO per la selezione pubblica di n. 1 esperto formatore con titolo di specializzazione/ perfezionamento metodo Gordon, Orff, Schvlwerk. per ...
+- [Selezione di esperti per formazione docenti neoassunti a.s. 2024/2025](https://www.liceovoltafoggia.edu.it/avviso-pubblico-per-la-selezione-di-esperti-formatori-facilitatori-laboratori-di-formazione-per-docenti-neoassunti-a-s-2024-2025-dellambito-puglia-fg13)
+  - Avviso pubblico per la selezione di esperti formatori/facilitatori laboratori di formazione per docenti neoassunti a.s. 2024/2025 dell'ambito Puglia FG13.
+- [[PDF] AVVISO DI SELEZIONE ESPERTI PNRR DM 65:2023](https://www.liceoggalileipalermo.edu.it/wp-content/uploads/2024/12/timbro_AVVISO-DI-SELEZIONE-ESPERTI-PNRR-DM-65-2023-signed.pdf)
+  - 11 dic 2024 · Oggetto: AVVISO PROCEDURA DI SELEZIONE PER IL CONFERIMENTO DI INCARICHI. INDIVIDUALI AVENTI AD OGGETTO “FORMATORE ESPERTO PER LA ...
+- [Bando esperti formatore STEAM - E. Springer"](https://www.icsurbo.edu.it/pagine/bando-esperti-formatore-steam)
+  - Bando esperti formatore STEAM · Rete "Innova a 360°" · scuola capofila: IISS Don Tonino Bello di Tricase · Bando esperti formatori progetto PSND formazione docenti ...
+- [Decreto e avviso DI selezione esperti formatori...](https://www.buniva.edu.it/documento/decreto-e-avviso-di-selezione-esperti-formatori-e-tutor-i-interni-certificaz-linguistiche-dm65-alunni-intervento-a-pnrr-stem)
+  - Formazione docenti neoassunti – primo incontro 21 dicembre. Dislocazioni classi – 2023/2024. Graduatorie d’istituto definitive ATA.
+- [Avviso di selezione di un esperto per un corso di formazione per il ...](https://www.carafagiustiniani.edu.it/2024/01/27/avviso-di-selezione-di-un-esperto-per-un-corso-di-formazione-per-il-personale-docente)
+  - Il Dirigente Scolastico DISPONE di avviare la procedura ad evidenza pubblica di selezione, mediante comparazione per titoli, per il conferimento di contratto di lavoro autonomo ex art. 2222 e ss. del codice civile per l'esercizio della funzione di formatore esperto per il corso dal titolo: " LA DIDATTICA ORIENTATIVA E LE METODOLOGIE ATTIVE". In allegato tutti i dettagli.
+- [vcircolocerignola.edu.it](https://vcircolocerignola.edu.it/wp-content/uploads/sites/51/2026/05/FIRMATO_AVVISO_P.pdf)
+  - OGGETTO: AVVISO PER LA SELEZIONE DI ESPERTI, TUTOR E PERSONALE AMMINISTRATIVO INTERNI A QUESTA ISTITUZIONE SCOLASTICA PER LA REALIZZAZIONE DEL PIANO NAZIONALE DI RIPRESA E RESILIENZA MISSIONE 4: ISTRUZIONE E RICERCA COMPONENTE 1 – POTENZIAMENTO DELL’OFFERTA DEI SERVIZI DI ISTRUZIONE: DAGLI ASILI NIDO ALLE UNIVERSITÀ INVESTIMENTO 2.1: DIDATTICA DIGITALE INTEGRATA E FORMAZIONE ALLA ...
+- [LICEO ARTISTICO STATALE ALDO PASSONI - lapassoni.edu.it](https://lapassoni.edu.it/sito-download-file/372/all)
+  - VISTI il Decreto per l’avvio di una procedura di selezione per il conferimento di più incarichi individuali avente ad oggetto la selezione di n. 9 docenti formatori e 9 tutor per i percorsi di formazione sulla transizione digitale, nell’ambito della Missione 4 – Istruzione e ricerca - Componente 1 – Potenziamento dell’offerta dei servizi di istruzione dagli asili nido alle ...
+- [www.comprensivoserramanna.edu](https://www.comprensivoserramanna.edu.it/wp-content/uploads/2026/06/sigillo_AVVISO-DI-SELEZIONE-PEDAGOGISTA-FORMATORE-DOCENTI-signed.pdf)
+  - 1. Il presente Avviso di selezione (a seguire, anche «Avviso») è diretto al conferimento di incarico operativo individuale (a seguire, anche «Incarico») a n. 1 Formatore – Pedagogista per la per la realizzazione dei quattro percorsi formativi previsti nel Piano della formazione dei docenti, inserito nel PTOF 2025/2028 e di seguito indicati:
+- [LICEO ARTISTICO STATALE ALDO PASSONI - lapassoni.edu.it](https://lapassoni.edu.it/sito-download-file/370/all)
+  - VISTI il Decreto per l’avvio di una procedura di selezione per il conferimento di un incarico individuale avente ad oggetto la selezione di un formatore esperto per il corso di formazione STAMPA 3D e RENDERIZZAZIONE, nell’ambito della Missione 4 – Istruzione e ricerca - Componente 1 – Potenziamento dell’offerta dei servizi di istruzione dagli asili nido alle università ...
+- [ISTITUTO COMPRENSIVO DI TAVERNA - C.F. 97069280796 C.M ...](https://www.ictaverna.edu.it/wp-content/uploads/2026/06/Avviso_selezione_Esperti_e_Tutor_interni_PN_FSE_2021-2027_Agenda_Sud_3_e_allegati-1.pdf)
+  - SEDE OGGETTO: Avviso per la selezione di Personale interno per il reclutamento di n. 5 Esperti e n.5 Tutor interni - PN/FSE - Fondi Strutturali Europei – Programma Nazionale “Scuola e competenze” istruzione e del merito . 1 5 del 9 settembre 2025, Avviso 53338 del Titolo progetto: “La scuola di tutti 3° edizione”
+- [Istituto Comprensivo di Castellucchio](https://iccastellucchio.edu.it/system/files/albo/2026/14_avviso_selezione_docenti_interni_giugno_2026.pdf)
+  - Prot. (vedi segnatura) Castellucchio, 20/05/2026 Oggetto: Avviso di Selezione interna per il reclutamento di Docente Esperto e Docente Tutor per la realizzazione di n. 3 Moduli educativi e formativi ESO 4.6.
+- [Corso di formazione per docenti – Aggiornamento in materia di Salute e Sicurezza di cui all’art.37 D.L.vo 81/08. – Istituto d'Istruzione Superiore Olivelli Putelli di Darfo](https://www.olivelliputelli.edu.it/circolare/corso-di-formazione-per-docenti-aggiornamento-in-materia-di-salute-e-sicurezza-di-cui-allart-37-d-l-vo-81-08)
+  - Si pubblica l'Avviso Pubblico Selezione Personale Interno Per reclutamento di ESPERTI TUTOR per la Realizzazione del Progetto PON-FSE
+- [D.M. 219/2025 -AVVISO per la SELEZIONE PERSONALE ESTERNO di n. 4 Formatori Esperti per formazione personale scolastico e n.5 figure di Formatori Esperti per Laboratori di formazione sul campo. – Istituto Istruzione Superiore "R.L. Montalcini" – Sersale](https://www.is-sersale.edu.it/2026/06/08/d-m-219-2025-avviso-per-la-selezione-personale-esterno-per-la-selezione-di-n-4-formatori-esperti-per-formazione-personale-scolastico-e-n-5-figure-di-formatori-esperti-per-laboratori-di-formazione-s)
+  - All. B - Griglia di valutazione esperti document - 50 kb
+- [[PDF] Avviso 3 - Selezione_docenti_formatori_tutor PNRR 3.1](https://icbz4.edu.it/wp-content/uploads/sites/875/Avviso-3-Selezione_docenti_formatori_tutor-PNRR-3.1.pdf?x27941)
+  - Avviso di selezione per il conferimento di incarchi in qualità di docente e tutor, nell'ambito del PNRR - Piano Nazionale di Ripresa e Resilienza finanziato ...
+- [[PDF] avviso pubblico per la selezione esperti formatori/facilitatori ...](https://www.istitutocomprensivo-stornarellaordona.edu.it/wp-content/uploads/2024/01/timbro_protocollo_AVVISO_ESPERTI_AMBITO_a.s._2023.24_-signed.pdf)
+  - 10 feb 2024 · Visto il Dl.gs 165 del 30/03/2001;. Visto la Legge 13 luglio 2015, n. 107 “Riforma del Sistema Nazionale di Istruzione e. Formazione e ...
+- [Albo On Line – Istituto Comprensivo Statale A. Strobino](https://old.scuoledicerro.edu.it/albo-pretorio)
+  - Avviso pubblico per il conferimento dell’incarico di “Esperto della formazione" Progetto “Esperto di formazione nell’area della formazione degli insegnanti e del curricolo di-dattico” a.s. 2021/2022.
+- [AVVISO DI SELEZIONE ESPERTI FORMATORI POTENZIAMENTO ...](https://icmattei.edu.it/index.php/avviso-di-selezione-esperti-formatori-potenziamento-competenze-di-base-settembre-2025-pnrr19)
+  - Apr 29, 2026 · Stampa / Condividi Avviso_PNRR_DM 19-23 3 Laboratori Competenze di base_ Decreto avvio selezione dm 19 percorsi di potenziamento competenze di base_18072025 DECRETO CONFERIMENTO INCARICHI ESPERTI FORMATORI competenze disciplinari DM 19 24 DECRETO PUBBLICAZIONE GRADUATORIA DEFINITIVA ESPERTI FORMATORI competenze disciplinari DM 19 24
+- [PNRR-Avvio procedura per selezione di docenti-esperti ...](https://www.iispoloamantea.edu.it/documento/avvio-procedura-per-selezione-di-docenti-esperti-avviso-e-bando-d-m-170-2022-bando-del-15-maggio-2024)
+  - May 16, 2024 · Bando del 15 maggio 2024- PNRR-Avvio procedura per selezione di docenti-esperti -PERCORSI DI POTENZIAMENTO DELLE COMPETENZE DI BASE, DI MOTIVAZIONE E ACCOMPAGNAMENTO Avviso e Bando D.M 170-2022. Bando del 15 maggio 2024- .
+- [Bando interno per la selezione DI esperti interni](https://www.dodicesimosiracusa.edu.it/sites/default/files/Bando+esperti+interni.pdf)
+  - Obiettivo Specifico 10.2 – Miglioramento delle competenze chiave degli allievi, anche mediante il supporto dello sviluppo delle capacità di docenti, formatori e staff. Azione 10.2.1 Azioni specifiche per la scuola dell’infanzia (linguaggi e multimedialità – espressione creativa espressività...
+- [Bando di selezione Esperto – competenze di base – IPSEOA...](https://alberghieropastore.edu.it/1841)
+  - Docenti.La documentazione deve essere inviata alla scuola entro e non oltre le ore 23.59 del 02/02/2026. Documenti. Avviso di selezione esperti competenze di base PNRR. pdf - 806 kb.
+- [Lettere di Incarico per personale interno esperto formatore nei...](https://www.dannunziolanciano.edu.it/2023/11/08/lettere-di-incarico-per-personale-interno-esperto-formatore-nei-percorsi-di-potenziamento-delle-competenze-di-base-di-motivazione-e-di-accompagnamento)
+  - Avviso per la presentazione delle candidature per la selezione degli Alunni Sc.Sec, I Grado classi II e III a.s 2025/2026 mobilità programma Erasmus PNRR D.M. 61/2023. Circolare n. 108/a.s.
+
