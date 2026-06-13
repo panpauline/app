@@ -14,6 +14,7 @@ workflow usa per aprire una issue di notifica.
 from __future__ import annotations
 
 import json
+import re
 import sys
 import time
 from datetime import datetime, timezone
@@ -70,6 +71,16 @@ KW_FIGURA = ["formator", "esperto", "esperti"]
 # Risultati massimi richiesti per ogni query.
 MAX_PER_QUERY = 25
 
+# Solo pagine indicizzate di recente: 'd'=giorno, 'w'=settimana, 'm'=mese,
+# 'y'=anno, None = nessun limite. "m" tiene gli avvisi pubblicati negli
+# ultimi ~30 giorni: tipicamente ancora aperti.
+RECENZA = "m"
+
+# Scarta URL il cui percorso contiene un anno piu' vecchio di questo. Tiene
+# l'anno corrente e quello precedente (alcuni bandi a cavallo restano aperti).
+ANNO_MIN = datetime.now(timezone.utc).year - 1
+_ANNO_NEL_PATH = re.compile(r"/(20\d{2})/\d{1,2}/")
+
 # --- Percorsi -----------------------------------------------------------------
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -117,9 +128,17 @@ def fonte_scuola(url: str) -> bool:
     return dom.endswith(".edu.it") or any(h in u for h in FONTE_SCUOLA)
 
 
+def url_troppo_vecchio(url: str) -> bool:
+    m = _ANNO_NEL_PATH.search(url)
+    return bool(m) and int(m.group(1)) < ANNO_MIN
+
+
 def e_rilevante(testo: str, url: str) -> bool:
     # Solo portali/albi delle scuole.
     if not fonte_scuola(url):
+        return False
+    # Scarta i bandi chiaramente vecchi (anno nel percorso URL).
+    if url_troppo_vecchio(url):
         return False
     t = f"{testo} {url}".lower()
     ha_figura = any(k in t for k in KW_FIGURA)
@@ -134,7 +153,8 @@ def cerca() -> list[dict]:
         for q in QUERIES:
             try:
                 risultati = ddgs.text(q, region="it-it", safesearch="off",
-                                      max_results=MAX_PER_QUERY)
+                                      max_results=MAX_PER_QUERY,
+                                      timelimit=RECENZA)
             except Exception as exc:  # rete/rate limit: prosegui con le altre query
                 print(f"[warn] query fallita: {q!r} -> {exc}", file=sys.stderr)
                 time.sleep(3)
