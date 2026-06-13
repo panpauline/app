@@ -463,3 +463,32 @@
 - [Lettere di Incarico per personale interno esperto formatore nei...](https://www.dannunziolanciano.edu.it/2023/11/08/lettere-di-incarico-per-personale-interno-esperto-formatore-nei-percorsi-di-potenziamento-delle-competenze-di-base-di-motivazione-e-di-accompagnamento)
   - Avviso per la presentazione delle candidature per la selezione degli Alunni Sc.Sec, I Grado classi II e III a.s 2025/2026 mobilità programma Erasmus PNRR D.M. 61/2023. Circolare n. 108/a.s.
 
+## Ricerca del 2026-06-13 08:16 UTC
+
+- [Formazione Docenti | CONVITTO NAZIONALE "T. TASSO..."](https://www.convittonazionalesalerno.edu.it/pagine/formazione-docenti)
+  - Formazione docenti sui verbali digitali.pdfFormazione docenti neoassunti_2019_2020Avviso di selezione individuazione esperti formatori interni Ambito SA23.pdf
+- [Avviso selezione di ESPERTI FORMATORI Azione...](https://lnx.etosi.edu.it/bandi-di-gara/avviso-selezione-di-esperti-formatori-azione-10-8-4-formazione-del-personale-della-scuola-su-tecnologie-e-approcci-metodologici-innovativi)
+  - Procedura di selezione di ESPERTI FORMATORI per l’azione formativa a valere sul Fondo Sociale Europeo, Azione 10.8.4 “Formazione del personale della scuola su tecnologie e approcci metodologici innovativi” del PON.
+- [Programma Nazionale “PN Scuola e competenze 2021-2027”...](https://www.comprensivogalilei.edu.it/documento/programma-nazionale-pn-scuola-e-competenze-2021-2027-progetto-sottoazione-eso4-6-a4-d-titolo-bussola-per-il-futuro-avviso-esterno-per)
+  - Le carte della scuola. PN 2021-27. Programma Nazionale “PN Scuola e competenze 2021-2027” – Progetto sottoazione: ESO4.6.A4.D – Titolo “Bussola per il Futuro” – AVVISO ESTERNO PER LA SELEZIONE DI n. 1 ESPERTO da impiegare nell’ambito del progetto.
+- [PN SCUOLA E COMPETENZE 2021-2027](https://www.icgualtieri.edu.it/pagine/pn-scuola-e-competenze-2021-2027)
+  - Selezione Esperto Esterno · Selezione interna Esperti/Tutor · Documenti di avvio · Azione di Disseminazione. PN SCUOLA E COMPETENZE 2021-2027. PN SCUOLE E ...
+- [Piano per la Formazione dei Docenti Referenti/Coordinatori](https://www.amatovetranosciacca.edu.it/wp-content/uploads/2020/10/Decreto-Approv.-grad.-def.-Reclutamento-Esperti-per-formazione-ed.-civica-signed.pdf)
+  - Oggetto: Reclutamento Personale per la formazione, mediante procedura comparativa di curricula, degli elenchi di Esperti, dipendenti del Ministero dell’Istruzione e del Ministero.
+- [Avviso di selezione per il reclutamento di n. 3 esperti-formatori sulle...](https://www.calvipd.edu.it/pagine/avviso-selezione-reclutamento-3-esperti-formatori-sulle-tematiche-della-salute-e-sicurezza-dei-lavoratori)
+  - Panoramica. Famiglie e studenti. Personale scolastico.annotazione_01_AVVISO PUBBLICO UNICO_Formatori sicurezza.pdf. File PDF Contatore click: 4. 02_Allegato_A_Domanda_di_partecipazione.doc.
+- [Pubblicazione Avviso di selezione per il conferimento di incarichi ...](https://www.iscapizzi.edu.it/circolare/40-pubblicazione-avviso-di-selezione-per-il-conferimento-di-incarichi-individuali-a-formatori-e-tutor-interni-pnrr-d-m-66-2023-intervento-laboratori-di-formazione-sul-campo)
+  - 40 – Pubblicazione Avviso di selezione per il conferimento di incarichi individuali a FORMATORI e TUTOR INTERNI PNRR (D.M. 66/2023) – Intervento Laboratori ...
+- [2. FORMATORI tutor competenti nel settore dell'innovazione didattica e ...](https://www.liceomangino.edu.it/avviso-unico-selezione-personale-interno-esterno-per-1-esperti-e-tutor-nei-percorsi-di-formazione-sulla-transizione-digitale-e-nei-laboratori-di-formazione-sul-campo-2-formatori-tutor-competenti-n)
+  - Si avvisa che, in Albo Pretorio ed in Amministrazione Trasparente - sez. Bandi e Gare, è pubblicato la selezione per 1. ESPERTI e TUTOR. Personale scolastico.
+- [Avviso di selezione personale interno e esterno alla Rete Ambito 8 VALLE ...](https://www.olivelliputelli.edu.it/2023/02/23/avviso-di-selezione-personale-interno-e-esterno-alla-rete-ambito-8-valle-camonica-per-esperti-formatori-dei-docenti-in-prova-2022-23)
+  - 23 feb 2023 · Si pubblica in albo pretorio l'AVVISO DI SELEZIONE per Esperti Formatori dei docenti in periodo di formazione e di prova neo-assunti 2022-23.
+- [Percorsi di potenziamento delle competenze di base, di motivazione...](https://www.fermimonticelli.edu.it/pagine/percorsi-di-potenziamento-delle-competenze-di-base-di-motivazione-e-accompagnamento)
+  - Si pubblica in allegato il decreto per l'avvio di una procedura di selezione per il conferimento di n.19 incarichi individuali, aventi ad oggetto: A) n. 16 incarichi di formatore esperto in possesso di competenze documentate sulle tematiche oggetto dei percorsi da attivare (percorsi di...
+- [[PDF] Avviso di selezione personale esperto e tutor DM 65](https://icsangiovanniboscogiordani.edu.it/wp-content/uploads/sites/727/PNRR_DM66_Avviso_selezione_Esperto_Tutor_signed.pdf?x58152)
+  - OGGETTO: Avviso unico per la selezione di personale interno/esterno in qualità di esperto e tutor per il progetto PNRR – Formazione del personale scolastico ...
+- [PNRR - Carducci San Cataldo](http://www.carduccisancataldo.edu.it/pnrr-html-0)
+  - AVVISO DI SELEZIONE ESPERTI E TUTOR PNRR AZIONI DI POTENZIAMENTO DELLE COMPETENZE STEM E MULTILINGUISTICHE-signed.
+- [Selezione esperti e tutor-pnrr D.M. 66-FORMAZIONE...](https://iccandiolo.edu.it/notizie/277-selezione-esperti-e-tutor-pnrr-dm-66-formazione-docenti)
+  - Selezione esperti e tutor-pnrr D.M. 66-FORMAZIONE docenti. Immagine profilo. da Segreteria. del martedì, 15 aprile 2025. Documenti. timbro_AVVISO INTEGRATO INTERNO ESTERNO ESPERTO TUTOR DM 66-signed.pdf.
+
