@@ -492,3 +492,68 @@
 - [Selezione esperti e tutor-pnrr D.M. 66-FORMAZIONE...](https://iccandiolo.edu.it/notizie/277-selezione-esperti-e-tutor-pnrr-dm-66-formazione-docenti)
   - Selezione esperti e tutor-pnrr D.M. 66-FORMAZIONE docenti. Immagine profilo. da Segreteria. del martedì, 15 aprile 2025. Documenti. timbro_AVVISO INTEGRATO INTERNO ESTERNO ESPERTO TUTOR DM 66-signed.pdf.
 
+## Ricerca del 2026-06-17 09:25 UTC
+
+- [Avviso di selezione pubblica integrato e rivolto a figure professionali](https://www.donmilani.edu.it/categoria/circolari-docenti/5647/avviso-di-selezione-pubblica-integrato-e-rivolto-a-figure-professionali-esperti-formatori-per-lo-svolgimento-di-percorsi-di-formazione-e-laboratori-sul-campo)
+  - 18 ore fa · Avviso di selezione pubblica integrato e rivolto a figure professionali "esperti formatori" per lo svolgimento di percorsi di formazione e laboratori sul campo ...
+- [AVVISO DI SELEZIONE ESPERTI FORMATORI PER LE ...](https://www.liceoclassicorendecs.edu.it/avviso-di-selezione-esperti-formatori-per-le-certificazioni-cambrigde-b1-b2-c1)
+  - 18 mag 2026 · AVVISO DI SELEZIONE ESPERTI FORMATORI PER LE CERTIFICAZIONI CAMBRIGDE B1, B2, C1. AVVISO PER L'INDIVIDUAZIONE DI ESPERTI INTERNI, COLLABORAZIONI PLURIME E ...
+- [Sitemap - Istituto Comprensivo "N. Nicolini"](https://www.istitutocomprensivorsognatollo.edu.it/sitemap)
+  - 18 mag 2026 · Avviso di selezione per esperti formatori e tutor per conferimento di n. 6 incarichi individuali per “Realizzazione di percorsi di potenziamento delle ...
+- [Formazione #28 PNSD IC di Casalpusterlengo](https://www.circolovaccalluzzo.edu.it/images/allegati/avviso-di-selezione-esperto+formatore+pnsd.pdf)
+  - Oggetto: Avviso di selezione per il reclutamento di docenti esperti formatori per la “Formazione interna” relativa all’Azione#28 del “Piano nazionale per la scuola digitale”.
+- [Avviso n. 51 – Avviso Pubblico Selezione...](https://www.alberghierorieti.edu.it/avviso-n-51-avviso-pubblico-selezione-docenti-formatori-esperti-per-i-percorsi-its-biennio-2024-2026)
+  - Home. 3-BANDI DI gara. 2-AVVISI personale. 0-TUTTI gli avvisi. Avviso n. 51 – Avviso Pubblico Selezione Docenti/Formatori/Esperti per i percorsi ITS Biennio 2024/2026.
+- [Avviso per selezione esperti esterni per attività di DOCENZA - IISS "Enrico Medi" - Palermo](https://www.iissenricomedi.edu.it/avviso-per-selezione-esperti-esterni-per-attivita-di-docenza)
+  - 1 week ago - Avviso All.A_Domanda_part_ ESPERTO ESTERNO per corso qualifica OSS All.B_Dichiarazione_assenza_conflitto_Incaricato
+- [Avviso pubblico di selezione esperti per incarichi di docenza percorso formativo - ISTITUTO D'ISTRUZIONE SUPERIORE "Francesco Crispi" - Ribera](https://www.istitutosuperiorecrispiribera.edu.it/avviso-pubblico-di-selezione-esperti-per-incarichi-di-docenza-percorso-formativo)
+  - 3 weeks ago - Avviso pubblico di selezione esperti per incarichi di docenza percorso formativo per la qualifica OSS alunni indirizzo SAS
+- [Avviso interno URGENTE per la selezione di un esperto sostituto per il modulo Apprendo e comprendoPA - Istituto Comprensivo Statale “Giosué Carducci” – PORTO AZZURRO](https://www.icportoazzurro.edu.it/avviso-interno-urgente-per-la-selezione-di-un-esperto-sostituto-per-il-modulo-apprendo-e-comprendopa)
+  - 3 weeks ago - timbro_AVVISO DI SELEZIONE INTERNO AGENDA NORD URGENTE PER SOSTITUZIONE ADINOLFI apprendo e comprendo PA-signed ALLEGATO A esperto ALLEGATO B esperto
+- [Progetto PN FSE+ avv. 53338/2026 "Agenda Sud 2026 - Colmiamo i divari” - Avviso selezione personale docente interno - Istituto Comprensivo Polo 2](https://www.icgalatonepolo2.edu.it/2026/05/27/progetto-pn-fse-avv-53338-2026-agenda-sud-2026-colmiamo-i-divari-avviso-selezione-personale-docente-interno)
+  - 2 weeks ago - PN FSE+ avv. 53338/2026 "Agenda Sud 2026 - Colmiamo i divari” - Avviso selezione personale docente interno - esperti, tutor, docente sostegno, delegato DS
+- [Graduatoria definitiva della procedura di selezione per il conferimento di incarichi individuali - I.C. Campodipietra](https://www.scuolacampodipietra.edu.it/site/2026/05/20/20260520085714unidos)
+  - 1 month ago - Agenda sud – Fase 2 (D.M. 106/2025) Titolo: Next Generation School & Skills CUP: E54D25007560006 Codice progetto: M4C1I1.4-2025-1685-P-61931 Graduatoria definitiva della procedura di selezione per il conferimento di incarichi individuali avente ad oggetto la selezione ed il reclutamento di personale docente interno/esterno all'Istituto per la figura di esperto il controllo del rispetto dei principi DNSH e la verifica del CAM per la realizzazione del progetto “Next Generation School & Skills”. Avviso prot.
+- [Avviso di selezione interna di esperti e tutor per n2 moduli di musica scuola primaria/secondaria - Istituto Comprensivo Statale Monti-Oschiri](https://www.icmontioschiri.edu.it/avviso-di-selezione-interna-di-esperti-e-tutor-per-n2-moduli-di-musica-scuola-primaria-secondaria)
+  - 1 month ago - Avviso di selezione interna di esperti e tutor per n.2 moduli di musica alla scuola primaria/secondaria - Progetto FSE - cd.
+- [Avviso per selezione esperto interno/esterno - IISS "Enrico Medi" - Palermo](https://www.iissenricomedi.edu.it/avviso-per-selezione-esperto-interno-esterno)
+  - 2 weeks ago - Avviso per selezione esperto interno/esterno per la Direzione del corso OSS codice IPSSAS OSS 03 2025
+- [PIANO ESTATE: PN “Scuola e competenze” 2021-2027 – Piano...](https://www.fermicecina.edu.it/piano-estate-pn-scuola-e-competenze-2021-2027-piano-estate-2025)
+  - _ AVVISO DI SELEZIONE DOCENTI INTERNI – PN “Scuola e competenze” 2021-2027 – Piano Estate 2025 – Titolo progetto: FerMenti- Laboratorio ceramica. timbro_FIRMATO_AVVISO INTERNO ESPERTI E TUTOR – lab.ceramica.
+- [[PDF] Programma Nazionale “Scuola e competenze” 2021-2027 – Fondo](https://isfalcone.edu.it/wp-content/uploads/2026/06/PIANO-ESTATE-II-BANDO-AUTOCAD-DOCENTE-ESPERTO-TUTOR.pdf)
+  - 3 giorni fa · OGGETTO: AVVISO INTERNO PER LA SELEZIONE DI ESPERTI E TUTOR A VALERE SUL MODULO ... PN Scuola e competenze 2021-2027" per il sostegno a titolo del Fondo europeo ...
+- [AVVISO SELEZIONE ESPERTI TUTOR AGENDA SUD - Istituto comprensivo "Giovanni Pascoli" Benevento](https://icpascolibenevento.edu.it/avviso-selezione-esperti-tutor-agenda-sud)
+  - 1 week ago - AVVISO_SELEZIONE_ESPERTI_TUTOR_AGENDA_SUD-_DM_175_2025-_FSE_PLUS_PN_SCUOLA_E_COMPETENZE_21-27.pdf.pa pdf - 948 kb
+- [Convocazione Collegio dei docenti - Liceo Sciascia Fermi](https://www.liceosciasciafermi.edu.it/circolare/circolare-n-332-2026a)
+  - 8 giorni fa · Avviso 95165 del 24/04/2026 per azioni rivolte alla formazione del ... PN “Scuola e competenze” 2021 2027, fondo FSE+: Criteri di selezione esperti; ...
+- [Candidatura FLASH personale interno per l’individuazione di RUOLI DISPONIBILI (Figure di Supporto, Esperti Formatori e Tutor) alla realizzazione del progetto PN 21-27 AGENDA NORD - IC Via Merope](https://www.icviamerope.edu.it/circolare/candidatura-flash-personale-interno-per-lindividuazione-di-ruoli-disponibili-figure-di-supporto-esperti-formatori-e-tutor-alla-realizzazione-del-progetto-pn-21-27-agenda-nord)
+  - 1 day ago - Sorry, but you do not have permission to view this content.
+- [AVVISO per la Procedura di selezione docente interno per affiancamento esperto nelle attività formative e laboratoriali - Progetto ITACA - Laboratorio Orto e Territorio - Codice progetto 2023-PE3-00438 CUP: J64C23000710004. - Istituto Omnicomprensivo del Fortore Riccia-S.Elia](https://www.omnicomprensivodelfortore.edu.it/20260605175003unidos)
+  - 2 weeks ago - AVVISO per la Procedura di selezione docente interno per affiancamento esperto nelle attività formative e laboratoriali – Progetto ITACA – Laboratorio Orto e Territorio – Codice progetto 2023-PE3-00438 CUP: J64C23000710004. – 3_ALLEGATO_A_B_Domanda_DOCENTI_AFFIANCAMENTO_LABORATORI...
+- [Avviso selezione Esperti-Tutor-Figura Aggiuntiva progetto Piano Estate - ISTITUTO D'ISTRUZIONE SUPERIORE "U. FOSCOLO" - TEANO-SPARANISE](https://www.foscoloteano.edu.it/avviso-selezione-esperti-tutor-figura-aggiuntiva-progetto-piano-estate)
+  - 2 days ago - FIRMATO avviso unico selezione esperti tutor fig.
+- [CIRCOLARE N 235_Candidatura personale interno per l’individuazione di Figure di Supporto, Esperti Formatori e Tutor per la realizzazione del progetto PN 21-27 AGENDA NORD - Progetto: IC Via Merope "Verso Nuovi Traguardi" - IC Via Merope](https://www.icviamerope.edu.it/circolare/circolare-n-235_candidatura-personale-interno-per-lindividuazione-di-figure-di-supporto-esperti-formatori-e-tutor-per-la-realizzazione-del-progetto-pn-21-27-agenda-nord-progetto-ic-via-me)
+  - 2 weeks ago - Sorry, but you do not have permission to view this content.
+- [Progetti PNRR - avvisi - Istituto Omnicomprensivo F.lli Agosti](https://www.istagosti.edu.it/pagine/pogetti-pnrr---avvisi)
+  - 21 mag 2026 · AVVISO DI SELEZIONE PER IL CONFERIMENTO DI N. 24 INCARICHI AVENTI AD OGGETTO: N. 5 ESPERTI FORMATORI PER PERCORSI DI FORMAZIONE SULLA TRANSIZIONE DIGITALE - N.
+- [Avviso di selezione per il ruolo di TUTOR/ESPERTI nei percorsi...](https://docs.issgreppi.it/atto-albo/avviso-di-selezione-il-ruolo-di-tutoresperti-nei-percorsi-afferenti-al-progetto-pnrr)
+  - Categoria Albo pretorio: Documenti altre P.A. Numero di protocollo2024000192-avviso-selezione-esperti-e-tutor.pdf. 1.13 MB.
+- [PDF Manifestazione Di Interesse All 'Inserimento Nell 'Albo Dei Formatori ...](https://www.latinaformazione.it/wp-content/uploads/2026/05/Avviso-Pubblico_Albo_Formatori_2026_-2027-signed.pdf)
+  - L'albo dei formatori viene istituito per l'anno formativo 2026-2027, ha durata annuale e cessa la propria validità con la conclusione dell'anno scolastico/formativo sopra indicato, salvo motivate esigenze straordinarie.
+- [PON | IISS Ettore Majorana](https://mail.ettoremajorana.edu.it/classificazione-risorsa/pon)
+  - Avviso selezione personale interno gestione progetto Una scuola per tutti. Posted in. Docenti. PON. Albo pretorio.Avviso selezione formatori esperti e tutor - PON Formazione in servizio all'innovazione didattica e organizzativa.
+- [Tutte le news - Istituto Comprensivo Statale](https://www.istitutocomprensivovittorioveneto.edu.it/tutte-le-news)
+  - 22 mag 2026 · AVVISO DI SELEZIONE PERSONALE INTERNO DOCENTE E TUTOR 07/03/2025 ... Avviso interno per la selezione di formatori tutor della comunità di pratica 12/07/2024 ...
+- [Incarico esperto formatore e tutor dm 66 | Convitto Nazionale...](https://www.convittogbvico.edu.it/pagine/incarico-esperto-formatore-e-tutor-dm-66)
+  - Avviso di selezione per il reclutamento di due docenti per attività di potenziamento recuperop e inclusione- progetto "Insieme è meglio". Incarico per la realizzazione dei percorsi di potenziamento delle competenze di base, di motivazione e accompagnamento - LCA.
+- [Avviso di Selezione Esperti e Tutor - Programma Nazionale "Scuola e ...](https://icpaganico.edu.it/comunicati/951-avviso-di-selezione-esperti-e-tutor-programma-nazionale-scuola-e-competenze-2021-2027)
+  - Si comunica che è stato pubblicato l'Avviso pubblico per il reclutamento di figure professionali (Esperti e Tutor, sia interni che esterni) finalizzato alla realizzazione di percorsi formativi per gli alunni della Scuola Primaria e della Scuola Secondaria di I grado. L'iniziativa rientra nel PN "Scuola e competenze" 2021-2027 (Priorità 01, Azione ESO4.6.A1, Sotto-azione ESO4.6.A1.B) ed è ...
+- [Avviso di selezione docenti interni progetto IEP - mentoring e ...](https://www.pascalroma.edu.it/avviso-di-selezione-docenti-interni-progetto-iep-mentoring-e-potenziamento)
+  - È stato pubblicato su Albo on line o amministrazione trasparente sezione personale sottosezione Incarichi dirigenti e non dirigenti AVVISO MENTORING E ESPERTO corsi recupero e potenziamento e mentoring finanziati con Fondi IEP
+- [Verbale commissione per la valutazione delle istanze per la selezione ...](https://icdiazmeda.edu.it/avcp/verbale-commissione-per-la-valutazione-delle-istanze-per-la-selezione-di-esperti-tutor-e-figure-aggiuntive-relativamente-riferito-allavviso-prot-57173-del-14-04-2025-d-m-233-2024-orientament)
+  - Verbale commissione per la valutazione delle istanze per la selezione di ESPERTI, TUTOR E FIGURE AGGIUNTIVE relativamente riferito all'Avviso Prot. 57173 del 14-04-2025, D.M. 233/2024- ORIENTAMENTО, emanato nell'ambito dell'OBIETTIVO ESO4.6 del Programma Nazionale "Scuola e competenze"- PN 2021-2027 - PROGETTO: "SCOPRIRE TALENTI"
+- [PNRR D.M. 66-2023 Selezione esperto formatore per corso tinkering...](https://www.icbricherasio.edu.it/scheda-progetto/pnrr-d-m-66-2023-selezione-esperto-formatore-per-corso-tinkering)
+  - Avviso di selezione per il conferimento di incarichi individuali in qualità di esperti formatori e di tutor per lo svolgimento di un corso di tinkering per docenti della scuola dell’infanzia, in presenza.
+- [AVVISO INTERNO RECLUTAMENTO ESPERTI PNRR SNODI FORMATIVI - ISTITUTO COMPRENSIVO STATALE "S. MARIA A VICO"](https://www.scuolasantamariavico.edu.it/avviso-interno-reclutamento-esperti-pnrr-snodi-formativi)
+  - 2 days ago - G1.01.1 Allegato 1 Istanza di partecipazione ok Download G1.01.2 Allegato 2 - Dichiarazione sostitutiva Download G1.01.3 Allegato 3 - Scheda di autovalutazione ok Download G1.01.4 Allegato 4 - Dichiarazione di inesistenza di incompatibilità ok Download FIRMATO_G1.01 […]
+
