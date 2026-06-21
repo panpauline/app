@@ -557,3 +557,58 @@
 - [AVVISO INTERNO RECLUTAMENTO ESPERTI PNRR SNODI FORMATIVI - ISTITUTO COMPRENSIVO STATALE "S. MARIA A VICO"](https://www.scuolasantamariavico.edu.it/avviso-interno-reclutamento-esperti-pnrr-snodi-formativi)
   - 2 days ago - G1.01.1 Allegato 1 Istanza di partecipazione ok Download G1.01.2 Allegato 2 - Dichiarazione sostitutiva Download G1.01.3 Allegato 3 - Scheda di autovalutazione ok Download G1.01.4 Allegato 4 - Dichiarazione di inesistenza di incompatibilità ok Download FIRMATO_G1.01 […]
 
+## Ricerca del 2026-06-21 08:53 UTC
+
+- [Avviso pubblico di selezione per il conferimento di incarichi di docenti ESPERTI e TUTOR - Istituto Comprensivo Statale 2 Chieti](https://www.comprensivo2chieti.edu.it/avviso-pubblico-di-selezione-per-il-conferimento-di-incarichi-di-docenti-esperti-e-tutor)
+  - 2 days ago - Avviso pubblico di selezione per il conferimento di incarichi di docenti ESPERTI e TUTOR – PON 21/27 Formazione Docenti – Avviso MIM 95165 del 24/04/2026 timbro_AVVISO pubblico docenti ESPERTI e TUTOR pon formazione docenti-signed Allegato ...
+- [Esami di Stato 2025/26 - ISTITUTO D'ISTRUZIONE SUPERIORE "Francesco Crispi" - Ribera](https://www.istitutosuperiorecrispiribera.edu.it/esami-di-stato-2025-26)
+  - 2 weeks ago - Avviso pubblico di selezione esperti per incarichi di docenza percorso formativo per la qualifica OSS alunni indirizzo SAS
+- [BANDO RECLUTAMENTO ESPERTO PER PROGETTI PET E FIRST 2026/27 - SCADENZA 4 LUGLIO 2026 - Istituto Tecnico Tecnologico Statale "G. Marconi"](https://www.ittsmarconiforli.edu.it/bando-reclutamento-espero-per-progetti-pet-e-first-2026-27-scadenza-4-luglio-2026)
+  - 3 days ago - Allegato A_MODULO DI DOMANDA Avviso Pubblico per esperto madrelingua pet-first 26-27
+- [BANDO RECLUTAMENTO ESPERTO PSICOLOGO PER SPORTELLO C.I.C. 2026/27 - SCADENZA 4 LUGLIO 2026 - Istituto Tecnico Tecnologico Statale "G. Marconi"](https://www.ittsmarconiforli.edu.it/bando-reclutamento-esperto-psicologo-per-sportello-c-i-c-2026-27-scadenza-4-luglio-2026)
+  - 3 days ago - Allegato A Avviso Pubblico per SPORTELLO CIC 2026.2027
+- [Progetto FSE ESO4.6.A1.B-FSEPN-AB-2026-187](https://chieti4comprensivo.edu.it/pn-scuola-e-competenze-2021-2027/progetto-fse-eso4-6-a1-b-fsepn-ab-2026-187-avviso-53338-del-09-03-2026-agenda-sud-a-s-2025-2026-e-2026-2027)
+  - 29 mag 2026 · AVVISO DI SELEZIONE INTERNO ESPERTI E TUTOR ESO4.6.A1.B-FSEPN-AB-2026-187 ... PN 21-27. Scuola futura · PON · Por FSE Abruzzo 2014-2020 · Pago in Rete
+- [DM 38 - DOCENTI IN FORMA....ZIONE - PN FONDI STRUTTURALI EUROPEI - Istituto Comprensivo Statale "88° E. De Filippo"](https://www.ics88eduardodefilippo.edu.it/pon/dm-38-docenti-in-forma-zione-pn-fondi-strutturali-europei)
+  - 4 days ago - AVVISO ESPERTI E TUTOR PN FORMAZIONE · Avviso selezione Docenti discenti · Decreto Avvio selezione FIGURE GESTIONALI PN · Avviso Figure gestionali PN Formazione Docenti · Pubblicato: 15.06.2026 - Revisione: 17.06.2026 ·
+- [Decisione a contrarre selezione esperto modulo "Geo Lab: Dalla Terra all'uomo" - Istituto Comprensivo Statale "G. Racioppi" Moliterno](https://www.icmoliterno.edu.it/decisione-a-contrarre-selezione-esperto-modulo-geo-lab-dalla-terra-alluomo)
+  - 1 day ago - Decisione a contrarre di avvio del procedimento, attraverso Avviso pubblico, di selezione docente esperto modulo “GEO LAB: DALLA TERRA ALL’UOMO” – Sezione “ Ambiente, foreste e biodiversità” A.S.
+- [PNRR Snodi formativi per la transizione digitale sull’utilizzo dell’intelligenza artificiale - Istituto Comprensivo Statale Ungaretti - Madre Teresa di Calcutta](https://www.ungaretti-madreteresa.edu.it/pnrr-snodi-formativi-per-la-transizione-digitale-sullutilizzo-dellintelligenza-artificiale)
+  - 4 weeks ago - Codice Progetto: M4C1I2.1-2026-1745-P-66483 · CUP: B34D25006430006 · Avviso e documentazione: timbro_Avviso pubblico e alleg. A-B-B1-C-D per la selezione di Esperti-Formatori-Tutor progetto McCarthy PNRR Snodi formativi per la transi (1) Allegati A-B-B1-C-D · Allegato E – Piano formazione docenti 2026 – 2027 (1) Pubblicato: 27.05.2026 - Revisione: 27.05.2026 ·
+- [AVVISO DI SELEZIONE ESPERTO E TUTOR 3 MODULI - PN21-27 - eSTATE CON NOI 3 - Istituto Comprensivo Statale “Giosué Carducci” – PORTO AZZURRO](https://www.icportoazzurro.edu.it/avviso-di-selezione-esperto-e-tutor-3-moduli-pn21-27-estate-con-noi-3)
+  - 2 days ago - Avviso interno URGENTE per la selezione di un esperto sostituto per il modulo Apprendo e comprendoPA · Contributo per l'acquisto dei libri di testo. Isee fino a 15.800 € · Avviso INTERNO per la selezione di personale docente da impiegare nella formazione del personale sui Disturbi Specifici di Apprendimento · CIRCOLARE N. 118 - Proclamazione sciopero nazionale del 27 marzo 2026 · AVVISO RECLUTAMENTO INTERNI ED ESTERNI PER ATTUAZIONE POF A.S.
+- [Novità – IC Migliarina Centro](https://iccentromigliarinamotto.edu.it/novita)
+  - 10 giu 2026 · Docente. 0. Avviso interno/esterno. Avviso interno/esterno per la selezione di un esperto formatore per il rafforzamento delle competenze della segreteria.
+- [Archivi Le carte della scuola - I.I.S.S. "E. Majorana" Avola](https://www.istitutomajoranaavola.edu.it/documento)
+  - 29 mag 2026 · Avviso pubblico di selezione per esperti formazione docenti. Avviso pubblico di selezione per esperti formazione docenti Progetto Pilota per la prevenzione ...
+- [Istituzione dell'Albo Formatori e Formatrici delle Lingue Seconde | Università degli studi dell'Insubria](https://www.uninsubria.it/bandi-e-concorsi/istituzione-dellalbo-formatori-e-formatrici-delle-lingue-seconde)
+  - 2 weeks ago - Destinatari: Post lauream, Professori, Ricercatori, Personale tecnico amministrativo, Consulenti, collaboratori e docenti esterni · Tipologia: Altri bandi/opportunità, Altri bandi/opportunità , Altri bandi/opportunità ... Il Centro Linguistico di Ateneo - CLA Insubria istituisce l'Albo dei Formatori e delle Formatrici delle Lingue Seconde per attività di formazione linguistica rivolte a studenti, personale universitario, cittadinanza, enti e imprese.
+- [Sitemap - Istituto Comprensivo Statale](https://www.istitutocomprensivomasci.edu.it/sitemap)
+  - 3 giu 2026 · FeNSIR – Albo Unico Formatori della Federazione Sindacale – invito ad aderire ... Albo Pretorio on line · Amministrazione Trasparente · Adempimenti AVCP / ANAC ...
+- [PON AGENDA SUD – Bando selezione Tutor, Esperti, Referenti...](https://www.4circololecce.edu.it/pon-agenda-sud-bando-selezione-tutor-esperti-referenti-valutazione)
+  - In allegato: Avviso per docenti tutor d’aula, esperti, referenti alla valutazione Allegato a _ b Bando Tutor – Esperto_ref val Dir. Did. 4 Circolo_agenda sud Riepilogo moduli – 10.2.2A Competenze di base F84D23005200001 10.2.2A-FSEPON-PU-2024-143 RIGENERAZIONE DEI […]
+- [AVVISO DI SELEZIONE per il reclutamento, tra il solo personale ...](https://www.sciasciaebufalino.edu.it/circolare/avviso-di-selezione-per-il-reclutamento-tra-il-solo-personale-interno-allistituto-di-un-docente-formatore-in-materia-di-salute-e-sicurezza-sul-lavoro-d-lgs-81-08-destinato-agli-studenti)
+  - 9 giu 2026 · AVVISO DI SELEZIONE per il reclutamento, tra il solo personale interno all'istituto, di un docente/formatore, in materia di salute e sicurezza sul lavoro.
+- [Istituto comprensivo “S.g.bosco”](https://www.boscobarrafranca.edu.it/sites/default/files/imgCaricate/73/http___www.boscobarrafranca.gov.it_/www.boscobarrafranca.gov.it/storage/143/bandoesperti.pdf)
+  - Potenziamento delle competenze di base. Docente di scuola primaria. Innalzamento dei livelli. di competenza Docente/ Esperto in. n. 18 alunni. disciplinare mediante Matematica, Arte e.
+- [[PDF] Biccari, 03/06/2026 All'Albo Online Al Sito Web d'Istituto Agli Atti OGGETTO](https://www.icroseti-montidauni.edu.it/wp-content/uploads/2026/06/FIRMATO_AVVISO_PER_PROCEDURE_DI_LA_SELEZIONE_DI_ESPERTI_TUTOR_GLOBAL_RHYTHMS_English_through_Music.p.pdf)
+  - 3 giu 2026 · Il presente bando è finalizzato all'individuazione, tra il personale interno dell'Istituzione Scolastica e in subordine esterno, di esperti/tutor per la ...
+- [Albo - IC Perugia 8](https://istitutocomprensivoperugia8.edu.it/albo)
+  - 29 mag 2026 · Avviso Selezione Esperto e Tutor interno/esterno (15 luglio 2025) DM 66 · Allegato 1 – Istanza di partecipazione e dichiarazione possesso requisiti · Allegato 2 ...
+- [News! | Istituto Comprensivo Alfonso Gatto Battipaglia](https://www.istitutocomprensivogatto.edu.it/pagine/news)
+  - 8 giu 2026 · 28/02/2024 - Pubblicati in PON/AGENDA SUD gli Avvisi di selezione per esperti e tutor per il progetto "Crescere competenti" - codice 10.2.2A-FSEPON-CA-2024-111 ...
+- [Test | Istituto Statale di Istruzione Superiore Guglielmo Oberdan](https://oberdan.edu.it/test)
+  - 8 giu 2026 · In scadenza - Avviso di selezione per il reperimento di un esperto interno ed esterno all'Istituzione scolastica cui conferire incarico per webinar di ...
+- [STANZA SNOEZELEN: MENS SANA IN CORPORE SANO](https://www.ictattolidegasperi.edu.it/2026/06/18/stanza-snoezelen-mens-sana-in-corpore-sano)
+  - 3 giorni fa · Bando per la selezione di un esperto esterno per la formazione del personale scolastico all'acquisizione di nuove competenze per la transizione digitale ...
+- [Mappa del sito - Istituto comprensivo Devitofrancesco](https://www.icgrumo.edu.it/index.php?option=com_xmap)
+  - 25 mag 2026 · Selezione di formatori interni Cittadinanza globale A.S. 2022/2023. Selezione di formatori interni inclusione A.S. 2022/2023. Seminario RSU_FLC ...
+- [Circolari | Istituto Comprensivo Alfonso Gatto Battipaglia](https://www.istitutocomprensivogatto.edu.it/pagine/circolari)
+  - 12 giu 2026 · 05/11/2025 - AVVISO DI SELEZIONE ESPERTO-Agenda Sud II edizione. ... 02/07/2024 - Decreto avvio selezione N 1 formatore Erasmus + - Avviso Selezione formatore ...
+- [Avviso DI selezione per L’individuazione DI esperti...](https://icandreottipescia.edu.it/circolare/avviso-di-selezione-per-lindividuazione-di-esperti-formatori-interni-pnrr-animatori-digitali)
+  - di partecipare alla selezione prevista dall’Avviso in oggetto. Il/La Sottoscritto/a, consapevole della responsabilità penale e della decadenza da eventuali benefici, ai sensi del D.P.R. 445/2000CIRC.82 - Avviso per la selezione esperti - PNRR Animatori digitali. pdf - 466 kb.
+- [Istituto Comprensivo "Gaudenzio Ferrari" - Momo (NO)](https://isticomomo.edu.it)
+  - 3 giorni fa · Piano Scuola Estate - 11 giugno 2026 - 24 giugno 2026 - proroga termini selezione esperti - tutor - figure aggiuntive ... Progetto PN 21/27 - FSE Avviso 95165/ ...
+- [PON FSE – FESR - Istituto Comprensivo Statale “G. Pascoli](https://www.icpascolidestefano.edu.it/pon-fse-fesr)
+  - 6 giorni fa · Avviso FORMAZIONE DEL PERSONALE DOCENTE (Protocollo n. 95165 del 24/04/2026) ... Avviso interno per la selezione di ESPERTO INTERNO-Progetto ESO4.6.A4.A ...
+
