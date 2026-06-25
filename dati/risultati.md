@@ -612,3 +612,50 @@
 - [PON FSE – FESR - Istituto Comprensivo Statale “G. Pascoli](https://www.icpascolidestefano.edu.it/pon-fse-fesr)
   - 6 giorni fa · Avviso FORMAZIONE DEL PERSONALE DOCENTE (Protocollo n. 95165 del 24/04/2026) ... Avviso interno per la selezione di ESPERTO INTERNO-Progetto ESO4.6.A4.A ...
 
+## Ricerca del 2026-06-25 08:16 UTC
+
+- [AVVISO PER LA SELEZIONE DI PERSONALE PER IL RUOLO DI ...](https://www.icportoromano.edu.it/circolare/avviso-per-la-selezione-di-personale-per-il-ruolo-di-tutor-esperti-pn-scuola-formazione-docenti)
+  - 8 giorni fa · 755 -AVVISO PER LA SELEZIONE DI PERSONALE PER IL RUOLO DI TUTOR - ESPERTI PN Scuola - FORMAZIONE DOCENTI · Download. Pubblicato: 17.06.2026 - Revisione: ...
+- [Avviso per la selezione di Docenti Esperti interni PN Scuola e Competenza PIANO ESTATE 2026-2027 Per - Istituto Istruzione Superiore "Besta-Gloriosi"](https://www.bestagloriosi.edu.it/avviso-per-la-selezione-di-docenti-esperti-interni-pn-scuola-e-competenza-piano-estate-2026-2027-per)
+  - 3 days ago - Avviso per la selezione di Docenti Esperti interni PN Scuola e Competenza PIANO ESTATE 2026-2027 Percorsi di crescita ed inclusione
+- [AVVISO PUBBLICO PER LA SELEZIONE DI DOCENTI ESPERTI – TUTOR INTERNI – FIGURE AGGIUNTIVE - Centro Provinciale Istruzione Adulti Isernia](https://www.cpiaisernia.edu.it/20260622154601unidos)
+  - 3 days ago - AVVISO PUBBLICO PER LA SELEZIONE DI DOCENTI ESPERTI – TUTOR INTERNI – FIGURE AGGIUNTIVE – ALLEGATO_B_-_BANDO_PIANO_ESTATE.docx– ALLEGATO_C_-_BANDO_PIANO_ESTATE.docx– ALLEGATO_A_BANDO_PIANO_ESTATE.docx– AVVISO_DI_SELEZIONE_BANDO_PIANO_ESTATE_2026_signed.pdf
+- [[PDF] Istituto Comprensivo "Giorgio La Pira"](https://www.iclapira.edu.it/system/files/albo/2026/decreto-di-avvio-procedura-selezione-int-est-1.pdf)
+  - 5 giu 2026 · 1 esperto formatore per l'attivita di. “Laboratori formativi sul campo per docenti con il coinvolgimento degli studenti”, per l'attuazione di azioni integrate ...
+- [AVVISO di selezione comparativa per ESPERTI e TUTOR - DM 38/ ...](https://www.icponso.edu.it/avviso-pubblico-di-selezione-comparativa-dm-38-2026-pn-scuola-e-competenze-21-27)
+  - 3 days ago · volto alla selezione e al reclutamento di figure professionali per il conferimento di incarichi di ESPERTO e TUTOR, finalizzati alla realizzazione di n. 2 moduli formativi rivolti ai docenti dell’Istituto, della durata di 30 ore ciascuno, mediante procedura comparativa per titoli ed esperienze.
+- [PN “Scuola e competenze” 2021-2027 - Agenda Nord](https://www.icdelprete.edu.it/index.php/pon/226-pn/1570-pn-scuola-e-competenze-2021-2027-agenda-nord)
+  - Jun 3, 2026 · Procedura selezione esperti interni/collaborazioni plurime incarichi Esperti/Tutor/Figura Aggiuntiva
+- [Percorsi educativi e formativi per il potenziamento delle competenze...](https://www.comprensivomontesanpietro.edu.it/pagine/pn-scuola-e-competenze-2021-2027)
+  - Avviso Pubblico di selezione Esperti - PN Scuola e competenze 2021.2027.pdf.File PDF Contatore click: 6. Disseminazione iniziale delle azioni per la realizzazione del PN Scuola e competenze 2021..pdf.
+- [Progetto FSE ESO4.6.A4.A-FSEPN-AB-2024-95](https://chieti4comprensivo.edu.it/pn-scuola-e-competenze-2021-2027/progetto-fse-eso4-6-a4-a-fsepn-ab-2024-95-piano-estate-pn-21-27)
+  - 17 giu 2026 · ... PN SCUOLA E COMPETENZE 21-27 · AVVISO INTERNO PER LA SELEZIONE DI DOCENTI ESPERTI, TUTOR E FIGURA DI SUPPORTO AGGIUNTIVA A VALERE SUL PROGETTO · REITERAZIONE ...
+- [Circolare](https://www.convittocagliari.edu.it/phocadownload/Circ.25-26_201-300/circ_276_.pdf)
+  - Oggetto: pubblicazione all’albo decreto di avvio e avviso di selezione interna per conferimento incarichi esperti formatori e tutor progetto “Orientiamoci” Sec. I grado – PN “Scuola e competenze” 2021-2027 (FSE+).
+- [Le circolari | Istituto Comprensivo Statale Albignasego](https://www.icalbignasego.edu.it/comunicati)
+  - Jun 18, 2026 · Circolare del 02/06/2026 Nomina della Commissione per la selezione di Formatori Esperti interni PNRR IA
+- [Avviso procedura selezione personale docente interno/esterno ...](https://www.icdeleddabosco.edu.it/it/avvisi/4203-avviso-procedura-selezione-personale-docente-interno-esterno-per-costituzione-comunita-di-pratiche-per-l-apprendimento-esperti-tutor-corsi-di-formazione-e-laboratori-sul-campo-assistente-amministrativo.html?iccaldate=2026-06-1)
+  - Jun 1, 2026 · Avviso procedura selezione personale docente interno/esterno per costituzione Comunità di Pratiche per l’Apprendimento, esperti/tutor corsi di formazione e laboratori sul campo, assistente amministrativo
+- [AVVISO PER L’INDIVIDUAZIONE DI PERSONALE INTERNO/ESTERNO IN ...](https://www.iissimoncellisora.edu.it/documento/avviso-per-lindividuazione-di-personale-interno-esterno-in-possesso-di-specifiche-professionalita-docenti-esperti-tutor-avviso-pubblico-prot-n-81652-del-23-05-2025)
+  - Jun 5, 2026 · AVVISO PER L’INDIVIDUAZIONE DI PERSONALE INTERNO/ESTERNO IN POSSESSO DI SPECIFICHE PROFESSIONALITÀ: – DOCENTI ESPERTI – TUTOR Avviso Pubblico prot. n. 81652 del 23/05/2025 – “Percorsi educativi e formativi per il potenziamento delle competenze, l’inclusione e la socialità nel periodo di sospensione estiva delle lezioni” (c.d ...
+- [PN ESO4.6.A4.A-FSEPNSI- 2025-640 “Una scuola che ti accoglie ...](https://www.salessandrarosolini.edu.it/2026/05/29/pn-eso4-6-a4-a-fsepnsi-2025-640-una-scuola-che-ti-accoglie-avviso-di-reclutamento-esperti-tutor-valutatore-scadenza-09-06-2026)
+  - May 29, 2026 · Home Novità Articoli PN ESO4.6.A4.A-FSEPNSI- 2025-640 “Una scuola che ti accoglie! – avviso di reclutamento esperti – tutor – valutatore – scadenza 08/06/2026
+- [Candidature DOCENTI ESPERTI e TUTOR – Piano Estate 2026-2027](https://www.isducaeinaudipareto.edu.it/circolare/candidature-docenti-esperti-e-tutor-piano-estate-2026-2027)
+  - 1 day ago · Si comunica che, all’Albo Pretorio online, è stato pubblicato l’Avviso per il reclutamento di esperti e tutor per il progetto Piano Estate 2026-2027 “Oltre l’Aula: percorsi di crescita e partecipazione” – Fondi Strutturali Europei – Programma Nazionale “Scuola e competenze” 2021- 2027 Priorità 01 – Scuola e competenze ...
+- [PNRR - Carducci San Cataldo](https://new.carduccisancataldo.edu.it/pnrr-html-0)
+  - AVVISO DI SELEZIONE ESPERTI E TUTOR PNRR AZIONI DI POTENZIAMENTO DELLE COMPETENZE STEM E MULTILINGUISTICHE-signed.
+- [Decreto Pubblicazione graduatorie definitive Avviso ESPERTI/E ...](https://www.icciminna.edu.it/decreto-pubblicazione-graduatorie-definitive-avviso-esperti-e-piano-estate-2-ed-2)
+  - 3 days ago · Approvazione e pubblicazione delle graduatorie definitive relative alle candidature pervenute nell’ambito dell’avviso pubblico volto alla selezione di docenti interni/e a cui affidare l’incarico di docente esperto in vista della realizzazione di n. 9 moduli incardinati nel progetto codice avviso n. 81652 del 23.05.2025 FSE+ “Percorsi educativi e formativi per il potenziamento delle ...
+- [Documenti – CPIA Catania 2 - Le carte della scuola](https://www.cpiacatania2.edu.it/documento)
+  - 27 mag 2026 · Bandi e Gare. RIAPERTURA AVVISO DI SELEZIONE INTERNA, IN COLLABORAZIONE PLURIMA ED ESTERNA DOCENTI ESPERTI PER I “PERCORSI DI POTENZIAMENTO DELLE COMPETENZE ...
+- [AVVISO PER LA SELEZIONE DI ESPERTI E TUTOR ESTERNI ...](https://icdiazmeda.edu.it/avcp/avviso-per-la-selezione-di-esperti-e-tutor-esterni-relativamente-al-pn-scuola-21-27-azione-eso4-5-a2-sotto-azione-eso4-5-a2-b-avviso-prot-95165-del-24-04-2026-formazione-docenti)
+  - 1 day ago · AVVISO PER LA SELEZIONE DI ESPERTI E TUTOR ESTERNI relativamente al PN Scuola 21-27 – Azione: ESO4.5.A2– sotto-azione- ESO4.5.A2.B Avviso Prot. 95165 del 24/04/2026- Formazione docenti
+- [AVVISO PER LA SELEZIONE DI ESPERTI E TUTOR relativamente al ...](https://icdiazmeda.edu.it/avcp/avviso-per-la-selezione-di-esperti-e-tutor-relativamente-al-pn-scuola-21-27-azione-eso4-5-a2-sotto-azione-eso4-5-a2-b-avviso-prot-95165-del-24-04-2026-formazione-docenti)
+  - Jun 16, 2026 · AVVISO PER LA SELEZIONE DI ESPERTI E TUTOR relativamente al PN Scuola 21-27 – Azione: ESO4.5.A2– sotto-azione- ESO4.5.A2.B- Avviso Prot. 95165 del 24/04/2026- Formazione docenti.
+- [AVVISO DI SELEZIONE PUBBLICA PERSONALE INTERNO - ISTITUTO COMPRENSIVO AUTONOMO STATALE "S. SOLIMENE" - SPARANISE](https://www.icassolimene.edu.it/avviso-di-selezione-pubblica-personale-interno)
+  - 3 days ago - Per il reclutamento di personale ESPERTO e TUTOR per la realizzazione di percorsi formativi Programma Nazionale “Scuola e competenze” 2021-2027 Priorità 01 – Scuola e competenze – Fondo Sociale Europeo Plus (FSE+)Obiettivo Specifico ...
+- [AVVISO PER LA SELEZIONE ESPERTI ESTERNI A VALERE SUL PROGETTO-FSE+ 2021-2027 - LICEO SCIENTIFICO STATALE “FRANCESCO SEVERI”](https://www.liceoseverisalerno.edu.it/avviso-per-la-selezione-esperti-esterni-a-valere-sul-progetto-fse-2021-2027)
+  - 14 hours ago - AVVISO PER LA SELEZIONE ESPERTI ESTERNI A VALERE SUL PROGETTO-FSE+ 2021-2027-RELAZIONI CONSAPEVOLI: AFFETTIVITÀ, EMOZIONI E PARI OPPORTUNITÀ
+- [AVVISO PUBBLICO di avvio selezione esperti esterni madrelingua per preparazione esami ICGSE -HISTORY - Liceo Classico Statale G.M. Dettori](https://www.liceoclassicodettori.edu.it/avviso-pubblico-di-avvio-selezione-esperti-esterni-madrelingua-per-preparazione-esami-icgse-history)
+  - 1 week ago - Avviso pubblico per l’individuazione degli esperti madrelingua cui affidare l’insegnamento di HISTORY (0470) per le attività del progetto “Cambridge International Examinations”, sezioni C, E ed L, oltre che per progetti linguistici e corsi IGCSE destinati agli […]
+
