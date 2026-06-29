@@ -1,22 +1,29 @@
 # licei-trend-iscrizioni
 
-## Ricerca automatica bandi per formatori
+## Ricerca automatica bandi (formatori + dottorati umanistici)
 
-Strumento che cerca periodicamente sul web i **bandi/avvisi delle scuole
-italiane per la selezione di formatori** collegati all'**Avviso prot. n. 95165
-del 24/04/2026** (Programma Nazionale "PN Scuola e competenze 2021-2027") e ad
-avvisi analoghi per la formazione del personale docente ed educativo.
+Strumento che cerca periodicamente sul web:
+
+1. **Bandi delle scuole italiane per la selezione di formatori** collegati
+   all'**Avviso prot. n. 95165 del 24/04/2026** (PN Scuola e competenze
+   2021-2027) e ad avvisi analoghi per la formazione del personale docente.
+2. **Bandi di dottorato di ricerca** delle universita' italiane (pubbliche e
+   private) su materie umanistiche affini al profilo: italianistica, latino,
+   filologia, linguistica, didattica, metodologie didattiche, pedagogia,
+   studi umanistici.
 
 ### Come funziona
 
-- **`scripts/cerca_bandi.py`** — esegue le ricerche su DuckDuckGo (regione
-  Italia), filtra i risultati rilevanti e tiene traccia di quelli gia' visti
-  in `dati/visti.json` per non segnalarli due volte.
+- **`scripts/cerca_bandi.py`** — ricerca dei bandi formatori (stato in
+  `dati/visti.json`, archivio in `dati/risultati.md`).
+- **`scripts/cerca_dottorati.py`** — ricerca dei bandi di dottorato umanistici
+  (stato in `dati/visti_dottorati.json`, archivio in
+  `dati/risultati_dottorati.md`).
 - **`.github/workflows/ricerca-bandi.yml`** — GitHub Action che:
   - gira automaticamente **ogni 4 giorni** (cron `0 5 */4 * *`, ore 05:00 UTC);
-  - apre una **issue su GitHub** con i nuovi bandi trovati (GitHub ti invia
-    un'email di notifica);
-  - archivia tutto lo storico in `dati/risultati.md`.
+  - esegue entrambe le ricerche;
+  - apre **due issue separate** su GitHub (una per i formatori, una per i
+    dottorati) quando ci sono novita' — GitHub ti invia un'email di notifica.
 
 ### Come attivarla
 
@@ -31,7 +38,8 @@ avvisi analoghi per la formazione del personale docente ed educativo.
 3. Puoi lanciare una ricerca subito a mano da **Actions → Ricerca bandi
    formatori → Run workflow**.
 
-### Personalizzare la ricerca
+### Personalizzare le ricerche
 
-Le parole chiave e le query sono in cima a `scripts/cerca_bandi.py`
-(sezione *Configurazione*): puoi aggiungerne o modificarle liberamente.
+Le parole chiave e le query sono in cima a ciascuno script
+(`scripts/cerca_bandi.py`, `scripts/cerca_dottorati.py`), nella sezione
+*Configurazione*: puoi aggiungerne o modificarle liberamente.
