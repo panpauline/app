@@ -1,0 +1,89 @@
+# Archivio bandi di dottorato umanistico trovati
+
+## Ricerca del 2026-06-29 09:21 UTC
+
+- [Ammissione ai corsi di dottorato | Sapienza Università di Roma](https://www.uniroma1.it/it/pagina/ammissione-ai-corsi-di-dottorato)
+  - Il dottorato di ricerca rappresenta il terzo livello di studi, massimo grado di istruzione universitaria dell'ordinamento accademico italiano, che consente lo sviluppo delle competenze necessarie per esercitare attività di ricerca di alta qualificazione.
+- [Nuovo bando ammissione Dottorato Linguistica storica, Linguistica...](https://wp.unistrasi.it/nuovo-bando-ammissione-dottorato-linguistica-storica-linguistica-educativa-e-italianistica-41-ciclo)
+  - Notiziario Unistrasi. Ricerca perSi comunica che è stato appena pubblicato, con scadenza 27 luglio 2025, il Bando di concorso pubblico per l’ammissione al corso di Dottorato di ricerca in Linguistica Storica, Linguistica educativa e Italianistica – 41° ciclo a.a.2025-2026 al link https...
+- [Dottorati di Ricerca - XLI Ciclo - a.a.2025/2026 — Italiano](https://www.uniba.it/it/dottorati/dottorati/41-ciclo/bando)
+  - Selezione pubblica per l'ammissione ai corsi di dottorato XLI ciclo - anno accademico 2025/2026. Scadenza presentazione domande: 24 luglio 2025, ore 12:00.
+- [Bando di accesso ciclo 41 | Università degli Studi di Palermo](https://www.unipa.it/didattica/dottorati/dottorato-xli/bando-di-accesso-ciclo-41)
+  - Regolamento dottorato di ricerca UNIPA. Candidatura online.Published: 7th October 2025 Deadline: 6th November 2025 at 14:59 (italian time). Prove orali nel periodo: 13 novembre - 20 novembre 2025 Interviews in the window: 2025, 13th - 20th November.
+- [Dottorato in ITALIANISTICA | Sapienza Università di Roma](https://phd.uniroma1.it/web/concorso42.aspx?i=3516&l=IT)
+  - 3 days ago ... Concorso di ammissione 42° ciclo · Bando ordinario · Obiettivi formativi del dottorato · Posti a concorso · Tematiche, curriculum e competenze specifiche. Themes, ...
+- [Concorsi, gare e bandi • Dipartimento di Filologia, Letteratura e ...](https://www.fileli.unipi.it/dipartimento/concorsi-gare-e-bandi)
+  - 3 days ago ... La selezione è riservata a laureati LM-39 o LM-14 in possesso di un dottorato di ricerca in Linguistica conseguito in Italia. Verbali ed esito bando Regione ...
+- [Dipartimento di Lettere e Beni Culturali - Bando per l'ammissione ai...](https://www.letterebeniculturali.unicampania.it/dipartimento/avvisi/3485-bando-per-l-ammissione-ai-corsi-di-dottorato-di-ricerca-40-ciclo)
+  - Bando per l'ammissione ai corsi di Dottorato di Ricerca - 40° ciclo. XL Ciclo - a.a. 2024/2025.Assicurazione della qualità - Corso di studio in Filologia classica e moderna. Qualità della Ricerca e Terza Missione.
+- [Bando DI concorso pubblico, per titoli ED esami, per...](https://www.unime.it/bandi/bando-dottorato-di-ricerca-25-26)
+  - Cerca icona lente di ricerca.Si avvisa I nuovi assegnatari dei posti con e senza borsa dei corsi DI dottorato in economics, management and statistics, fisica, matematica e scienze computazionali e scienze umanistiche 41° ciclo...
+- [Dottorati di ricerca - Università Roma Tre](https://www.uniroma3.it/ricerca/dottorati-di-ricerca)
+  - Didattica 44063-26DIDATTICA.Il Dottorato di Ricerca rappresenta il più alto grado di istruzione dell’ordinamento accademico italiano. Il titolo di dottore di ricerca si consegue dopo un percorso di studi e di ricerca di tre anni, al quale si accede previo concorso.
+- [Dottorati di Ricerca | Dottorati di Ricerca | Università degli Studi di...](https://www.unipa.it/didattica/dottorati)
+  - Bando di selezione dottorato di ricerca ciclo XL - Borse aggiuntive Avviso 15/2024 Regione Siciliana.Decreto di rettifica bando di accesso dottorati di Ricerca, ciclo XXXVI, A.A. 2020/2021 - Scadenza 07 Agosto 2020.
+- [Bando Dottorato di ricerca - XLI ciclo | Università degli Studi...](https://www.unirc.it/ricerca/dottorato-di-ricerca/bando-dottorato-di-ricerca-xli-ciclo)
+  - Promuovere una didattica di qualità è uno fra i principali obiettivi della Mediterranea, articolato sull'apertura verso le discipline più innovative, sull'equilibrato rapporto studenti/docenti e sul potenziamento di dotazioni tecniche.
+- [convocazione prova orale a distanza](https://www.unistrapg.it/sites/default/files/concorso/12062026-Convocazione-candidati-ammessi-prova-orale.pdf)
+  - 12 Jun 2026 ... Bando di ammissione al Corso di Dottorato di Ricerca in Studi linguistici, filologici e artistico- ... Curriculum 1 “Linguistica e Didattica delle lingue”: N. 3 ...
+- [Dottorati di ricerca | Dipartimento di Studi Umanistici. Lettere, Beni...](https://www.studiumanistici.unifg.it/it/studiare/dottorati-di-ricerca)
+  - Lettere, Beni Culturali, Scienze della Formazione.Scienze economiche e umanistiche per la valorizzazione dei territori Dottorato di Ricerca Innovativo: Internazionale e Interdisciplinare leggi le informazioni sul Bando.
+- [Bando Dottorato di Ricerca XLI ciclo: ammessi prova scritta...](https://studiumanistici.uniroma3.it/articoli/bando-dottorato-di-ricerca-xli-ciclo-ammessi-prova-scritta-dottorato-in-storia-territorio-patrimonio-culturale-curriculum-storia-527810)
+  - Si rende nota la graduatoria degli ammessi e delle ammesse alla prova scritta del bando per il Dottorato di Ricerca XLI…Link identifier #link-menu-primary-57871-46Studi Umanistici e Terza Missione.
+- [Bandi di accesso | Università degli Studi di Palermo](https://www.unipa.it/didattica/dottorati/bandi-di-accesso)
+  - [chiuso] STUDI UMANISTICI.Bandi di accesso per il corso di dottorato di ricerca Migrazioni, differenze, giustizia sociale, ciclo 39. A.A. 2023/2024. Call for application for PhD course in Migrations, differences, social justice, cycle 39.
+- [Bando per l’ammissione ai corsi di dottorato di ricerca del XXXVII...](https://www.studiumanistici.unina.it/bando-per-lammissione-ai-corsi-di-dottorato-di-ricerca-del-xxxvii-ciclo)
+  - Studi Umanistici. Ricerca per: Menu. Dipartimento.www.unina.it/didattica/post-laurea/dottorati-di-ricerca/english-version. Informazioni Utili. Indirizzo: Via Porta di massa, 1 - 80133 Napoli. Indirizzo PEC: dip.studiumanistici@pec.unina.it.
+- [Dottorato di ricerca borse di studio e nuovo bando - Dottorato di...](https://www.unisalento.it/-/dottorato-di-ricerca-borse-di-studio-e-nuovo-bando)
+  - Biblioteca di Studi Umanistici. Edilizia, Sostenibilità e Innovazione Digitale.Il bando relativo al 36mo ciclo dei corsi di dottorato è aperto; sono 11 i percorsi attivati per un totale di 94 posti banditi, di cui 77 coperti con borsa di studio o altre forme di finanziamento.
+- [Dottorati di ... - Università degli studi della Campania Luigi Vanvitelli](https://www.unicampania.it/index.php/didattica/dottorati-di-ricerca)
+  - 18 Jun 2026 ... Dottorati di ricerca · Elenco Dottorati di Ricerca · Iscriversi a un Dottorato (Bando, graduatorie e info utili) · PNRR - borse PhD · PR Campania FSE+ · Informazioni ...
+- [Bando di concorso per l'ammissione ai corsi di dottorato di ricerca...](https://www.unibg.it/bandi/bando-concorso-lammissione-corsi-dottorato-ricerca-xl-ciclo)
+  - Scienze giuridiche. Studi filologici e linguistici sul patrimonio scritto e orale. Studi umanistici transculturali. Sustainable technologies for industrial and construction engineering.Istruzioni per l'immatricolazione ai dottorati di ricerca XL ciclo.
+- [Dottorati di Ricerca | Bandi e Circolari](https://web.unisa.it/didattica/dottorati/bandi?anno=2024)
+  - I Bandi riguardanti i Dottorati di Ricerca di Ateneo. Anno 2024.Selezione pubblica, per titoli e colloquio, a n° 22 posti, di cui n° 19 con borsa di studio, destinati ai seguenti Corsi di Dottorato di Ricerca con sede amministrativa presso l’Ateneo accreditati per il XXXIX ciclo.
+- [Esame di ammissione - Dottorato di ricerca in Scienze Pedagogiche ...](https://ssu.elearning.unipd.it/mod/page/view.php?id=522430)
+  - 17 Jun 2026 ... A.A. 2025 - 2026 · Post Lauream · FISPPA · Dottorati di Ricerca · Dottorato di Ricerca in Scienze Pedagogiche, dell'Educazione e della Formazione - PhD in Education ...
+- [Scheda Dottorato - Scienze Pedagogiche — Università di Bologna](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/dottorati/2026-2027/scienze-pedagogiche)
+  - 15 Jun 2026 ... Dottorato in Scienze Pedagogiche. Scheda; Presentazione; Commissione concorso; Contatti ...
+- [Universita' degli studi del Molise , 1 ricercatore , GSD 11/PAED-01](https://www.concorsipubblici.com/universita-del-molise-campobasso-concorso-ricercatore-campobasso-2026-8)
+  - 6 days ago ... Requisiti richiesti: Dottorato di ricerca. Ente richiedente: Università del ... educazione, per il Dipartimento di scienze umanistiche, sociali e della formazione ...
+- [Dottorati di Ricerca | Bandi e Circolari](https://web.unisa.it/didattica/dottorati/bandi)
+  - I Bandi riguardanti i Dottorati di Ricerca di Ateneo. Anno 2026.Selezione pubblica, per titoli e colloquio, a n° 74 posti, di cui n° 62 con borsa di studio, destinati ai seguenti Corsi di Dottorato di Ricerca con sede amministrativa presso l’Ateneo accreditati per il XLI ciclo.
+- [Bando DI concorso per L'ammissione ai corsi DI dottorato DI ricerca](https://www.unipa.it/didattica/dottorati/.content/documenti/Dottorato39ciclo/bando_39/Rep_4834_2023-bando_dottorati_XXXIX.pdf)
+  - 3.4 “Didattica e competenze universitarie avanzate” e Inv. 4.1 “Estensione del numero dei dottorati di ricerca e dottorati innovativi per la pubblica amministrazione e il patrimonio culturale”, per sviluppare tematiche di ricerca vincolate alle seguenti macroaree
+- [Microsoft Word - Bando dottorato INN DEF.docx](https://lumsa.it/sites/default/files/dottorati/DR+2795+Bando+Dottorato+Innovazione,+sviluppo+e+benessere+per+l'individu....pdf)
+  - 3.4 “Didattica e competenze universitarie avanzate” e Inv. 4.1 “Estensione del numero di dottorati di ricerca e dottorati innovativi per la pubblica amministrazione e il patrimonio culturale”; VISTO il Regolamento in materia di corsi di dottorato di ricerca...
+- [Bando per l'ammissione ai corsi di Dottorato di Ricerca - 42° ciclo](https://www.letterebeniculturali.unicampania.it/dipartimento/avvisi/4697-bando-per-l-ammissione-ai-corsi-di-dottorato-di-ricerca-42-ciclo)
+  - 18 Jun 2026 ... Bando per l'ammissione ai corsi di Dottorato di Ricerca - 42° ciclo ... a partire dalle ore 14:00 del 18 giugno 2026 ed entro e non oltre le ore 14:00 del 17 ...
+- [Bando di concorso ordinario | Politecnico di Torino](https://www.polito.it/didattica/dottorato-di-ricerca-e-scuola-di-specializzazione/ammissione-al-dottorato/ammissione/bando-di-concorso)
+  - Il bando di concorso per l'ammissione ai corsi di dottorato del 42° ciclo è on line! Una volta presa visione del bando è possibile fare domanda attraverso la procedura Apply.
+- [Microsoft Word - Date concorso Ammissione ECA XXXVII ciclo.doc](https://www.unifg.it/sites/default/files/2021-10/dottorati-37ciclo-avviso-prove.pdf)
+  - Avviso prove Concorso Ammissione Dottorato di ricerca in Economia, Cultura, Ambiente. Scienze economiche e umanistiche per. la valorizzazione dei territori.
+- [Microsoft Word - Bando ammissione concorso Dottorato LISLEI 41...](https://online.unistrasi.it/bandi/Allegati/3572/3572_3572_Bando+ammissione+concorso+Dottorato+LISLEI+41Ã‚Â°+ciclo+a.a.2025-2026.per+sito+(3).pdf)
+  - Bando DI concorso pubblico per L’ammissione al corso DI dottorato DI ricerca in “linguistica storica, Linguistica educativa e italianistica” dell’università per stranieri DI siena. XLI Ciclo – a.a 2025/2026.
+- [Bando di ammissione Dottorato "Forme del testo e dello scambio..."](https://www.lettere.unitn.it/news/890)
+  - Ammissione al dottorato. Esame finale. Corsi di dottorato. Culture d'Europa.Ricerca. Area dipartimentale di Studi Linguistici, Filologici e Letterari.
+- [BANDO DOTTORATO XLI CICLO - Dipartimento di Studi Umanistici](https://studiumanistici.uniroma3.it/articoli/bando-dottorato-xli-ciclo-507524)
+  - È stato pubblicato il bando per l'ammissione ai corsi di dottorato di ricerca al 41° ciclo del Dottorato di ricerca.Il termine…
+- [Dottorati di ricerca – 42° ciclo (a. a. 2026/2027)](https://www.unive.it/web/fileadmin/user_upload/dottorati/doc/accesso/bando_42/Convocazione_prova_orale_Italianistica.pdf)
+  - Verbale delle operazioni concorsuali per l’ammissione al Dottorato di ricerca in Italianistica.TZD5DZ2H 376HN29M 5CK6ESFE. 1/2. Concorso per l’ammissione ai Corsi di Dottorato 41° ciclo (a. a. 2026/2027) Convocazione al colloquio orale.
+- [Bando 42° ciclo a. a. 2026/27 - Dottorato in Filologia - Unina](https://www.dottfilologia.studiumanistici.unina.it/bando-42-ciclo-a-a-2026-27)
+  - 7 days ago ... Bando 42° ciclo a. a. 2026/27. DR/2026/2419 del 22/06/2026. Pagina del bando · Dottorato in Filologia. Informazioni Utili. Indirizzo: Via Porta di Massa 1, ...
+- [Allegato 2 al Concorso per l'ammissione ai corsi di dottorato ... - Unisi](https://www.unisi.it/sites/default/files/allegatiparagrafo/Allegato_2_DR_dottorati_c42_bando2_schede_0.pdf)
+  - 4 days ago ... Siena, Bando 2, 42° ciclo, anno accademico 2026-2027. Schede di dettaglio ... dottorati-di-ricerca/filologia-e-critica. Modalità di selezione. Prova ...
+- [UFFICIOPERILDOTTORATODIRI...](https://www.unisi.it/sites/default/files/allegatiparagrafo/DR_1064_2026_dottorati_ciclo_42_secondo_bando.pdf)
+  - 19 Jun 2026 ... ricerca in Filologia e Critica, ciclo 42°, aa. 2026-2027, Prot. n ... 105992 del 15 giugno 2026, 42° ciclo, Bando di concorso, posizioni da bandire;. - ...
+- [Esito valutazione titoli concorso Dottorato in Ingegneria Fisica...](https://www.unive.it/web/fileadmin/user_upload/dottorati/doc/accesso/bando_42/Ammessi_non_Ammessi_IngFisMat_42_ciclo.pdf)
+  - PhD proposal research. maximum points 20. Lettere di referenza Punteggio per esami.7PT78RZR NZF92MHM HLMPJANH KZR97U7M 42NB8NBT T7S5SLRA. Proposta di ricerca punti max 20. PhD proposal research. maximum points 20.
+- [42esimo ciclo - Unina](https://www.unina.it/en/didattica/post-laurea/dottorati/42esimo-ciclo)
+  - 42esimo ciclo. Breadcrumb. Home.Bando di concorso inerente i corsi di dottorato di ricerca aventi sede amministrativa presso la Scuola Superiore Meridionale per il XLII ciclo.
+- [Bando di concorso XLI ciclo Dottorato di Ricerca della Scuola...](https://www.ssmeridionale.it/avcp/bando-di-concorso-xli-ciclo-dottorato-di-ricerca-della-scuola-superiore-meridionale)
+  - 7 Elementi 5.42 MB. Ottobre 20, 2025. bando-dottorato-41esimo-ciclo/Attachments/ Attachments.Chiarimenti lettere di referenza_Info reference letters. Avviso ai candidati ammessi ai Corsi di Dottorato di Ricerca del XLI Ciclo_Notice on the enrollment of doctoral students.
+- [Dipartimento di Lettere e Beni Culturali - Bando Dottorato di Interesse...](https://www.letterebeniculturali.unicampania.it/dipartimento/avvisi/3525-bando-dottorato-di-interesse-nazionale-in-studi-religiosi-40-ciclo)
+  - Procedura selettiva per l’ammissione al Corso di Dottorato di Ricerca di interesse nazionale in Studi Religiosi (c.d. DREST), LX ciclo (2024/25-2026/27).
+- [Bando di concorso per l'ammissione a corsi di dottorato di ricerca - XLII ciclo](https://www.unite.it/UniTE/Bando_di_concorso_per_l_ammissione_a_corsi_di_dottorato_di_ricerca_-_XLII_ciclo_-_anno_accademico_2026_2027)
+  - 5 giorni fa · Bando di concorso per l'ammissione a corsi di dottorato di ricerca - XLII ciclo - anno accademico 2026/2027 ... Sono stati banditi per il ciclo XLII 34 posizioni ...Mancanti: metodologie didattiche
+- [Dottorati di ricerca | Università degli Studi di Sassari](https://www.uniss.it/it/didattica/offerta-formativa/post-laurea/dottorati-di-ricerca)
+  - Per poter accedere al Dottorato di Ricerca è necessario superare il concorso di ammissione. Per sapere di più su come funziona la Scuola, leggere il piano formativo e il regolamento didattico, anche in inglese e francese, visita la pagina dedicata.
+

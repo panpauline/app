@@ -659,3 +659,52 @@
 - [AVVISO PUBBLICO di avvio selezione esperti esterni madrelingua per preparazione esami ICGSE -HISTORY - Liceo Classico Statale G.M. Dettori](https://www.liceoclassicodettori.edu.it/avviso-pubblico-di-avvio-selezione-esperti-esterni-madrelingua-per-preparazione-esami-icgse-history)
   - 1 week ago - Avviso pubblico per l’individuazione degli esperti madrelingua cui affidare l’insegnamento di HISTORY (0470) per le attività del progetto “Cambridge International Examinations”, sezioni C, E ed L, oltre che per progetti linguistici e corsi IGCSE destinati agli […]
 
+## Ricerca del 2026-06-29 09:21 UTC
+
+- [Avviso di selezione Esperti Formatori per il Piano di Formazione...](https://www.comprensivocampisalentina.edu.it/albo/860-avviso-di-selezione-esperti-formatori-per-il-piano-di-formazione-dell-ambito-17-lecce)
+  - Registro Elettronico Docenti. Area Riservata. MAD 2021/22.Si pubblica l'Avviso di selezione mediante procedura comparativa per titoli, esperienze professionali e idea progettuale, finalizzata alla creazione di una graduatoria di esperti formatori da cui attingere per la realizzazione...
+- [DECRETO per l’Avvio di una procedura d’urgenza di selezione ...](https://icanoiagiffonefdellascala.edu.it/2026/06/25/decreto-per-lavvio-di-una-procedura-durgenza-di-selezione-per-il-conferimento-di-incarichi-individuali-al-personale-interno-e-o-esterno-per-il-ruolo-di-tutor-esperti-funzionali-alla)
+  - 4 days ago · DECRETO per l’Avvio di una procedura d’urgenza di selezione per il conferimento di incarichi individuali al personale interno e/o esterno per il ruolo di TUTOR/ESPERTI funzionali alla realizzazione del Progetto FSE “Scuola e competenze” 2021-2027 Avviso Pubblico AOOGABMI prot. n. 112894 dell’11/05/2026 – c.d. Piano Estate 2026-2027, emanato nell’ambito dell’Obiettivo Specifico ...
+- [PN SCUOLA E COMPETENZE 2021-2027 PERCORSI DI ...](https://www.leora.edu.it/pagine/pn-scuola-e-competenze-2021-2027)
+  - 17 giu 2026 · PN SCUOLA E COMPETENZE 2021-2027 PERCORSI DI ORIENTAMENTO e PIANO ESTATE 2026. ... Avviso selezione esperti esterni prot.6978 del 06/06/2026_.pdf · Decreto di ...
+- [AVVISO SELEZIONE ESPERTI E TUTOR PN SCUOLA E COMPETENZE ...](https://www.scuolascarperiasanpiero.edu.it/2026/06/23/avviso-selezione-esperti-e-tutor-pn-scuola-e-competenze-formazione-docenti)
+  - 6 days ago · Si pubblica l’avviso di selezione di esperti e tutor per la realizzazione del modulo “Lingua come veicolo” nell’ambito del PN Scuola e competenze Formazione docenti.
+- [Convocazione del Consiglio d’Istituto - Liceo Sciascia Fermi](https://www.liceosciasciafermi.edu.it/documento/convocazione-del-consiglio-distituto)
+  - 2 days ago - Obiettivo specifico ESO4.5 ... “Scuola e competenze” 2021 2027, fondo FSE+: Criteri di selezione esperti; Avviso 95165 del 24/04/2026 per azioni rivolte alla formazione del personale docente ed educativo al fine di ...
+- [Avviso di selezione esperto e tutor per formazione docenti DM ...](https://www.icborgomanero1.edu.it/documento/avviso-di-selezione-esperto-e-tutor-per-formazione-docenti-dm-38-2026)
+  - 6 days ago · Home Scuola Le carte della scuola Albo online Avviso di selezione esperto e tutor per formazione docenti DM. 38/2026 00042/2026
+- [I.C.S. Ad Indirizzo Musicale D. Cimarosa - IV Circolo](https://www.cimarosaaversa.edu.it)
+  - Avviso pubblico INTERNO relativo alla selezione di ESPERTI per i percorsi formativi del Progetto dal titolo: “Oltre i divari: accendi...amo i talenti"- Codice ESO4.6 A1.B ESO4.6.A1.B-FSEPNCA-2026-812- A.S. 2026/2027.
+- [Novità - IC COTRONEI](https://iccotronei.edu.it/novita)
+  - 11 giu 2026 · Bando Selezione Esperti – Corso di Formazione Docenti · Convocazioni Consigli di Classe, Interclasse, Scrutini e Incontri Scuola Famiglia · Corsi sulla ...
+- [Amministrazione Trasparente | Istituto Tecnico e Professionale A. De Pace ...](https://www.ipdepace.edu.it/amministrazione-trasparente)
+  - 6 giorni fa · Avviso per la selezione interna per il conferimento incarichi di Tutor e Formatori Esperti - Progetto "L'innovazione nell'era dell'I.A." - codice progetto: ...
+- [Avviso selezione formatori Progetto M4C1I2.1-2026-1745-P-64202](https://www.ilpitagora.edu.it/avviso-selezione-formatori-progetto-m4c1i2-1-2026-1745-p-64202-snodi-formativi-prog-orizzonte)
+  - 4 giorni fa · Le candidature dovranno pervenire, secondo quanto indicato nell'avviso, entro e non oltre le ore 12:00 del giorno 10.07.2026. Pubblicato: 25.06.2026 - Revisione ...
+- [avviso interno di selezione per il conferimento ... - Rodari Nosengo](https://www.icrodarinosengo.edu.it/avviso-interno-di-selezione-conferimento-incarichi-individuali-docenti-esperti-formatori-tutor-pnrr)
+  - 5 giorni fa · avviso interno di selezione per il conferimento incarichi individuali docenti esperti formatori e tutor PNRR D.M. 65-2023 - Linea dii intervento A.
+- [Avviso pubblico DI procedura selettivo/comparativa...](https://www.consbs.it/albo_pretorio/avviso-pubblico-di-procedura-selettivo-comparativa-per-soli-titoli-finalizzata-allindividuazione-di-un-esperto-addetto-ad-attivita-di-comunicazione-e-tutor-a-supporto-di-studenti-e)
+  - Albo - Bandi e Gare per Servizi. Data pubblicazione: 21/08/2024.
+- [SCUOLA POLO - FORMAZIONE DOCENTI... - I.I.S. Aleotti Dosso](https://www.aleottidosso.edu.it/index.php/docenti-e-personale-ata/scuola-polo-formazione-docenti-ambito-5)
+  - Docenti e personale ata. Scuola polo - formazione docenti - ambito 5.Avviso selezione formatori per laboratorio per neo assunti 2024/25.
+- [Avviso progressione tra le aree Educatore Esperto Asilo Nido](https://www.comune.desenzano.brescia.it/Amministrazione/Documenti-e-dati/Documenti-albo-pretorio/Avviso-progressione-tra-le-aree-Educatore-Esperto-Asilo-Nido)
+  - Avviso di selezione per la progressione verticale tra le aree riservata al personale in servizio presso l'Ente per la copertura di un posto di Educatore esperto di Asilo Nido - Scadenza 13/09/2024.
+- [AVVISO INTERNO PER LA SELEZIONE DI N. 1 FORMATORE – PEDAGOGISTA - Istituto Comprensivo Serramanna](https://www.comprensivoserramanna.edu.it/avviso-interno-per-la-selezione-di-n-1-formatore-pedagogista)
+  - 1 month ago - AVVISO INTERNO PER LA SELEZIONE DI N. 1 FORMATORE – PEDAGOGISTA PER LA REALIZZAZIONE DI PERCORSI FORMATIVI RIVOLTI AI DOCENTI
+- [[PDF] IL DIRIGENTE SCOLASTICO - Istituto Comprensivo Bagnolo Mella](https://www.bagnoloscuole.edu.it/wp-content/uploads/2026/06/Avviso_pubblico_selezione_formatori_tutor_PNRR_DM219_pdf_pades.pdf)
+  - 17 giu 2026 · OGGETTO: AVVISO di selezione pubblica per il reclutamento di figure professionali (Esperti Formatori e Tutor) per la realizzazione del progetto finanziato ...
+- [AVVISO DI SELEZIONE interna esperti e tutor - Notizie](https://icmasaccio.edu.it/notizie/475-avviso-di-selezione-interna-esperti-e-tutor-fsepn-avviso-95165-formazione-docenti)
+  - 7 giorni fa · AVVISO DI SELEZIONE interna esperti e tutor - FSEPN Avviso 95165 Formazione docenti. Immagine profilo. da Segreteria. del lunedì, 22 giugno 2026. Documenti.
+- [Avviso pubblico per la selezione interna ed, in subordine, esterna di ...](https://ic-giarre1.edu.it/albo-pretorio/avviso-pubblico-la-selezione-interna-ed-subordine-esterna-di-n-3-esperti-e-di-n-3)
+  - 19 giu 2026 · Avviso pubblico per la selezione interna ed, in subordine, esterna di n. 3 esperti e di n. 3 tutor -FSE/PN2127-Obiettivo Specifico ESO4.5, Azione ESO4.5.
+- [D.M. 38_ 2026 Avviso 95165 del 24/04/2026 ESO4.5.A2.B-FSEPN ...](https://www.ipsteleseischia.edu.it/2026/06/22/d-m-38_-2026-avviso-95165-del-24-04-2026-eso4-5-a2-b-fsepn-ca-2026-600-formazione-docenti-cup-e34d26001080007-orizzonti-futuri-3)
+  - 7 giorni fa · Dichiarazione DS per valutazione e Graduatoria provvisoria selezione docenti esperti interni. Personale scolastico. Personale amministrativo. 0. Finanziato dall ...
+- [D.M. 38_ 2026 Avviso 95165 del 24/04/2026 ESO4.5.A2.B-FSEPN ...](https://www.ipsteleseischia.edu.it/2026/06/22/d-m-38_-2026-avviso-95165-del-24-04-2026-eso4-5-a2-b-fsepn-ca-2026-600-formazione-docenti-cup-e34d26001080007-orizzonti-futuri)
+  - 7 giorni fa · Dichiarazione DS per valutazione e Graduatoria provvisoria selezione docenti esperti interni. Personale scolastico. Personale amministrativo. 0. Finanziato dall ...
+- [PNRR – DM219 – DETERMINA SELEZIONE ESPERTI INTERNI](https://www.marcopolobari.edu.it/2026/06/12/pnrr-dm219-determina-selezione-esperti-interni)
+  - 12 giu 2026 · ... Avviso 95165 del 24/04/2026 23 Giugno 2026; Terzo calendario corsi estivi di recupero debito formativo 23 Giugno 2026. I nostri recapiti. V.le Bartolo 4/6 ...
+- [Avviso: selezione docenti esperti e tutor per corsi PN formazione docenti](https://www.icdonlorenzomilani.edu.it/avviso-selezione-docenti-tutor-per-corsi-pn-formazione-docenti)
+  - 15 giu 2026 · Le attività formative saranno orientate a: -migliorare la qualità della didattica; -potenziare la capacità di progettazione curricolare verticale; -rafforzare ...Mancanti: 95165 | Deve includere:95165
+- [Amministrazione Trasparente | Istituto Istruzione Secondaria G. Sulpicio ...](https://www.iissulpicioveroli.edu.it/amministrazione-trasparente)
+  - 2 giorni fa · 38 del 6 marzo 2026, Avviso 95165 del 24/04/2026 – Formazione docenti ... AVVISO INTERNO INTEGRATO PER LA SELEZIONE DI ESPERTI E TUTOR (Avviso prot. n°9407 ...
+
