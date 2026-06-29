@@ -1,4 +1,4 @@
-name: Ricerca bandi formatori
+name: Ricerca bandi formatori e dottorati
 
 on:
   # Ogni 4 giorni, alle 05:00 UTC (07:00 ora italiana legale).
@@ -30,8 +30,13 @@ jobs:
       - name: Installa dipendenze
         run: pip install ddgs
 
-      - name: Esegui ricerca
+      - name: Ricerca bandi formatori
+        continue-on-error: true
         run: python scripts/cerca_bandi.py
+
+      - name: Ricerca bandi dottorato umanistici
+        continue-on-error: true
+        run: python scripts/cerca_dottorati.py
 
       - name: Salva stato aggiornato (commit)
         run: |
@@ -45,7 +50,7 @@ jobs:
             git push
           fi
 
-      - name: Apri issue se ci sono nuovi bandi
+      - name: Apri issue per nuovi bandi formatori
         if: ${{ hashFiles('nuovi_bandi.md') != '' }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -58,4 +63,19 @@ jobs:
           || gh issue create \
             --title "Nuovi bandi formatori - $(date +%F)" \
             --body-file nuovi_bandi.md \
+            --assignee panpauline
+
+      - name: Apri issue per nuovi bandi dottorato
+        if: ${{ hashFiles('nuovi_dottorati.md') != '' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "Nuovi bandi dottorato - $(date +%F)" \
+            --body-file nuovi_dottorati.md \
+            --assignee panpauline \
+            --label "bandi-dottorati" 2>/dev/null \
+          || gh issue create \
+            --title "Nuovi bandi dottorato - $(date +%F)" \
+            --body-file nuovi_dottorati.md \
             --assignee panpauline
