@@ -172,3 +172,34 @@
 - [BANDO DOTTORATO DIN ARMH-2024.docx](https://www.mur.gov.it/sites/default/files/2024-08/ConservatorioCesena_BANDO+DOTTORATO+DIN+ARMH-2024+IT.signed.pdf)
   - 8. pedagogia e didattica musicale (PDM); 9. musicoterapia e neuroscienze (mtn); 10. performance & audience (pau). Ciascun curricolo disciplinare presenta e illustra le proprie specificità, le metodologie adottate, gli strumenti di indagine, le modalità di validazione...
 
+## Ricerca del 2026-07-05 07:52 UTC
+
+- ["La bufera e altro" di Eugenio Montale | ITALIANISTICA](https://phd.uniroma1.it/web/pagina.aspx?p=1415&i=3516&l=IT)
+  - dottorato in italianistica alla Sapienza Università di Roma: curricula, borse di studio e modalità di ammissione.
+- [Ammissioni Curriculum di Italianistica e Scienze del testo e dello ...](https://lccm.dottorato.unige.it/node/202)
+  - Dottorato in Letterature e Culture Classiche e Moderne Il corso Collegio dei docenti Ammissione Collaborazioni internazionali Dottorandi Offerta formativa Eventi
+- [Bando: n. 1 contratto didattica integrativa Lingua Inglese... - Uniroma4](https://www.uniroma4.it/index.php/avvisi/bando-n-1-contratto-didattica-integrativa-lingua-inglese-per-dottorato-di-ricerca)
+  - È indetta una selezione pubblica per titoli per il conferimento di un contratto di didattica integrativa per l’a.a. 2026-2027 per l’insegnamento di Lingua Inglese per il Dottorato di Ricerca in Scienze del Movimento Umano e dello Sport 41° e 42° ciclo.
+- [Dottorati di ricerca - Dipartimento di Studi Umanistici](https://studiumanistici.uniroma3.it/ricerca/dottorato-di-ricerca)
+  - I Link identifier #identifier__131768-1bandi di ammissione sono consultabili nella sezione dedicata ai Dottorati di ricerca sul sito di Ateneo. Il Dipartimento di Studi Umanistici ha attivato due corsi di Dottorato di Ricerca.
+- [Bando di concorso per l'ammissione al corso di dottorato di ricerca in...](https://www.unibg.it/bandi/bando-concorso-lammissione-corso-dottorato-ricerca-studi-umanistici-transculturali-sede)
+  - Ambiti e progetti di ricerca.Announcement of a public selection for admission to PhD programs in Transcultural studies in humanities administratively based at the Università degli studi di Bergamo, for additional scholarships relating to the XXXIX round in "Dottorati comunali".
+- [BANDO | Dottorato Health Promotion and Cognitive Sciences](https://www.unipa.it/dipartimenti/sc.psicol.pedag.edellaformazione/Valutazione-colloquio-del-Dottorato-Health-Promotion-and-Cognitive-Sciences---A.A.-2020-2021)
+  - Scienze Psicologiche, Pedagogiche, dell’Esercizio Fisico e della Formazione. BANDO | Dottorato Health Promotion and Cognitive Sciences. 17-lug-2023.
+- [Avviso sui bandi di ammissione ai Dottorati di Ricerca, a.a. 26/27 ...](https://www.unibs.it/it/ateneo/comunicazione/tutte-le-news/avviso-sui-bandi-di-ammissione-ai-dottorati-di-ricerca-aa-2627-xlii-ciclo)
+  - - Edizione 2026 " per approfondire le proposte dell'offerta formativa dottorale UNIBS ascoltando e incontrando i Coordinatori dei corsi di Dottorato. Ogni informazione sui bandi viene pubblicata alla pagina Didattica/Iscriversi/Bandi e Avvisi per Studenti e Laureati/Ammissione ai corsi Post Laurea/Dottorati di ricerca
+- [Bando di concorso per l’ammissione ai corsi di dottorato di ricerca...](https://www.uniud.it/it/ricerca/lavorare-nella-ricerca/dottorato-ricerca/ammissione-ai-corsi/bando-e-modulistica/bando-e-modulistica-old/bandi-e-modulistica-2023/bando-concorso-e-schede_dr-347-2023_18-05.pdf/@@download/file/Bando+concorso+e+schede_DR+347.2023_18.05.pdf)
+  - 6. Le lettere di referenza, se previste dai corsi di dottorato di ricerca (v. schede 1-12), devono essere inviate direttamente dai referenti attraverso la procedura online su richiesta del candidato.
+- [Concorso pubblico, per titoli ED esami, per...](https://scienze-umanistiche.phd.unime.it/it/avvisi/concorso-pubblico-titoli-ed-esami-lammissione-ai-corsi-di-dottorato-di-ricerca-attivati)
+  - Tutti gli avvisi. Concorso pubblico, per titoli ED esami, per L’ammissione ai corsi DI dottorato DI ricerca attivati nell’universita’ degli studi DI messina XLI ciclo a.a. 2025/2026.
+- [Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do...](https://www.unifg.it/sites/default/files/2024-09/dottorato-40ciclo-scienze-umanistiche-approvazione-atti.pdf)
+  - OGGETTO: Approvazione atti concorso ammissione al corso di Dottorato di Ricerca in Scienze Umanistiche. (XL ciclo a.a. 2024/2025).
+- [Oggetto](https://www.unibg.it/sites/default/files/media/documents/2026-06-17/DR+nomina+commissione+SUT_rep.pdf)
+  - Oggetto: nomina commissione giudicatrice per l’esame di ammissione al corso di dottorato di ricerca in Studi umanistici transculturali - XLII ciclo.
+- [Bando 42° ciclo dottorato in Filologia e Critica (UniSi, 2026-2027)](https://sifr.it/sifr_new/bando-42-ciclo-dottorato-in-filologia-e-critica-unisi-2026-2027)
+  - Pubblicato il bando di concorso per il Dottorato di ricerca 42° ciclo anno accademico 2026-2027. Maggiori informazioni Scadenza per la presentazione delle domande: 24 luglio 2026.
+- [Bando 42° ciclo dottorato in Filologia (UniNa, 2026-2027)](https://sifr.it/sifr_new/bando-42-ciclo-dottorato-in-filologia-unina-2026-2027)
+  - Bando 42° ciclo dottorato in Filologia (Università degli Studi di Napoli "Federico II", 2026-2027) Maggiori informazioni
+- [Albo Ufficiale | ScuolaNormaleSuperiore](https://www.sns.it/it/albo)
+  - 19597/2026. Bando di Concorso PhD 42° ciclo - seconda sessione - Classe di Scienze politico-sociali. Richiedente: Scuola Normale Superiore - SDF - Servizio Didattica e Allievi sede di Firenze.
+
