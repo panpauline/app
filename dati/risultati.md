@@ -782,3 +782,34 @@
 - [Concorsi pubblici - Comune di Vicenza](https://servizi2.comune.vicenza.it/albo3/concorsi.php)
   - Avviso pubblico per la selezione, mediante procedura comparativa per titoli ed esperienze professionali, di docenti esperti per la formazione pluriennale nell'ambito del sistema integrato di educazione e di istruzione per bambini di età compresa tra zero e sei anni - anno scolastico-educativo 2022-2023.
 
+## Ricerca del 2026-07-09 08:18 UTC
+
+- [Avviso di selezione per il conferimento di incarichi individuali aventi ad oggetto Esperti e Tutor per l’attivazione dei percorsi formativi rivolti ai docenti relativi al progetto PN 2021-2027 - FSE-PN “In…formazione 2” - IC Cercemaggiore - Sepino](https://www.iccercemaggioresepino.edu.it/site/2026/07/07/20260707144724unidos)
+  - 2 days ago - Avviso di selezione per il conferimento di incarichi individuali aventi ad oggetto Esperti e Tutor per l’attivazione dei percorsi formativi rivolti ai docenti relativi al progetto PN 2021-2027 – FSE-PN “In…formazione 2” – Avvio_selezione_esperti_e_tutor_PN_2021-2027_formazione_...
+- [AVVISO PUBBLICO ESPERTI FORMATORI SNODI AI DM219/2026 - IISS «Jacopo del Duca – Diego Bianca Amato»](https://www.delduca-biancaamato.edu.it/avviso-pubblico-esperti-formatori-snodi-ai-dm219-2026)
+  - 3 days ago - timbro AVVISO PUBBLICO ESPERTI FORMATORI SNODI AI ...
+- [PON FSE+ FORMAZIONE DOCENTI: Avviso pubblico di selezione ...](https://ic1asti.edu.it/comunicati/810-pon-fse-formazione-docenti-avviso-pubblico-di-selezione-unica-rivolto-al-personale-docente-interno-ed-esterno)
+  - 2 days ago · A seguire l' Avviso unico ( procedura interna ed esterna ) ad evidenza pubblica finalizzato alla selezione di n. 01 formatore esperto - percorso formativo per docenti " L'apprendimento della letto scrittura con il metodo MA.VI" - durata ore 30 - Progetto Europeo di cui all' Avviso prot. n. 95165 del 24/04/2026 FSE+ "Formazione Docenti ...
+- [Bando selezione interna esperti e tutors PON Formazione ...](https://www.icpertinita.edu.it/bando-selezione-interna-esperti-e-tutors-pon-formazione-docenti-pn-2021-2027)
+  - Jun 15, 2026 · Home Novità Notizie Bando selezione interna esperti e tutors PON Formazione Docenti PN 2021-2027
+- [REGISTRO PROTOCOLLO - 0005088 - 07/07/2026 - IV.2 - U](https://www.scuolanicotera.edu.it/web/wp-content/uploads/2026/07/SEGNATURA_1783407004_1_AVVISO_INTEGRATO_ESPERTI_INT_EXT_DM38.pdf)
+  - 2 days ago - VISTA la necessità di individuare docenti in qualità di “ESPERTI”, per la corretta esecuzione del progetto in ... Art. 1 Oggetto · DI AVVIARE una procedura di selezione comparativa, attraverso la valutazione dei curriculum, per la selezione · di ESPERTI FORMATORI INTERNI/ESTERNI per gli elencati percorsi di formazione ...
+- [Graduatoria provvisoria conferimento incarichi di docenza indirizzo SAS - ISTITUTO D'ISTRUZIONE SUPERIORE "Francesco Crispi" - Ribera](https://www.istitutosuperiorecrispiribera.edu.it/graduatoria-provvisoria-conferimento-incarichi-di-docenza-indirizzo-sas)
+  - 1 week ago - Avviso pubblico di selezione esperti per incarichi di docenza percorso formativo per la qualifica OSS alunni indirizzo SAS
+- [AVVISO SELEZIONE ESPERTO E TUTOR MODULO “MARE E TECNOLOGIA ...](https://www.itisvoltanapoli.edu.it/circolare/avviso-selezione-esperto-e-tutor-modulo-mare-e-tecnologia-pn2127-piano-estate-26-27)
+  - 1 day ago · A TUTTI GLI INTERESSATI ALL’ALBO PRETORIO – BANDI DI GARA E AGGIUDICAZIONI ALL’AMMINISTRAZIONE TRASPARENTE – BANDI DI GARA E CONTRATTI AGLI ATTI AL SITO WEB – SEZIONE PNRR OGGETTO: AVVISO SELEZIONE ESPERTO E TUTOR MODULO “MARE E TECNOLOGIA” – PN2127 PIANO ESTATE 26-27 Fondi Strutturali Europei – Programma Nazionale “Scuola e competenze” 2021-2027 – Priorità…
+- [I. C. "Foscolo" di Barcellona P.G. (ME) - Homepage del ...](https://www.icfoscolo.edu.it)
+  - Jun 17, 2026 · Avviso progetto PN ESO 4.5.A2.B-FSEPN-SI-2026-403. Formazione docenti DM 38/2026 Avviso progetto PN ESO 4.5.A2.B-FSEPN-SI-2026-403 "Smart School: Inclusione e Visione Orientativa". Formazione docenti DM 38/2026. Selezione esperti/tutor/ATA. di Admin Leggi di più
+- [Avviso Pubblico per l’individuazione di figure per l’incarico ...](https://www.isarchimede.edu.it/documento/avviso-pubblico-per-lindividuazione-di-figure-per-lincarico-di-docente-esperto-relativamente-allattivazione-del-percorso-formativo-per-la-realizzazione-del-progetto-formazio)
+  - 6 days ago · Avviso Pubblico per l’individuazione di figure per l’incarico di DOCENTE ESPERTO relativamente all’attivazione del Percorso formativo per la realizzazione del progetto Formazione docenti – “Professione docente”
+- [Avviso e avvio di procedura di selezione di personale per il conferimento di n. 2 incarichi - Polo Tecnico Professionale "Righi - Boccioni - Fermi"](https://www.righiboccionifermi.edu.it/avviso-e-avvio-di-procedura-di-selezione-di-personale-per-il-conferimento-di-n-2-incarichi)
+  - 2 days ago - Avviso e avvio di procedura di selezione di personale interno per il conferimento di n. 2 incarichi individuali a docente esperto nella gestione del sistema informativo, adempimenti operativi e relazioni con l’Ufficio dell’Autorità di Gestione, ...
+- [Webmaster - IC Bricherasio](https://www.icbricherasio.edu.it/author/silvia-malanoicbricherasio-edu-it)
+  - 5 days ago ... Avviso di selezione per il conferimento di incarichi formatori per corso tinkering per docenti scuola primaria. ... Avviso per selezione esperti formatori ...
+- [Avviso di selezione interno per il reclutamento di 3 esperti e 3 tutor ...](https://www.iccervilimbiate.edu.it/2026/07/07/avviso-di-selezione-interno-per-il-reclutamento-di-3-esperti-e-3-tutor-nellambito-del-programma-nazionale-scuola-e-competenze-2021-2027-fondo-sociale-europeo-plus)
+  - Avviso di selezione interno per il reclutamento di 3 esperti e 3 tutor nell'ambito del Programma Nazionale "Scuola e competenze" 2021-2027 - Fondo Sociale Europeo Plus (FSE+) Priorità 01 - Scuola e competenze Obiettivo Specifico ESO4.5 - Azione ESO4.5.A2 - Sottoazione ESO4.5.A2.B Avviso pubblico prot. n. 95165 del 24/04/2026 - Formazione docenti. Codice Progetto: ESO4.5.A2.B ...
+- [Avviso Selezione Esperti - Progetto COMPETENZE PER UNA ...](https://www.icjannuzzimonsdidonna.edu.it/avviso-selezione-esperti-progetto-competenze-per-una-scuola-inclusiva)
+  - 1 day ago ... 38 del 6 marzo 2026, Avviso 95165 del 24/04/2026 – Formazione docenti.”, in attuazione del regolamento (UE) 2021/1060 – Obiettivo specifico ESO4.5 ...
+- [Programma Nazionale “Scuola e competenze” 2021-2027](https://gcaruso.edu.it/wp-content/uploads/2026/07/Circolare-336_Pubblicazione-avvisi-PON-FORMAZIONE-DOCENTI_reclutamento-esperti-tutor-docente-referente-esperto-supporto-tecnico-organizzativo-personale-ATA.pdf)
+  - 1 day ago ... Circolare 336_Pubblicazione avvisi PON-FORMAZIONE DOCENTI_reclutamento esperti ... 38 del 6 marzo 2026, Avviso 95165 del 24/04/2026 – Formazione docenti, Codice ...
+

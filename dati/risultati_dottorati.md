@@ -203,3 +203,14 @@
 - [Albo Ufficiale | ScuolaNormaleSuperiore](https://www.sns.it/it/albo)
   - 19597/2026. Bando di Concorso PhD 42° ciclo - seconda sessione - Classe di Scienze politico-sociali. Richiedente: Scuola Normale Superiore - SDF - Servizio Didattica e Allievi sede di Firenze.
 
+## Ricerca del 2026-07-09 08:18 UTC
+
+- [Dottorato in STUDI ITALIANISTICI E STORICO-ARTISTICI](https://phd.uniroma2.it/web/concorso42.aspx?i=1023&l=IT)
+  - 6 days ago ... L'indirizzo di Italianistica si propone di formare giovani ricercatori nell'ambito della letteratura italiana medievale, moderna e contemporanea, ...
+- [Dottorati di ricerca - Università degli Studi di Perugia - UniPG](https://www.unipg.it/didattica/percorsi-post-laurea/dottorati-di-ricerca)
+  - 3 days ago ... Dottorati di ricerca · Bando per l'ammissione a 5 corsi di Dottorato di Ricerca del XLI ciclo, a.a. 2025/2026 · Istruzioni immatricolazioni corsi di dottorato ...
+- [Pubblicato il bando per il 42° ciclo di Dottorato | Dottorato in ...](https://scienze-umanistiche.phd.unime.it/en/node/207)
+  - Si comunica la pubblicazione del nuovo bando per il Dottorato, con scadenza il 24 luglio.
+- [Bandi e graduatorie - Dicea](https://www.dicea.unina.it/dottorato/bandi-e-graduatorie)
+  - Jul 2, 2026 · Si avvisano i candidati che, diversamente da come scritto nell’allegato al bando, i candidati potranno scegliere la lingua con la quale sostenere l’esame orale, tra quelle previste dal bando (italiano, inglese, francese, spagnolo, tedesco)
+
