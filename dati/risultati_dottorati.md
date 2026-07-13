@@ -214,3 +214,28 @@
 - [Bandi e graduatorie - Dicea](https://www.dicea.unina.it/dottorato/bandi-e-graduatorie)
   - Jul 2, 2026 · Si avvisano i candidati che, diversamente da come scritto nell’allegato al bando, i candidati potranno scegliere la lingua con la quale sostenere l’esame orale, tra quelle previste dal bando (italiano, inglese, francese, spagnolo, tedesco)
 
+## Ricerca del 2026-07-13 08:09 UTC
+
+- [(PDF) Bando di concorso per l'ammissione al corso di dottorato di...](https://www.academia.edu/102127063/Bando_di_concorso_per_lammissione_al_corso_di_dottorato_di_ricerca_in_Studi_Linguistici_e_Letterari_Università_di_Udine_Università_di_Trieste)
+  - Bando del dottorato di ricerca in Letterature romanze (letteratura italiana) Lingue romanze (lingua italiana) Palacký University Olomouc Scadenza 30/04/2022.
+- [Bando per l'ammissione ai corsi di dottorato di ricerca in "Linguistic...](https://www.italianisti.it/news/adi/bando-per-lammissione-ai-corsi-di-dottorato-di-ricerca-in-linguistica-italiana-e-lettera)
+  - Dipartimento di Lingue e Letterature Romanze, Facoltà di Lettere e Filosofia dell'Università "F. Palacký" di Olomouc. 12 Febbraio 2020. Bando per l'ammissione ai corsi di dottorato di ricerca in "Linguistica italiana e Letteratura italiana"
+- [Antichita' classiche e loro fortuna. archeologia, filologia, storia](https://dottorati.uniroma2.it/pagina.aspx?id_pagina=10250)
+  - Corsi DI dottorato bando XL. Antichita' classiche e loro fortuna.Scuola di Dottorato Tor Vergata Direzione II – Ricerca, Terza Missione, Procedure elettorali Divisione I – Ricerca Nazionale Ripartizione III – Scuola di Dottorato.
+- [Dipartimento di Lettere e Beni Culturali - Bando per l'ammissione ai...](https://www.letterebeniculturali.unicampania.it/dipartimento/avvisi/4105-bando-per-l-ammissione-ai-corsi-di-dottorato-di-ricerca-41-ciclo)
+  - Bando per l'ammissione ai corsi di Dottorato di Ricerca - 41° ciclo.CdS in Filologia classica e moderna. CdS in Scienze della Formazione primaria. Qualità della Ricerca e Terza Missione.
+- [Bandi in corso – Dottorato in Filologia - unina.it](https://www.dottfilologia.studiumanistici.unina.it/category/bandi-it/bandi-in-corso-it-it)
+  - Jun 24, 2026 · Bando 42° ciclo a. a. 2026/27 DR/2026/2419 del 22/06/2026 Pagina del bando Leggi di più
+- [Bando di Dottorato - SAPIENZA Università di Roma](https://phd.uniroma1.it/application/publicProceduraConcorsuale.aspx?ib=1034&s=1751)
+  - La ricerca linguistica prevede l’analisi metalinguistica delle lingue dei gruppi germanico e slavo; comprende la traduzione, scritta e orale, nelle sue molteplici articolazioni e nelle applicazioni multimediali.
+- [Dottorato di ricerca in lingue e letteratura straniere](http://dsu-italianistica.uniroma2.it)
+  - Dottorato di Ricerca in Studi Umanistici - Indirizzo Italianistica.Dottori di ricerca. Ultima ora. Nuovo bando A. A. 2013 - 2014. IMPORTANTE AVVISO
+- [Ammissione — Scienze pedagogiche — Corso di dottorato](https://phd.unibo.it/scienze-pedagogiche/it/dottorato/ammissione)
+  - Per il bando di dottorato relativo all'anno accademico in corso, visitare la pagina "Dottorati di ricerca" sul sito di Dipartimento. In evidenza. Informazioni per iscriversi a un dottorato di ricerca.
+- [Concorso pubblico per Borse di Dottorato su tematiche...](https://anpia.it/concorso-pubblico-per-borse-di-dottorato-su-tematiche-green-e-innovazione-free-university-of-bozen-bolzano)
+  - Dottorato di ricerca in Pedagogia generale, Pedagogia Sociale, Didattica generale e Didattica disciplinare. Questo dottorato di ricerca affronta lo studio delle scienze pedagogiche e didattiche in contesto interdisciplinare...
+- [Dottorati di Ricerca | Bandi e Circolari](https://web.unisa.it/didattica/dottorati/bandi?anno=2026&bando=14638)
+  - Jun 30, 2026 · È istituito il XLII ciclo dei Corsi di Dottorato di Ricerca aventi sede amministrativa presso l’Università degli Studi di Salerno. le iscrizioni alla procedura concorsuale sono aperte dal 06/07/2026
+- [BANDO B a.a. 2026/2027 - UNIPI](https://www.unipi.it/didattica/corsi/dottorati/bando2026-27/bando-b-2026-2027)
+  - 3 days ago · BANDO B a.a. 2026/2027 Con il BANDOB, emanato con Decreto rettorale n. 989 del 10 luglio 2026, sono indetti pubblici concorsi per l’ammissione ai seguenti corsi di dottorato, con sede amministrativa presso l’Università di Pisa, per l’anno accademico 2026/2027 (42° ciclo).
+
