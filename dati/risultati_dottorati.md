@@ -239,3 +239,24 @@
 - [BANDO B a.a. 2026/2027 - UNIPI](https://www.unipi.it/didattica/corsi/dottorati/bando2026-27/bando-b-2026-2027)
   - 3 days ago · BANDO B a.a. 2026/2027 Con il BANDOB, emanato con Decreto rettorale n. 989 del 10 luglio 2026, sono indetti pubblici concorsi per l’ammissione ai seguenti corsi di dottorato, con sede amministrativa presso l’Università di Pisa, per l’anno accademico 2026/2027 (42° ciclo).
 
+## Ricerca del 2026-07-17 07:10 UTC
+
+- [Corso di dottorato di ricerca in "Linguistica storica, linguistica ...](https://www.profilcultura.it/news-cultura/corso-dottorato-ricerca-linguistica-storica-linguistica-educativa-italianistica-xlii-ciclo-entro-202-185.html)
+  - Bando di concorso pubblico per l'ammissione al corso di Dottorato di ricerca in "Linguistica Storica, Linguistica Educativa e Italianistica" - XLII ciclo - a.a. 2026/2027 con sede amministrativa presso l'Università per Stranieri di Siena - in convenzione con l'Università degli Studi di Siena.
+- [Antichita' classiche e loro fortuna. archeologia, filologia, storia](https://dottorati.uniroma2.it/antichita-classiche-e-loro-fortuna-archeologi_p10250.aspx)
+  - Bando Dottorati XL - DOTTORATO IN ANTICHITA' CLASSICHE - AA 2024-25_rev.pdf.Scuola di Dottorato Tor Vergata Direzione II – Ricerca, Terza Missione, Procedure elettorali Divisione I – Ricerca Nazionale Ripartizione III – Scuola di Dottorato.
+- [Ammissioni Dottorato di Ricerca Visual and Media Studies | IULM](https://www.iulm.it/it/offerta-formativa/dottorati-di-ricerca/dottorato-visual-media-studies/ammissioni)
+  - Dipartimento di Studi Umanistici. Strumenti per la ricerca.Il bando per l'ammissione al XLII ciclo dei corsi di Dottorato di Ricerca a.a. 2026/2027 scade il 30 giugno 2026 alle ore 12.00, la piattaforma PICA sarà attiva per le candidature dal giorno 29 maggio ore 9.00.
+- [Dettagli Bando - Academic Jobs Italy](https://academicjobsitaly.com/it/job/dottorato/314262)
+  - Descrizione L'Università degli Studi di Milano-Bicocca ha pubblicato il bando di concorso,a.a. 2026-2027, II sessione,per i corsi di dottorato: Educazione nella Società Contemporanea,Fisica e Astronomia,Informatica, Medicina Traslazionale e Molecolare,Neuroscienze,Nursing & Midwifery,Psicologia Linguistica e Neuroscienze Cognitive,Public Health Epidemiology, Statistics and Economics ...
+- [Bando di concorso per l’ammissione ai corsi di dottorato di ricerca...](https://www.studiumanistici.unina.it/bando-di-concorso-per-lammissione-ai-corsi-di-dottorato-di-ricerca-del-xxxii-ciclo)
+  - www.unina.it/didattica/post-laurea/dottorati-di-ricerca/english-version . La scadenza per la presentazione della domanda è l’ 8 settembre 2016 e che essa va presentata esclusivamente tramite procedura telematica entro e non oltre le ore 12:00 dell’ 8 settembre 2016.
+- [Home: Italianistica - Università Ca' Foscari Venezia](https://www.unive.it/web/it/141/home)
+  - Dottorato in Italianistica Bandi di ammissione Chiusura selezioni bando annuale a.a. 2026/2027 - 42° ciclo Le candidature al concorso sono terminate. Tutti i risultati verranno pubblicati, secondo calendario, alla pagina dedicata alle Selezioni. Per ulteriori informazioni contattare l'Ufficio Dottorato di Ricerca (phd.application@unive.it).
+- [ITALIANISTICA](https://phd.uniroma1.it/web/concorso41.aspx?i=3516&l=IT)
+  - Concorso di ammissione 41° ciclo. Bando ordinario. Obiettivi formativi del dottorato. Il Dottorato in Italianistica della Sapienza rappresenta un punto di riferimento essenziale nel contesto nazionale e internazionale per la formazione alla ricerca nei campi pertinenti allo studio della...
+- [Bando di ammissione ai corsi di dottorato di ricerca - XLI ciclo...](https://www.unimore.it/it/bando-phd-41)
+  - Data di pubblicazione: 30/05/2025. Struttura proponente: Segreteria Ufficio Dottorati di Ricerca.Scienze umanistiche studi linguistico-letterari, discipline storico-filosofiche, comunicazione e cultura digitale.
+- [Schede dei corsi di dottorato a bando | Università di Firenze](https://www.unifi.it/it/studia-con-noi/cosa-studiare/dottorati-master-e-scuole-di-specializzazione/dottorati-di-ricerca/schede-dei-corsi-di-dottorato-a-bando)
+  - Filologia, Letteratura Italiana, Linguistica - Bando generale ciclo XLII.Struttura proponente: Dipartimento di Lettere e Filosofia (DILEF). In collaborazione con: Università di Pisa. Tipologia di borsa: Pegaso. Corsi di Dottorato ciclo XLII - Bandi.
+

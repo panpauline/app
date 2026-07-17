@@ -850,3 +850,34 @@
 - [Istituto Comprensivo Masaccio - San Giovanni Valdarno (AR)](https://icmasaccio.edu.it/?p=494)
   - AVVISO DI SELEZIONE interna esperti e tutor - FSEPN Avviso 95165 Formazione docenti.lettera di disseminazione progetto ESO4.5.A2.B-FSEPN-TO-2026-153 Avviso prot. 95165 Formazione docenti.
 
+## Ricerca del 2026-07-17 07:09 UTC
+
+- [AVVISI DI SELEZIONE ESPERTI E TUTOR PN DM38 FORMAZIONE DOCENTI - IISS «Jacopo del Duca – Diego Bianca Amato»](https://www.delduca-biancaamato.edu.it/avvisi-di-selezione-esperti-e-tutor-pn-dm38-formazione-docenti)
+  - 4 days ago - Fondi Strutturali Europei – Programma ... del Ministro dell’istruzione e del merito n. 38 del 6 marzo 2026, Avviso 95165 del 24/04/2026 – Formazione docenti.”, in attuazione del regolamento (UE) 2021/1060 – Obiettivo specifico ...
+- [Avviso di selezione interno/esterno Esperti e Tutor PN 21_27 Formazione Docenti - Istituto Comprensivo Senorbì](https://www.comprensivosenorbi.edu.it/avviso-di-selezione-interno-esterno-esperti-e-tutor-pn-21_27-formazione-docenti)
+  - 3 days ago - Pubblicato in Albo online l’avviso per la selezione interna/esterna di esperti e tutor per la realizzazione del progetto “Formare per Includere: Didattica, Relazione, Benessere”, PN 21_27 Avviso 95165 del 24/04/2026 – Formazione docenti.
+- [selezione esperti-tutor-fig. supporto PN Formazione docenti - ISTITUTO COMPRENSIVO - DE GASPERI](https://www.ic2degaspericaivano.edu.it/selezione-esperti-tutor-fig-supporto-pn-formazione-docenti)
+  - 3 days ago - Avviso selezione Esperti-Tutor-Gruppo di progetto ...
+- [avviso rivolto a figure professionali esperti e tutor interni da ...](https://comprensivofrosinone3.edu.it/scuola/circolare/avviso-rivolto-a-figure-professionali-esperti-e-tutor-interni-da-contrattualizzare-ai-sensi-dellart-45-del-ccnl-pnrr-d-m-219-2025-snodi-formativi/?pdf=true)
+  - 1 week ago - VISTA la necessità di individuare docenti in qualità di “ESPERTI E TUTOR”, per la corretta esecuzione ... Art. 1 Oggetto · DI AVVIARE una procedura di selezione comparativa, attraverso la valutazione dei curriculum, per la · selezione delle seguenti figure professionali per le seguenti azioni del progetto: n° Tipologia Modulo Titolo del Modulo e breve descrizione Figure richieste n° ore 1 Percorsi di · formazione e approfondimento sull’IA nell’organizzazione e nella didattica DIDATTICA AUMENTATA
+- [Avviso di selezione Formatori esperti esterni Bando Piano Estate 2026 - Centro Provinciale Istruzione Adulti Isernia](https://www.cpiaisernia.edu.it/20260713150029unidos)
+  - 4 days ago - Avviso di selezione Formatori esperti esterni Bando Piano Estate 2026. – AVVISO_DI_SELEZIONE_FORMATORI_ESPERTI_ESTERNI_BANDO_PIANO_ESTATE_2026_signed__282_29.pdf
+- [Determina avvio selezione personale interno per il reclutamento di esperti. - I.C. Campodipietra](https://www.scuolacampodipietra.edu.it/site/2026/07/16/20260716103337unidos)
+  - 1 day ago - Fondi Strutturali Europei – Programma ... di cui al decreto del Ministro dell’istruzione e del merito n. 175 del 9 settembre 2025, Avviso 53338 del 09/03/2026 – Agenda Sud a.s....
+- [Didattica In Azione – PN FSE – D.M. 38 – Formazione docenti – Modulo La Valutazione In Azione](https://iccaprino.edu.it/didattica-in-azione-pn-fse-d-m-38-formazione-docenti-modulo-la-valutazione-in-azione)
+  - 1 month ago - Si avvisa che è indetta la procedura di selezione comparativa, attraverso la valutazione dei curriculum, per la selezione fino ad un massimo di 3 Esperti e fino ad in massimo di sei Tutor per la conduzione del modulo: LA VALUTAZIONE IN ITINERE
+- [BANDO DI SELEZIONE PERSONALE INTERNO - COLLABORAZIONE PLURIMA ESPERTO/TUTOR Fondi Strutturali Europei – Programma Nazionale “Scuola e competenze” 2021-2027 – Priorità 01 – Scuola e competenze – Fondo Sociale Europeo Plus (FSE ) – Obiettivo Specifico ESO4.5, Azione ESO4.5.A2 – Sotto azione ESO4.5.A2.B, interventi di cui al decreto del Ministro dell’istruzione e del merito n. 38 del 6 marzo 2026, Avviso 95165 del 24/04/2026 – Formazione docenti. Titolo Progetto: ESO4.5.A2.B – I.D.E.A. C](https://www.omnisantacrocedim.edu.it/20260714133019unidos)
+  - 3 days ago - Home » BANDO DI SELEZIONE PERSONALE ... di cui al decreto del Ministro dell’istruzione e del merito n. 38 del 6 marzo 2026, Avviso 95165 del 24/04/2026 – Formazione docenti....
+- [Avviso interno di selezione esperto e tutor - DM 38 formazione](https://anzioquarto.edu.it/2026/07/15/avviso-interno-di-selezione-esperto-e-tutor-dm-38-formazione)
+  - Avviso interno di selezione esperto e tutor - DM 38 formazione Allegato A - Istanza di partecipazione Esperto_Tutor Allegato B - Scheda autodichiarazione titoli e punteggi Allegato C - Dichiarazione assenza conflitto di interessi
+- [Avviso pubblico selezione personale interno/esterno per il reclutamento di esperti e tutor - ISTITUTO D’ISTRUZIONE SUPERIORE L.S. – ISA – IPSIA](https://www.liceisgf.edu.it/avviso-pubblico-selezione-personale-interno-esterno-per-il-reclutamento-di-esperti-e-tutor)
+  - 2 weeks ago - Si comunica che all’Albo ... Piano Estate 2026-2027 – PN “Scuola e competenze” 2021-2027 (FSE+), Avviso Pubblico prot. n. […]...
+- [Fondi Strutturali Europei - Programma Nazionale "Scuola e competenze ...](https://istitutodarzo.edu.it/2026/07/01/fondi-strutturali-europei-programma-nazionale-scuola-e-competenze-2021-2027)
+  - Avviso di avvio di una procedura di selezione comparativa, attraverso la valutazione dei curricula con la commissione di valutazione, per la selezione delle figure professionali di esperto e di tutor da inserire nell'organizzazione di n. 4 moduli formativi per il progetto ESO4.6.A4.A-FSEPN-EM-2026-1000 - MODULI DI POTENZIAMENTO DI ITALIANO E MATEMATICA: Il presente avviso, rivolto ...
+- [125757_Avviso selezione tutor esperto Piano estate Muoversi in libertà Moro](https://icscapponi.edu.it/sito-download-file/1585/all)
+  - OGGETTO: AVVISO INTERNO PER LA SELEZIONE DI DOCENTI ESPERTI E TUTOR A VALERE SUL PROGETTO - Modulo 125757 Muoversi in libertà Moro Fondi Stru urali Europei - Programma Nazionale "Scuola e competenze" 2021-2027.
+- [Candidature DOCENTI ESPERTI e TUTOR - Piano Estate 2026-2027](https://www.isducaeinaudipareto.edu.it/circolare/candidature-docenti-esperti-e-tutor-piano-estate-2026-2027/?pdf=true)
+  - Si comunica che, all'Albo Pretorio online, è stato pubblicato l'Avviso per il reclutamento di esperti e tutor per il progetto Piano Estate 2026-2027 "Oltre l'Aula: percorsi di crescita e partecipazione" - Fondi Strutturali Europei - Programma Nazionale "Scuola e competenze" 2021- 2027 Priorità 01 - Scuola e competenze - Fondo Sociale Europeo Plus (FSE+) - Obiettivo ...
+- [Albo Online – Istituto Comprensivo Oltrarno](https://www.ic-oltrarno.edu.it/?page_id=15380)
+  - Avviso INTERNO selezione esperto e tutor formazione docenti-signed.29/01/20 – Bando potenziamento cittadinanza europea 2 moduli per gennaio-1.
+

@@ -2,7 +2,9 @@
   "urls": [
     "http://dsu-italianistica.uniroma2.it",
     "http://www2.classics.unibo.it/old/Ricerca/dottorati.htm",
+    "https://academicjobsitaly.com/it/job/dottorato/314262",
     "https://anpia.it/concorso-pubblico-per-borse-di-dottorato-su-tematiche-green-e-innovazione-free-university-of-bozen-bolzano",
+    "https://dottorati.uniroma2.it/antichita-classiche-e-loro-fortuna-archeologi_p10250.aspx",
     "https://dottorati.uniroma2.it/pagina.aspx?id_pagina=10250",
     "https://ficlit.unibo.it/it/ricerca/ambiti-di-ricerca",
     "https://lccm.dottorato.unige.it/node/202",
@@ -15,6 +17,7 @@
     "https://phd.uniroma1.it/application/publicProceduraConcorsuale.aspx?ib=1139&s=1941",
     "https://phd.uniroma1.it/application/publicProceduraConcorsuale.aspx?ib=994&s=1711",
     "https://phd.uniroma1.it/web/OffertaFormativaProgrammata.aspx?c=37&i=3501&l=IT",
+    "https://phd.uniroma1.it/web/concorso41.aspx?i=3516&l=IT",
     "https://phd.uniroma1.it/web/concorso42.aspx?i=3501",
     "https://phd.uniroma1.it/web/concorso42.aspx?i=3516",
     "https://phd.uniroma1.it/web/concorso42.aspx?i=3516&l=IT",
@@ -48,6 +51,7 @@
     "https://www.dsu.univr.it/?ent=home&page=dottorati",
     "https://www.fileli.unipi.it/dipartimento/concorsi-gare-e-bandi",
     "https://www.italianisti.it/news/adi/bando-per-lammissione-ai-corsi-di-dottorato-di-ricerca-in-linguistica-italiana-e-lettera",
+    "https://www.iulm.it/it/offerta-formativa/dottorati-di-ricerca/dottorato-visual-media-studies/ammissioni",
     "https://www.lettere.unitn.it/news/890",
     "https://www.letterebeniculturali.unicampania.it/dipartimento/avvisi/3485-bando-per-l-ammissione-ai-corsi-di-dottorato-di-ricerca-40-ciclo",
     "https://www.letterebeniculturali.unicampania.it/dipartimento/avvisi/3525-bando-dottorato-di-interesse-nazionale-in-studi-religiosi-40-ciclo",
@@ -56,9 +60,11 @@
     "https://www.mgl.studiumanistici.unina.it/bando-42-ciclo-a-a-2026-27",
     "https://www.mur.gov.it/sites/default/files/2024-08/ConservatorioCesena_BANDO+DOTTORATO+DIN+ARMH-2024+IT.signed.pdf",
     "https://www.polito.it/didattica/dottorato-di-ricerca-e-scuola-di-specializzazione/ammissione-al-dottorato/ammissione/bando-di-concorso",
+    "https://www.profilcultura.it/news-cultura/corso-dottorato-ricerca-linguistica-storica-linguistica-educativa-italianistica-xlii-ciclo-entro-202-185.html",
     "https://www.sns.it/it/albo",
     "https://www.ssmeridionale.it/avcp/bando-di-concorso-xli-ciclo-dottorato-di-ricerca-della-scuola-superiore-meridionale",
     "https://www.studiumanistici.unifg.it/it/studiare/dottorati-di-ricerca",
+    "https://www.studiumanistici.unina.it/bando-di-concorso-per-lammissione-ai-corsi-di-dottorato-di-ricerca-del-xxxii-ciclo",
     "https://www.studiumanistici.unina.it/bando-per-lammissione-ai-corsi-di-dottorato-di-ricerca-del-xxxvii-ciclo",
     "https://www.uniba.it/it/dottorati",
     "https://www.uniba.it/it/dottorati/dottorati/41-ciclo/bando",
@@ -78,9 +84,11 @@
     "https://www.unifg.it/sites/default/files/2021-10/dottorati-37ciclo-avviso-prove.pdf",
     "https://www.unifg.it/sites/default/files/2023-09/dottorati-xxxix-ciclo-scienze-umanistiche-ammessi.pdf",
     "https://www.unifg.it/sites/default/files/2024-09/dottorato-40ciclo-scienze-umanistiche-approvazione-atti.pdf",
+    "https://www.unifi.it/it/studia-con-noi/cosa-studiare/dottorati-master-e-scuole-di-specializzazione/dottorati-di-ricerca/schede-dei-corsi-di-dottorato-a-bando",
     "https://www.unifi.it/it/studia-con-noi/dopo-la-laurea/dottorati-di-ricerca/corsi-dottorato-di-ricerca",
     "https://www.unime.it/bandi/bando-dottorato-di-ricerca-25-26",
     "https://www.unime.it/didattica/post-laurea/dottorati-di-ricerca",
+    "https://www.unimore.it/it/bando-phd-41",
     "https://www.unina.it/en/didattica/post-laurea/dottorati/42esimo-ciclo",
     "https://www.uninsubria.it/bandi-e-concorsi/bando-di-ammissione-ai-corsi-di-dottorato-xli-ciclo-aa-20252026",
     "https://www.unipa.it/didattica/dottorati",
@@ -111,6 +119,7 @@
     "https://www.unive.it/phd-italianistica",
     "https://www.unive.it/web/fileadmin/user_upload/dottorati/doc/accesso/bando_42/Ammessi_non_Ammessi_IngFisMat_42_ciclo.pdf",
     "https://www.unive.it/web/fileadmin/user_upload/dottorati/doc/accesso/bando_42/Ammessi_non_ammessi_ScClima_42_ciclo.pdf",
-    "https://www.unive.it/web/fileadmin/user_upload/dottorati/doc/accesso/bando_42/Convocazione_prova_orale_Italianistica.pdf"
+    "https://www.unive.it/web/fileadmin/user_upload/dottorati/doc/accesso/bando_42/Convocazione_prova_orale_Italianistica.pdf",
+    "https://www.unive.it/web/it/141/home"
   ]
 }
