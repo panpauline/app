@@ -1,4 +1,4 @@
-name: Ricerca bandi formatori e dottorati
+name: Ricerca bandi formatori e universita'
 
 on:
   # Ogni 4 giorni, alle 05:00 UTC (07:00 ora italiana legale).
@@ -34,9 +34,9 @@ jobs:
         continue-on-error: true
         run: python scripts/cerca_bandi.py
 
-      - name: Ricerca bandi dottorato umanistici
+      - name: Ricerca docenze e tutoraggi universita'
         continue-on-error: true
-        run: python scripts/cerca_dottorati.py
+        run: python scripts/cerca_universita.py
 
       - name: Salva stato aggiornato (commit)
         run: |
@@ -65,17 +65,17 @@ jobs:
             --body-file nuovi_bandi.md \
             --assignee panpauline
 
-      - name: Apri issue per nuovi bandi dottorato
-        if: ${{ hashFiles('nuovi_dottorati.md') != '' }}
+      - name: Apri issue per nuove docenze/tutoraggi universita
+        if: ${{ hashFiles('nuovi_universita.md') != '' }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh issue create \
-            --title "Nuovi bandi dottorato - $(date +%F)" \
-            --body-file nuovi_dottorati.md \
+            --title "Nuove docenze/tutoraggi universita - $(date +%F)" \
+            --body-file nuovi_universita.md \
             --assignee panpauline \
-            --label "bandi-dottorati" 2>/dev/null \
+            --label "bandi-universita" 2>/dev/null \
           || gh issue create \
-            --title "Nuovi bandi dottorato - $(date +%F)" \
-            --body-file nuovi_dottorati.md \
+            --title "Nuove docenze/tutoraggi universita - $(date +%F)" \
+            --body-file nuovi_universita.md \
             --assignee panpauline

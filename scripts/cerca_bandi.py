@@ -32,14 +32,15 @@ except ImportError:  # pragma: no cover - fallback per versioni vecchie
 # Query inviate al motore di ricerca. Privilegiano i portali e gli albi delle
 # scuole e gli avvisi di SELEZIONE di formatori/esperti.
 QUERIES = [
-    'avviso selezione esperti formatori formazione docenti site:edu.it',
-    'avviso selezione formatori "PN Scuola e competenze" 2021-2027 site:edu.it',
-    'avviso selezione esperti formatori "DM 38/2026" formazione docenti site:edu.it',
-    'reclutamento esperti formatori formazione personale docente avviso site:edu.it',
-    'albo pretorio avviso selezione formatori formazione docenti',
-    'manifestazione di interesse formatori formazione docenti avviso 95165',
+    'avviso selezione esperti formatori "DM 38/2026" site:edu.it',
+    'avviso selezione formatori "PN Scuola e competenze 2021-2027" site:edu.it',
+    'bando selezione esperti formatori "DM 38/2026" scuola',
+    'avviso selezione esperti formatori "PN Scuola e competenze" formazione docenti site:edu.it',
+    'reclutamento esperti formatori "DM 38/2026" "PN Scuola e competenze" site:edu.it',
+    'avviso selezione esperti formatori formazione docenti avviso 95165 site:edu.it',
+    'albo pretorio avviso selezione formatori "DM 38/2026"',
+    'manifestazione di interesse formatori "PN Scuola e competenze" avviso 95165',
     'bando selezione esperto formatore potenziamento competenze docenti site:edu.it',
-    'avviso 95165 selezione esperti formatori scuola',
 ]
 
 # Numero di protocollo dell'avviso di riferimento (usato come contesto, non basta
@@ -67,6 +68,42 @@ KW_SELEZIONE = ["selezione", "reclutamento", "manifestazione di interesse",
 
 # Parole che indicano la figura cercata (formatore/esperto).
 KW_FIGURA = ["formator", "esperto", "esperti"]
+
+# --- Filtro geografico: solo Nord e Centro Italia ---------------------------
+# Se il titolo/snippet/URL contiene una di queste parole, il risultato viene
+# scartato perche' presumibilmente riferito al Sud/Isole.
+SUD_KEYWORDS = [
+    # Regioni del Sud e Isole
+    "campania", "molise", "puglia", "basilicata", "calabria", "sicilia",
+    "sardegna", "meridione", "meridionale", "sud italia",
+    # Capoluoghi e principali comuni (Campania)
+    "napoli", "salerno", "avellino", "benevento", "caserta",
+    "torre del greco", "torredelgreco", "pozzuoli", "aversa", "sorrento",
+    "capri", "ischia", "eboli", "battipaglia", "nocera", "angri",
+    "castellabate", "agropoli", "vallo della lucania", "sapri",
+    # Molise
+    "campobasso", "isernia", "termoli", "larino", "venafro",
+    # Puglia
+    "bari", "foggia", "taranto", "brindisi", "lecce", "altamura",
+    "barletta", "andria", "trani", "molfetta", "bitonto", "monopoli",
+    "cerignola", "san severo", "manfredonia", "martina franca",
+    "gallipoli", "otranto", "nardò", "copertino", "galatina",
+    # Basilicata
+    "potenza", "matera", "melfi", "policoro", "lauria",
+    # Calabria
+    "cosenza", "catanzaro", "reggio calabria", "crotone", "vibo valentia",
+    "lamezia terme", "scalea", "corigliano", "rossano", "paola", "cirò",
+    # Sicilia
+    "palermo", "catania", "messina", "agrigento", "trapani",
+    "caltanissetta", "ragusa", "siracusa", "enna", "linguaglossa",
+    "acireale", "marsala", "mazara", "modica", "vittoria", "gela",
+    "sciacca", "augusta", "noto", "milazzo", "misiliscemi", "alcamo",
+    "favara", "canicattì", "canicatti", "licata",
+    # Sardegna
+    "cagliari", "sassari", "nuoro", "oristano", "olbia", "alghero",
+    "carbonia", "iglesias", "porto torres", "quartu",
+]
+
 
 # Risultati massimi richiesti per ogni query.
 MAX_PER_QUERY = 25
@@ -133,12 +170,21 @@ def url_troppo_vecchio(url: str) -> bool:
     return bool(m) and int(m.group(1)) < ANNO_MIN
 
 
+def e_sud(testo: str, url: str) -> bool:
+    """True se il testo/URL contiene un riferimento chiaro al Sud o Isole."""
+    t = f"{testo} {url}".lower()
+    return any(k in t for k in SUD_KEYWORDS)
+
+
 def e_rilevante(testo: str, url: str) -> bool:
     # Solo portali/albi delle scuole.
     if not fonte_scuola(url):
         return False
     # Scarta i bandi chiaramente vecchi (anno nel percorso URL).
     if url_troppo_vecchio(url):
+        return False
+    # Solo Nord + Centro Italia: scarta le scuole del Sud/Isole.
+    if e_sud(testo, url):
         return False
     t = f"{testo} {url}".lower()
     ha_figura = any(k in t for k in KW_FIGURA)
