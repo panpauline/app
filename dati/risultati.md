@@ -892,3 +892,8 @@
 - [PN Scuola e Competenze 2021 – 2027 – Istituto Istruzione ...](https://istitutoistruzionesuperiorecaselli.edu.it/tipologia-articolo/pn-scuola-e-competenze-2021-2027)
   - Jun 29, 2026 · DM40-Rettifica e proroga termini di presentazione delle domande relative all'Avviso di Selezione per il conferimento di incarichi di ESPERTO e TUTOR
 
+## Ricerca del 2026-07-18 18:33 UTC
+
+- [Programma Nazionale “PN Scuola e competenze 2021-2027”...](https://www.comprensivogalilei.edu.it/documento/programma-nazionale-pn-scuola-e-competenze-2021-2027-progetto-sottoazione-eso4-6-a4-d-titolo-bussola-per-il-futuro-avviso-interno-per-la-selezione-di-n-12-figure-professi-2)
+  - Le carte della scuola. PN 2021-27.Decreto_conferimento_incarichi_tutor_ed_esperti_PN_Orientamento.pdf.pades. pdf - 729 kb.
+
