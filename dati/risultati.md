@@ -881,3 +881,14 @@
 - [Albo Online – Istituto Comprensivo Oltrarno](https://www.ic-oltrarno.edu.it/?page_id=15380)
   - Avviso INTERNO selezione esperto e tutor formazione docenti-signed.29/01/20 – Bando potenziamento cittadinanza europea 2 moduli per gennaio-1.
 
+## Ricerca del 2026-07-18 18:27 UTC
+
+- [Istituto Istruzione Superiore G. Galilei - R. Luxemburg di Milano](https://www.galilux.edu.it)
+  - Avviso di selezione Esperto e Tutor per Modulo Intelligenza artificiale a scuola - DM 38/2026 NEWS.
+- [AVVISO PUBBLICO DI SELEZIONE per il conferimento di incarichi di DOCENTI ESPERTI e TUTOR - ISTITUTO COMPRENSIVO STATALE "SAN GIORGIO"](https://www.icsangiorgioct.edu.it/avviso-pubblico-di-selezione-per-il-conferimento-di-incarichi-di-docenti-esperti-e-tutor)
+  - 1 day ago - AVVISO PUBBLICO DI SELEZIONE per il conferimento di incarichi di DOCENTI ESPERTI e TUTOR - FSE-PN Scuola e competenze 2021-2027
+- [Programma Nazionale “PN Scuola e competenze 2021-2027”...](https://www.comprensivogalilei.edu.it/documento/programma-nazionale-pn-scuola-e-competenze-2021-2027-progetto-sottoazione-eso4-6-a4-d-titolo-bussola-per-il-futuro-avviso-interno-per-la-selezione-di-n-12-figure-professi)
+  - Le carte della scuola. PN 2021-27.Decreto_pubblicazione_grauatorie_definitive_tutor_ed_esperti_PN_Orientamento.pdf.pades. pdf - 765 kb.
+- [PN Scuola e Competenze 2021 – 2027 – Istituto Istruzione ...](https://istitutoistruzionesuperiorecaselli.edu.it/tipologia-articolo/pn-scuola-e-competenze-2021-2027)
+  - Jun 29, 2026 · DM40-Rettifica e proroga termini di presentazione delle domande relative all'Avviso di Selezione per il conferimento di incarichi di ESPERTO e TUTOR
+
