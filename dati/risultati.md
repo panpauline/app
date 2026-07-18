@@ -897,3 +897,12 @@
 - [Programma Nazionale “PN Scuola e competenze 2021-2027”...](https://www.comprensivogalilei.edu.it/documento/programma-nazionale-pn-scuola-e-competenze-2021-2027-progetto-sottoazione-eso4-6-a4-d-titolo-bussola-per-il-futuro-avviso-interno-per-la-selezione-di-n-12-figure-professi-2)
   - Le carte della scuola. PN 2021-27.Decreto_conferimento_incarichi_tutor_ed_esperti_PN_Orientamento.pdf.pades. pdf - 729 kb.
 
+## Ricerca del 2026-07-18 18:46 UTC
+
+- [Sito web istituzionale CPIA 4 Torino](https://www.cpia4torino.edu.it/index.php?idpag=2396)
+  - CPIA4TO_avviso DI selezione esperto e tutor pn scuola e competenze 2021-2027 fse+ avviso pubblico 81652.Entra nel sito della scuola con le tue credenziali per visualizzare contenuti, circolari e altre funzionalità a te dedicate. Username Username e password.
+- [Istituto Comprensivo Galilei – Fasano – Sito web ufficiale](https://www.comprensivogalilei.edu.it/?option=com_content&view=article&id=16&Itemid=272&jsmallfib=1&dir=JSROOT/Moduli_Personale/DOCENTI)
+  - Avviso di selezione di 1 ESPERTO FORMATORE interno e in subordine esterno e 1 TUTOR.PN 2021-27. AVVISO INTERNO PER LA SELEZIONE DI N. 4 figure professionali: n. 2 ESPERTI e n. 2 TUTOR da impiegare nell’ambito del progetto.
+- [Avviso selezione docente Esperto/Tutor AGENDA-SUD formiAMO...](https://convittofilangieri.edu.it/documento/avviso-selezione-docente-esperto-tutor-agenda-sud-formiamo-competenze-c-n-eso4-6-a1-b-fsepn-cl-2025-127)
+  - Progetti. PON FESR. Avviso selezione docente Esperto/Tutor AGENDA-SUD formiAMO competenze – C.N.: ESO4.6.A1.B-FSEPN-CL-2025-127.
+

@@ -53,3 +53,20 @@
 - [Bando per 3 incarichi di collaborazione part-time counselling (Prot. 151193 del 13/07/2026) | Scadenza: 31 luglio 2026 • Dipartimento di Filologia, Letteratura e Linguistica](https://www.fileli.unipi.it/2026/07/13/bando-per-3-incarichi-di-collaborazione-part-time-counselling-prot-151193-del-13-07-2026-scadenza-31-luglio-2026)
   - 5 days ago - Il Dipartimento di Filologia, Letteratura e Linguistica ha bandito una procedura comparativa per l’assegnazione di tre incarichi part-time di counselling (50 ore) dedicati a tutorato, accoglienza e orientamento delle matricole. Possono partecipare gli studenti iscritti ai corsi di laurea triennale e magistrale del Dipartimento.
 
+## Ricerca del 2026-07-18 18:47 UTC
+
+- [Dettaglio Bando incarichi insegnamento docenza a contratto...](https://www.architettura.uniroma1.it/dettaglio_bando/8365)
+  - allegato A_bando n. 1_18.pdf Manuale utente Didattica Sapienza.pdf Avviso di rettifica.pdf. Totale incarichi: 78. Incarichi conferiti dal bando.
+- [Bando di selezione comparativa pubblica, per soli titoli](https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1220c101134d49499a717ee5648f4f56)
+  - Procedura comparativa pubblica per titoli per la costituzione DI elenchi utili per incarichi DI docenza a contratto corsi accademici – didattica della musica a.a. 2024/2025 e 2025/2026. Descrizione
+- [Risultati selezioni Professori a contratto e incarichi di supporto alla didattica — Ufficio Concorsi e docenti a contratto](https://ateneo.unife.it/ripartizione-risorse-umane/ufficio-selezione-personale/professori-a-contratto/risultati-selezioni-professori-a-contratto-e-incarichi-di-supporto-alla-didattica)
+  - 3 weeks ago - Scienze dell'ambiente e della prevenzione: http://disap.unife.it/it/bandi-e-incarichi/didattica · Studi umanistici: https://stum.unife.it/it/organizzazione/concorsi
+- [BANDO TUTORAGGIO - Corso di Laurea in Lingue e letterature...](https://www-2020.llem.lettere.uniroma2.it/bando-tutoraggio)
+  - Avviso: è disponibile il bando tutoraggio POT UNISCO 7 per gli studenti preferibilmente del terzo anno.
+- [BANDO BT-B1 310/2026 - Attività di tutoraggio per Magistralisti](https://trasparenza.uniroma1.it/page/75/details/26931/bando-bt-b1-3102026-attivita-di-tutoraggio-per-magistralisti.html)
+  - Informazioni generali Tipologia concorso: Assegni attivita tutorato a studenti cls e dott ric Data di pubblicazione: 10/07/2026 Data di scadenza: 10/08/2026 Orario scadenza: 23:59 Ufficio di riferimento: FACOLTA' DI LETTERE E FILOSOFIA
+- [Vincitori e idonei Bando DR. 1510_2024 - Scuola di Studi Umanistici...](https://www.unifi.it/sites/default/files/2025-01/dr_1510_2024_tutor_orientamento_uman_formaz_vincitori.pdf)
+  - Bando di selezione per l’attribuzione di assegni per attività di Tutorato Orientativo e Didattico, riservato a studenti capaci e meritevoli (L. 170/2003) per l’a.a. 2024/2025 -pubblicato con D.R. 1510/2024 (prot. 279351) del 08.11.2024.
+- [Avviso pubblico DI selezione per attivita’ DI tutorato...](https://www.unicam.it/bandi/2024/avviso-pubblico-di-selezione-attivita’-di-tutorato-nell’ambito-delle-attività-del-corso)
+  - Unicam, nell'ottica del contrasto agli stereotipi di genere, ha avviato un lavoro di sensibilizzazione al fine di dare maggiore visibilità linguistica alle differenze.
+
