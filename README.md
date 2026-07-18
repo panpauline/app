@@ -1,29 +1,31 @@
 # licei-trend-iscrizioni
 
-## Ricerca automatica bandi (formatori + dottorati umanistici)
+## Ricerca automatica bandi (formatori scuole + docenze/tutoraggi universita')
 
 Strumento che cerca periodicamente sul web:
 
-1. **Bandi delle scuole italiane per la selezione di formatori** collegati
-   all'**Avviso prot. n. 95165 del 24/04/2026** (PN Scuola e competenze
-   2021-2027) e ad avvisi analoghi per la formazione del personale docente.
-2. **Bandi di dottorato di ricerca** delle universita' italiane (pubbliche e
-   private) su materie umanistiche affini al profilo: italianistica, latino,
-   filologia, linguistica, didattica, metodologie didattiche, pedagogia,
-   studi umanistici.
+1. **Bandi delle scuole italiane per la selezione di formatori** collegati al
+   **DM 38/2026**, all'**Avviso prot. n. 95165 del 24/04/2026** e al programma
+   **PN Scuola e competenze 2021-2027**. La ricerca e' limitata alle scuole di
+   **Nord e Centro Italia**.
+2. **Bandi APERTI per docenze a contratto e tutoraggi** delle universita'
+   italiane (pubbliche e private) su materie umanistiche affini al profilo:
+   italianistica, latino, filologia, linguistica, didattica, metodologie
+   didattiche, pedagogia, studi umanistici.
 
 ### Come funziona
 
-- **`scripts/cerca_bandi.py`** — ricerca dei bandi formatori (stato in
-  `dati/visti.json`, archivio in `dati/risultati.md`).
-- **`scripts/cerca_dottorati.py`** — ricerca dei bandi di dottorato umanistici
-  (stato in `dati/visti_dottorati.json`, archivio in
-  `dati/risultati_dottorati.md`).
+- **`scripts/cerca_bandi.py`** — ricerca bandi formatori nelle scuole di
+  Nord/Centro (stato: `dati/visti.json`, archivio: `dati/risultati.md`).
+- **`scripts/cerca_universita.py`** — ricerca docenze a contratto e tutoraggi
+  universitari (stato: `dati/visti_universita.json`, archivio:
+  `dati/risultati_universita.md`).
 - **`.github/workflows/ricerca-bandi.yml`** — GitHub Action che:
   - gira automaticamente **ogni 4 giorni** (cron `0 5 */4 * *`, ore 05:00 UTC);
   - esegue entrambe le ricerche;
-  - apre **due issue separate** su GitHub (una per i formatori, una per i
-    dottorati) quando ci sono novita' — GitHub ti invia un'email di notifica.
+  - apre **due issue separate** su GitHub (una per i formatori, una per le
+    docenze/tutoraggi) quando ci sono novita' — GitHub ti invia un'email di
+    notifica.
 
 ### Come attivarla
 
@@ -41,5 +43,5 @@ Strumento che cerca periodicamente sul web:
 ### Personalizzare le ricerche
 
 Le parole chiave e le query sono in cima a ciascuno script
-(`scripts/cerca_bandi.py`, `scripts/cerca_dottorati.py`), nella sezione
+(`scripts/cerca_bandi.py`, `scripts/cerca_universita.py`), nella sezione
 *Configurazione*: puoi aggiungerne o modificarle liberamente.
