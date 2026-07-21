@@ -906,3 +906,12 @@
 - [Avviso selezione docente Esperto/Tutor AGENDA-SUD formiAMO...](https://convittofilangieri.edu.it/documento/avviso-selezione-docente-esperto-tutor-agenda-sud-formiamo-competenze-c-n-eso4-6-a1-b-fsepn-cl-2025-127)
   - Progetti. PON FESR. Avviso selezione docente Esperto/Tutor AGENDA-SUD formiAMO competenze – C.N.: ESO4.6.A1.B-FSEPN-CL-2025-127.
 
+## Ricerca del 2026-07-21 07:27 UTC
+
+- [FORMAZIONE DOCENTI NELL’AMBITO DELL’OBIETTIVO ESO4.5 DEL PROGRAMMA NAZIONALE “SCUOLA E COMPETENZE” 2021-2027 (DM 38/2026) - Istituto Comprensivo Calderini Tuccimei](https://www.iccalderinituccimei.edu.it/2026/06/22/formazione-docenti-nellambito-dellobiettivo-eso4-5-del-programma-nazionale-scuola-e-competenze-2021-2027-dm-38-2026)
+  - 3 days ago - Avviso interno selezione esperti e tutor · All. A Domanda di partecipazione · All. B Dichiarazione assenza incompatibilità · Moduli formativi autorizzati: RelAzioni in classe – Strategie educative per il benessere, l’inclusione e la gestione dei gruppi · OrientaMenti – Motivazione, talento e futuro nella scuola che cresce · Progettare il futuro: formazione e sviluppo professionale dei docenti · Pubblicato: 22.06.2026 - Revisione: 18.07.2026 ·
+- [Avviso selezione interna DOCENTI ESPERTI e DOCENTI TUTOR...](https://www.cpia1karalis.edu.it/avviso-selezione-interna-docenti-esperti-e-docenti-tutor-interni-laboratori-d-m-66-2023)
+  - Avvisi selezione personale amministrativo e docente di supporto al RUP. Da impiegare per attività di supporto tecnico-operativo al RUP finalizzate alla realizzazione delle azioni di cui all'avviso pubblico DM65/2023.
+- [Istituto d'Istruzione Superiore "Guarasci-Calabretta"](https://www.guarascicalabretta.edu.it/?option=com_attachments&task=download&id=3541)
+  - Avviso pubblico di selezione per le figure di docenti esperti interni/esterni e tutor interni nei laboratori di formazione sul campo.Percorsi formativi e laboratoriali co- curriculari, mentoring e orientamento e potenziamento delle competenze DI base.
+

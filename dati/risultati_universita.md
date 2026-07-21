@@ -70,3 +70,24 @@
 - [Avviso pubblico DI selezione per attivita’ DI tutorato...](https://www.unicam.it/bandi/2024/avviso-pubblico-di-selezione-attivita’-di-tutorato-nell’ambito-delle-attività-del-corso)
   - Unicam, nell'ottica del contrasto agli stereotipi di genere, ha avviato un lavoro di sensibilizzazione al fine di dare maggiore visibilità linguistica alle differenze.
 
+## Ricerca del 2026-07-21 07:28 UTC
+
+- [Bando docenza a contratto per corsi ufficiali](https://www.unicusano.it/wp-content/uploads/concorsi/contratto/2022.08.25_let_L10_linguistica_generale.pdf)
+  - Selezione docenza a contratto per corsi DI insegnamento afferenti ai corsi DI laurea a. a. 2022/2023. VISTO lo Statuto della UNICUSANO; VISTO il Regolamento didattico d’Ateneo in vigore; VISTA la legge 30 dicembre 2010 n.240 ed in particolare l’art.23...
+- [Bandi di docenza a contratto: studi umanistici | Unicusano](https://www.unicusano.it/concorsi/bandi-di-docenza-a-contratto/studi-umanistici)
+  - In questa sezione è possibile visionare tutti i bandi di docenza a contratto per l'area studi umanistici preposti dall'Università Niccolò Cusano.Avviso selezione docenza. Fondamenti di lingua latina di base A scadenza domande: 27.08.2021 inserzione 06.08.2021.
+- [Procedura per il conferimento di incarichi per docenti a contratto](https://www.unibs.it/it/ateneo/amministrazione/concorsi/procedura-il-conferimento-di-incarichi-docenti-contratto)
+  - DICATAM-Avviso di selezione per l'attribuzione di incarichi di insegnamenti ufficiali Foundation Year - a.a. 2026/27-Lingua e cultura italiana. ScadenzaDICATAM - Avviso di selezione per il conferimento di incarichi di attività didattica integrativa A.A. 2022/23 (secondo semestre).
+- [Bando_tutor_2024 -firmato dal Rettore](https://corsi.unige.it/sites/corsi.unige.it/files/2024-05/Bando_tutor_2024+-con+allegati.pdf)
+  - C.L. LETTERE Attività di tutorato e di didattica integrativa Iscrizione al CL Magistrale in Letterature Moderne e volta ad agevolare il compimento del percorso Spettacolo o in Scienze dell’antichità archeologia, filologia formativo triennale nel tempo previsto dal e letterature...
+- [Bando tutor didattico, informativo e trasversale — UNIUD...](https://www.uniud.it/it/didattica/area-servizi-studenti/servizi-studenti/opportunita-di-lavoro/lavorare-con-luniversita/bandi-old/tutor-didattico)
+  - Bando tutorato informativo, didattico e trasversale scadenza domande 20 novembre 2022.
+- [Bando tutor didattici](https://www.unibg.it/sites/default/files/2_bando_tutor_didattici.pdf)
+  - Università degli studi DI bergamo. Dipartimento DI scienze umane e sociali. Avviso DI selezione per tutor didattico, corso intensivo DI formazione e qualifica per educatore socio-pedagogico.
+- [unica.it - Università degli Studi di Cagliari](https://web.unica.it/unica/it/fac_studiumanistici_17.page)
+  - Facoltà di Studi Umanistici - Bando per il conferimento di n. 1 incarico per lo svolgimento di attività di tutor didattico per l’insegnamento di Coding e Web (matricole pari e dispari) CDS Scienze della comunicazione.
+- [AVVISO: Tutor inglese per Italianistica | Università degli Studi di...](https://www.unipa.it/dipartimenti/scienzeumanistiche/cds/italianistica2206/AVVISO-Tutor-inglese-per-Italianistica)
+  - Si comunica agli studenti che non hanno superato il test di inglese nel colloquio di accesso, che in vista del laboratorio di lingua inglese del secondo semestre è stato attivato un servizio di tutorato. Tutti gli interessati sono pregati di contattare la coordinatrice.
+- [Assegni per attività di tutorato | Università Federico II](https://www.old.unina.it/web/guest/didattica/opportunita-studenti/assegni-per-attivita-di-tutorato)
+  - Università degli Studi di Napoli Federico II. Assegni per attività di tutorato.Selezione per il conferimento di n. 510 assegni per l'incentivazione delle attività di tutorato e per attività didattico-integrative, propedeutiche e di recupero, da espletarsi nell'a.a.
+
