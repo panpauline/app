@@ -91,3 +91,18 @@
 - [Assegni per attività di tutorato | Università Federico II](https://www.old.unina.it/web/guest/didattica/opportunita-studenti/assegni-per-attivita-di-tutorato)
   - Università degli Studi di Napoli Federico II. Assegni per attività di tutorato.Selezione per il conferimento di n. 510 assegni per l'incentivazione delle attività di tutorato e per attività didattico-integrative, propedeutiche e di recupero, da espletarsi nell'a.a.
 
+## Ricerca del 2026-07-25 07:09 UTC
+
+- [AFORM Settore Servizi didattici “Lettere-Lingue”- Bando di ...](https://bandi.unibo.it/s/aform7/aform-settore-servizi-didattici-lettere-lingue-bando-di-selezione-per-soli-titoli-per-l-attribuzione-a-titolo-oneroso-di-un-contratto-di-tutorato-didattico-per-la-scuola-di-specializzazione-in-beni-storico-artistici-del-dipartimento-delle-arti-per-l-a-a-1)
+  - Jul 7, 2026 · ATTENZIONE: Per la candidatura attenersi alle indicazioni previste dal Bando. La presentazione della domanda può essere effettuata esclusivamente tramite procedura telematica POL - PersonaleOnLine .
+- [Bando tutoraggio alla didattica - n. 16 coadiutori](https://economia.uniroma2.it/def/presentazione/438-4780/bando-tutoraggio-alla-didattica-n-16-coadiutori)
+  - CdL in Business Administrations and Economics - I semestre A.A. 2026/2027.
+- [Bandi per diventare studenti tutor, domande entro il 18 ...](https://campusarezzo.unisi.it/2026/07/21/bandi-per-diventare-studenti-tutor-domande-entro-il-18-settembre)
+  - 4 days ago · Sono stati pubblicati i bandi per diventare studente tutor per l'anno accademico 2026/2027. Le domande di ammissione alla selezione devono essere inviate entro il 18 settembre 2026 (ore 12). Di seguito i bandi che offrono la possibilità di svolgere l’attività di tutorato nella sede di Arezzo Tutorato generale Dipartimento di Filologia e critica delle letterature
+- [Bando, per titoli e colloquio, per IL conferimento DI...](https://www.uniss.it/it/bandi/bando-titoli-e-colloquio-il-conferimento-di-n-53-contratti-di-collaborazione-attivita-di+TUTORATO+DIDATTICO+-+SECONDO+SEMESTRE+A.A.+2024/2025)
+  - È indetta una selezione per il reclutamento di n. 53 studenti tutor per il supporto all’attività didattica del secondo semestre dei corsi di laurea afferenti ai Dipartimenti dell’Ateneo.
+- [Incarichi di tutorato - In espletamento | Università degli ...](https://www.unibg.it/ateneo/amministrazione/concorsi-e-selezioni/incarichi-tutorato/incarichi-tutorato-espletamento)
+  - Jul 1, 2026 · Avviso di selezione per il conferimento di n. 20 incarichi di Attività Didattica Integrativa – Tutorato Tirocini nell’area Pedagogica - Dipartimento di Scienze Umane e Sociali a.a. 2026/2027
+- [Allegato B - Domanda per dottorandi con sede amministrativa...](https://www.unifi.it/sites/default/files/2025-10/dr_1208_2025_bando_tutorato_orientamento_tutorato_didattico_25_26_domanda_dottorandi.pdf)
+  - Umanistici e della Formazione - Area umanistica Unità di processo Orientamento in ingresso Unità di processo Internazionalizzazione. TUTOR DIDATTICI. Scuola di Agraria Chimica Matematica Fisica.
+
