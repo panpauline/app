@@ -915,3 +915,18 @@
 - [Istituto d'Istruzione Superiore "Guarasci-Calabretta"](https://www.guarascicalabretta.edu.it/?option=com_attachments&task=download&id=3541)
   - Avviso pubblico di selezione per le figure di docenti esperti interni/esterni e tutor interni nei laboratori di formazione sul campo.Percorsi formativi e laboratoriali co- curriculari, mentoring e orientamento e potenziamento delle competenze DI base.
 
+## Ricerca del 2026-07-29 07:36 UTC
+
+- [Piano Estate 2026 – Istituto di Istruzione Superiore Albert Einstein](https://einsteinvimercate.edu.it/documento/piano-estate-2026)
+  - Avviso_selezione_Esperti_PN_Piano_estate_moduli1-5.pdf.Le carte della scuola. FSE-Fesr-PN-Pnrr-PON. DM38/2026 Dispositivi digitali. Pnrr_DM19.
+- [Graduatoria provvisoria progetto PN ESO 4.5.A2.B-FSEPN-SI-2026-403 - I. C. "Foscolo" di Barcellona P.G. (ME)](https://www.icfoscolo.edu.it/graduatoria-provvisoria-progetto-pn-eso-4-5-a2-b-fsepn-si-2026-403)
+  - 1 week ago - Avviso progetto PN ESO 4.5.A2.B-FSEPN-SI-2026-403 "Smart School: Inclusione e Visione Orientativa". Formazione docenti DM 38/2026. Selezione esperti/tutor/ATA.
+- [Avviso selezione Esperti e Tutor - Formazione Docenti DM 38](https://www.iiscariati.edu.it/documento/avviso-selezione-esperti-e-tutor-formazione-docenti-dm-38)
+  - Si pubblica avviso di selezione figure di Esperti e Tutor richiesti per la realizzazione dei moduli del DM 38/2026 sulla formazione docente.
+- [Pubblicazione Graduatorie ad Esaurimento Definitive personale docente - I. C. "Foscolo" di Barcellona P.G. (ME)](https://www.icfoscolo.edu.it/pubblicazione-graduatorie-ad-esaurimento-definitive-personale-docente)
+  - 1 week ago - Avviso progetto PN ESO 4.5.A2.B-FSEPN-SI-2026-403 "Smart School: Inclusione e Visione Orientativa". Formazione docenti DM 38/2026. Selezione esperti/tutor/ATA.
+- [PN SCUOLA E COMPETENZE 2021-2027 - icking.edu.it](https://www.icking.edu.it/pn-scuola-e-competenze-2021-2027)
+  - PN SCUOLA E COMPETENZE 2021-2027 Stampa / Condividi DECRETO ASSUNZIONE IN BILANCIO signed LETTERA DI DISSEMINAZIONE signed INCARICO RUP signed Dichiarazione inesistenza conflitto RUP signed DECRETO avvio procedura di selezione personale PN 21 27 signed AVVISO INTEGRATO ESPERTI INTERNI ESTERNI AGENDA SUDsigned All.
+- [FORMAZIONE DOCENTI, AVVISO 95165 del 24/04/2026](https://www.anziouno.edu.it/pagine/formazione-docenti-avviso-95165-del-24042026)
+  - annotazione_Avviso_di_selezione_tutor_e_esperti_Formazione docenti.pdf.File DOC Contatore click: 15. annotazione_DECRETO-ASSUNZIONE-IN-BILANCIO-Formazione docenti Avviso 95165.pdf.
+

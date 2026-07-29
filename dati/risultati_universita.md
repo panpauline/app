@@ -106,3 +106,10 @@
 - [Allegato B - Domanda per dottorandi con sede amministrativa...](https://www.unifi.it/sites/default/files/2025-10/dr_1208_2025_bando_tutorato_orientamento_tutorato_didattico_25_26_domanda_dottorandi.pdf)
   - Umanistici e della Formazione - Area umanistica Unità di processo Orientamento in ingresso Unità di processo Internazionalizzazione. TUTOR DIDATTICI. Scuola di Agraria Chimica Matematica Fisica.
 
+## Ricerca del 2026-07-29 07:36 UTC
+
+- [Cerca | Page 17 | Università di Catania](https://www.unict.it/it/search/node/Bando?page=16)
+  - Bando docenza a contratto. Bando dottorato di ricerca.INFO E BANDO Sezione: Didattica Pubblica anche in ... Corso di aggiornamento per Gestori della crisi di impresa (a.a. 25/26).
+- [Bando di selezione per l’attribuzione di assegni per attività di Tutorato...](https://www.unifi.it/sites/default/files/2025-10/dr_1510_2024_tutor_orientamento_uman_formaz_11_scorr.pdf)
+  - Vincitori e idonei Scuola di Studi Umanistici e della Formazione.Esito Rinuncia Rinuncia Incarico accettato. Matricola DT32672 7157006 7151131 7158201. TUTOR DIDATTICO - Pedagogia generale. Punteggio Totale. Criteri precedenza.
+
