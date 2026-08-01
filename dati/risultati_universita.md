@@ -113,3 +113,8 @@
 - [Bando di selezione per l’attribuzione di assegni per attività di Tutorato...](https://www.unifi.it/sites/default/files/2025-10/dr_1510_2024_tutor_orientamento_uman_formaz_11_scorr.pdf)
   - Vincitori e idonei Scuola di Studi Umanistici e della Formazione.Esito Rinuncia Rinuncia Incarico accettato. Matricola DT32672 7157006 7151131 7158201. TUTOR DIDATTICO - Pedagogia generale. Punteggio Totale. Criteri precedenza.
 
+## Ricerca del 2026-08-01 07:23 UTC
+
+- [Vincitori e idonei Bando DR. 1510_2024 - Scuola di Studi Umanistici...](https://www.unifi.it/sites/default/files/2025-05/dr_1510_2024_tutor_orientamento_uman_formaz_7_scorrimento.pdf)
+  - Bando di selezione per l’attribuzione di assegni per attività di Tutorato Orientativo e Didattico, riservato a studenti capaci e meritevoli (L. 170/2003) per l’a.a.Vincitori e idonei Scuola di Studi Umanistici e della Formazione.
+
