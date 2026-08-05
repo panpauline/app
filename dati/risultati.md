@@ -967,3 +967,28 @@
 - [Fondo Sociale Europeo Plus (FSE+) - PN 21/27 - AZIONI RIVOLTE ...](https://www.isiseuropa.edu.it/categoria/le-circolari/4979/fondo-sociale-europeo-plus-fse-pn-21-27-azioni-rivolte-alla-formazione-del-personale-docente-ed-educativo-d-m-38-26-competenze-docenti-4-0-avviso-per-il-reclutamento-esperto-interno)
   - 4 days ago · Fondo Sociale Europeo Plus (FSE+) - PN 21/27 - AZIONI RIVOLTE ALLA FORMAZIONE DEL PERSONALE DOCENTE ED EDUCATIVO - D.M. 38/26 - Competenze Docenti 4.0 AVVISO PER IL RECLUTAMENTO ESPERTO INTERNO
 
+## Ricerca del 2026-08-05 07:31 UTC
+
+- [AVVISO UNICO DI SELEZIONE PERSONALE INTERNO/ESTERNO per il ruolo di ESPERTO/TUTOR - Liceo Statale Regina Margherita](https://www.reginamargherita.edu.it/avviso-unico-di-selezione-personale-interno-esterno-per-il-ruolo-di-esperto-tutor)
+  - 2 weeks ago - AVVISO UNICO DI SELEZIONE PERSONALE INTERNO/ESTERNO per il ruolo di ESPERTO/TUTOR - PN2127 FORMAZIONE DOCENTI (DM 38/2026)
+- [GRADUATORIA PROVVISORIA SELEZIONE PERSONALE INTERNO/ESTERNO - Liceo Statale Regina Margherita](https://www.reginamargherita.edu.it/graduatoria-provvisoria-selezione-personale-interno-esterno-per-il-ruolo-di-esperto-tutor-pn2127)
+  - 5 days ago - Graduatoria Provvisoria Avviso Unico TUTOR ESPERTI PN2127-Formazione-docenti-DM-38_2026
+- [Decreto di conferimento incarico n.1 Esperto e n.1 Tutor per corso...](https://www.galilux.edu.it/pagine/decreto-di-conferimento-incarico-n1-esperto-e-n1-tutor-per-corso-intelligenza-artificiale)
+  - Avviso di selezione Esperto e Tutor per Modulo Intelligenza artificiale a scuola - DM 38/2026.
+- [Registro Elettronico Docenti – Istituto Tecnico Economico Statale...](https://www.caioplinio.edu.it/servizio/registro-elettronico-docenti)
+  - Avviso Selezione Esperti e Tutor – PN2127 Formazione Docenti (DM 38/2026). Il vostro futuro inizia qui. DM 38/2026 – Formazione docenti.
+- [Avviso per la selezione di esperti- FSE– PN 21-27– FSE+ ...](https://www.istitutoprestacolumella.edu.it/avviso-per-la-selezione-di-esperti-fse-pn-21-27-fse-avviso-95165-del-24-04-2026)
+  - 5 days ago · Avviso 95165 del 24/04/2026 – Formazione docenti, in attuazione del regolamento (UE) 2021/1060 – Obiettivo specifico ESO4.5 “Migliorare i sistemi di istruzione e di formazione”, del Programma nazionale “Scuola e competenze” per il periodo di programmazione 2021-2027. Titolo: EduCare: per una scuola accogliente e dinamica
+- [Avviso di selezione comparativa riservato al personale ...](https://www.icpinopuglisiroma.edu.it/2026/07/31/avviso-di-selezione-comparativa-riservato-al-personale-docente-interno-per-il-conferimento-di-incarichi-individuali-di-esperto-programma-nazionale-scuola-e-competenze-2021-2027-priorita-01)
+  - 5 days ago · Home Novità Le notizie Avvisi Avviso di selezione comparativa riservato al personale docente interno per il conferimento di incarichi individuali di Esperto – Programma Nazionale “Scuola e Competenze” 2021-2027, Priorità 01 – Scuola e Competenze (FSE+), Sottoazione ESO4.5.A2.B, Avviso pubblico AOOGABMI prot. n. 95165 del 24 aprile 2026, Formazione Docenti
+- [Progetto: ESO4.5.A2.B-FSEPN-PU-2026-379- Avviso 95165 Formaz ...](https://www.iissbellosalvemini.edu.it/progetto-eso4-5-a2-b-fsepn-pu-2026-379-avviso-95165-formaz-docenti-avviso-interno-selez-esperti)
+  - 5 days ago · Progetto: ESO4.5.A2.B-FSEPN-PU-2026-379 – Avviso 95165/2026 Formaz. personale docente ed educativo – AVVISO INTERNO SELEZIONE ESPERTI
+- [Avviso personale interno selezione tutor- esperto PN 21/27 DM ...](https://www.istitutocomprensivoviatedeschi.edu.it/categoria/le-notizie/2063/avviso-personale-interno-selezione-tutor-esperto-pn-21-27-dm-38-2026-formazione-docenti)
+  - Jul 17, 2026 · Si comunica a tutto il personale della scuola che è stato pubblicato all'Albo Online l'avviso di selezione per il reclutamento di Tutor ed Esperti interni nell'ambito delle attività relative al DM 38/2026.
+- [Avviso di selezione per il reclutamento di un Formatore Esperto](https://www.istitutocomprensivobassasabina.edu.it/avviso-di-selezione-per-il-reclutamento-di-un-formatore-esperto)
+  - Jul 29, 2026 · N.13087 del 29/07/2026, l’Avviso pubblico di selezione per il reclutamento di n. 1 FORMATORE ESPERTO nell’ambito dell’Avviso pubblico prot. n. 95165 del 24/04/2026.
+- [Avviso di selezione per il conferimento di n. 1 incarico a ...](https://www.liceosciasciafermi.edu.it/documento/albo-n-158-2026)
+  - Jul 27, 2026 · Avviso di selezione per il conferimento di n. 1 incarico a docente esperto interno/esterno
+- [PN-DM38 Formazione Docenti – AVVISO SELEZIONE N. 1 ESPERTO ...](https://www.comprensivoserramanna.edu.it/pn-dm38-formazione-docenti-avviso-selezione-n-1-esperto-formatore-pedagogista-e-n-3-tutor)
+  - 5 days ago · AVVISO INTERNO PER LA SELEZIONE DI N. 1 ESPERTO FORMATORE PEDAGOGISTA E N. 3 TUTOR A VALERE SUL PROGETTO Fondi Strutturali Europei – Programma Nazionale “Scuola e competenze” 2021-2027 – Priorità 01 – Scuola e competenze – Fondo Sociale Europeo Plus (FSE+) – Obiettivo Specifico ESO4.5, Azione ESO4.5. A2 – Sotto azione ESO4.5.
+

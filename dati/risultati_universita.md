@@ -118,3 +118,22 @@
 - [Vincitori e idonei Bando DR. 1510_2024 - Scuola di Studi Umanistici...](https://www.unifi.it/sites/default/files/2025-05/dr_1510_2024_tutor_orientamento_uman_formaz_7_scorrimento.pdf)
   - Bando di selezione per l’attribuzione di assegni per attività di Tutorato Orientativo e Didattico, riservato a studenti capaci e meritevoli (L. 170/2003) per l’a.a.Vincitori e idonei Scuola di Studi Umanistici e della Formazione.
 
+## Ricerca del 2026-08-05 07:32 UTC
+
+- [Microsoft Word - Bando docenze a contratto a.a. 24-25...](https://www.unipa.it/dipartimenti/stebicef/.content/documenti/avvisi_didattica/Bando-docenza-a-contratto-2024-2025-FaNuA.pdf)
+  - Il conferimento dell’incarico di insegnamento avverrà mediante stipula di un contratto di diritto privato retribuito, secondo la normativa in materia, a seguito di convocazione, presso l’U.O. Didattica del “Dipartimento STeBiCeF”, con sede in Viale delle Scienze, 90128 Palermo Ed.
+- [Dipartimento di Ricerca e Innovazione Umanistica DD. n. 268/2025](https://reclutamento.ict.uniba.it/bandi-di-lavoro/dipartimento-di-ricerca-e-innovazione-umanistica-dd-60-2025)
+  - Profili ricercati. Docenza a contratto.Didattico. Prendere visione del decreto allegato al presente bando. Oggetto della prestazione. Docenza. Requisiti per la partecipazione.
+- [AFORM Settore Servizi didattici "Lettere-Lingue"- Bando di selezione ...](https://bandi.unibo.it/s/aform7/aform-settore-servizi-didattici-lettere-lingue-bando-di-selezione-per-titoli-e-colloquio-per-l-attribuzione-a-titolo-oneroso-di-contratti-di-tutorato-didattico-per-i-corsi-di-studio-del-dipartimento-di-filologia-classica-e-italianistica-per-l-a-a-2026-1)
+  - AFORM Settore Servizi didattici "Lettere-Lingue"- Bando di selezione per titoli e colloquio per l'attribuzione, a titolo oneroso, di contratti di tutorato didattico per i Corsi di studio del Dipartimento di Filologia classica e Italianistica per l'a.a. 2026/2027
+- [AFORM Settore Servizi didattici "Lettere-Lingue"- Bando di selezione ...](https://bandi.unibo.it/s/aform7/aform-settore-servizi-didattici-lettere-lingue-bando-di-selezione-per-titoli-e-colloquio-per-l-attribuzione-a-titolo-oneroso-di-un-contratto-di-tutorato-didattico-per-il-corso-di-laurea-in-lettere-del-dipartimento-di-filologia-classica-e-italianistica-per-1)
+  - AFORM Settore Servizi didattici "Lettere-Lingue"- Bando di selezione per titoli e colloquio per l'attribuzione, a titolo oneroso, di un contratto di tutorato didattico per il Corso di laurea in Lettere del Dipartimento di Filologia classica e Italianistica per l'a.a. 2026/2027.
+- [C.L.E.F. - bando TUTORAGGIO alla didattica - n. 7 COADIUTORI...](https://economia.uniroma2.it/def/presentazione/438-4555/clef-bando-tutoraggio-alla-didattica-n-7-coadiutori-occasionali-ii-semestre-2025-2026)
+  - Bando di selezione. Modulo di domanda.
+- [Part time tutorato alla pari - Dipartimento di Filologia, Letteratura...](https://www.unipi.it/index.php/borse-di-studio-e-alloggio/item/10010-part-time-tutorato-alla-pari-filologia-letteratura-e-linguistica)
+  - Bando di selezione Elenco idonei Graduatoria finale Informazioni a cura di:Direzione Servizi per la Didattica e l'Internazionalizzazione largo Bruno Pontecorvo n. 3 - Pisa tel. 800-018600 e-mail: Questo indirizzo email è protetto dagli spambots.
+- [Bando: selezione di 1 tutor didattico - Progetto "Primo anno-Studiare al primo anno, innovare la didattica" - Dipartimento di Scienze politiche](https://www.sp.unipi.it/it/bando-selezione-di-1-tutor-didattico-progetto-primo-anno-studiare-al-primo-anno-innovare-la-didattica)
+  - 2 weeks ago - Scade il 24 agosto 2026, ore 12:00, la procedura comparativa per l’individuazione di 1 tutor formativ0 e didattico nell’ambito del Progetto PRO3 - Progetto 1: "Studiare al primo anno, innovare la didattica" …Leggi tutto...
+- [Bando di selezione per l’attribuzione di assegni per attività di tutorato...](https://www.unifi.it/sites/default/files/2025-12/dr_1208_2025_umanistici_formazione_vincitori.pdf)
+  - A seguito dell’approvazione degli atti e delle graduatorie, emanate con D.R. 1481/2025 (prot. 357666) del 05/12/2025, si pubblicano: 1. Il numero degli assegni destinati alla Scuola di Studi Umanistici e della Formazione
+
