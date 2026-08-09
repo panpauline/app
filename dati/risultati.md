@@ -992,3 +992,24 @@
 - [PN-DM38 Formazione Docenti – AVVISO SELEZIONE N. 1 ESPERTO ...](https://www.comprensivoserramanna.edu.it/pn-dm38-formazione-docenti-avviso-selezione-n-1-esperto-formatore-pedagogista-e-n-3-tutor)
   - 5 days ago · AVVISO INTERNO PER LA SELEZIONE DI N. 1 ESPERTO FORMATORE PEDAGOGISTA E N. 3 TUTOR A VALERE SUL PROGETTO Fondi Strutturali Europei – Programma Nazionale “Scuola e competenze” 2021-2027 – Priorità 01 – Scuola e competenze – Fondo Sociale Europeo Plus (FSE+) – Obiettivo Specifico ESO4.5, Azione ESO4.5. A2 – Sotto azione ESO4.5.
 
+## Ricerca del 2026-08-09 05:39 UTC
+
+- [Avviso di selezione Esperti e Tutor – PN “Formazione docenti ...](https://www.donmilaniscicli.edu.it/avviso-di-selezione-esperti-e-tutor-pn-formazione-docenti-dm-38-2026-avviso-95165-2026)
+  - 5 days ago · Avviso di selezione Esperti e Tutor – PN “Formazione docenti” DM 38/2026 – Avviso 95165/2026 Avviso di selezione pubblica finalizzato al reclutamento di n. 2 Esperti e n. 2 Tutor Progetto "Sviluppo professionale e innovazione educativa"
+- [PN Scuola 21-27 Formazione docenti (DM 38/2026): avviso ...](https://www.istitutocomprensivocadeo.edu.it/2026/08/04/pn-scuola-21-27-formazione-docenti-dm-38-2026-avviso-selezione-di-personale-esperto-nel-percorso-active-english)
+  - 5 days ago · PN Scuola 21-27 Formazione docenti (DM 38/2026): avviso selezione di personale esperto nel percorso Active English
+- [AVVISO DI SELEZIONE FORMATORE ESPERTO – I.I.S. Marco Tullio ...](https://www.istitutocicerone.edu.it/web/2026/08/06/avviso-di-selezione-formatore-esperto)
+  - 3 days ago · A tutti gli interessati Personale scolastico Personale amministrativo 0 AVVISO DI SELEZIONE FORMATORE ESPERTO Fondi Strutturali Europei – Programma Nazionale “Scuola e competenze” 2021-2027 Priorità 01 – Scuola e competenze – Fondo Sociale Europeo Plus (FSE+) – Obiettivo Specifico ESO4.5, Azione ESO4.5. A2 – Sotto azione ESO4.5.
+- [OGGETTO AVVISO INTERNO PER LA SELEZIONE DI DOCENTI UN ESPERTO ...](https://www.liceocopernico.edu.it/index.php/fondi-europei/pn-scuola-e-competenze/progetto-e-state-ancora-qui-piano-estate-2025-2026/avvisi-selezione-personale-3/2592-avviso-selezione-esperto-e-tutor-per-paestum-2026?highlight=WzIwMjZd)
+  - Jul 23, 2026 · la necessità di individuare un docente in qualità “ESPERTO” e u docenti in qualità di “TUTOR”, per la corretta esecuzione del progetto in oggetto;
+- [Avviso unico per la selezione di personale interno/esterno ...](https://www.icpontalpi.edu.it/albo-pretorio/avviso-unico-la-selezione-di-personale-internoesterno-il-ruolo-di-esperto-formatore-3)
+  - 4 days ago · Avviso pubblico per esperto formatore e tutor d'aula - formazione del personale (511.59 KB) Allegato A (146 KB) Griglia di valutazione (182.5 KB)
+- [Graduatoria Definitiva – Avviso di Selezione Esperti – ORIENTATION...](https://www.dellaquila-staffa.edu.it/2026/04/21/graduatorie-definitive-avviso-selezione-personale-docente-interno-esperti-orientation-lab-progetto-trinitapolistar-punti-cardinali-for-work-punt)
+  - PN Scuola e competenze 2021-2027. PON FSE-FESR 2014/2020. PNRR.Personale scolastico. Entra nel sito della scuola con le tue credenziali per gestire contenuti, visualizzare circolari e altre funzionalità.
+- [AVVISO DI SELEZIONE DOCENTI ESPERTI_ Codice progetto: ESO4.5 ...](https://www.istitutocomprensivorogliano.edu.it/2026/08/07/avviso-di-selezione-docenti-esperti_codice-progetto-eso4-5-a2-b-fsepncl-2026-219_fondi-strutturali-europei-programma-nazionale-scuola-e-competenze-2021-2027-prio)
+  - 2 days ago · AVVISO DI SELEZIONE DOCENTI ESPERTI_ Codice progetto: ESO4.5.A2.B-FSEPNCL-2026-219_Avviso 95165 del 24/04/2026 – Formazione docenti CLIL
+- [Avviso interno/esterno per la selezione di docenti esperto e ...](https://www.ictelesiomontalbettirc.edu.it/2026/08/07/avviso-interno-esterno-per-la-selezione-di-docenti-esperto-e-tutor-programma-nazionale-scuola-e-competenze-2021-2027-priorita-01-scuola-e-competenze-titolo-progett)
+  - 2 days ago · Home 2026 Agosto 7 Avvisi Avviso interno/esterno per la selezione di docenti esperto e tutor (Avviso 95165 del 24/04/2026 – Formazione docenti) ” Progetto: “Insegnare il futuro: competenze, didattica e benessere per una scuola che cambia” Candidature: entro le ore 12.00 del 22/08/2026
+- [Notizie](https://www.1cdsomma.edu.it/tipologia-articolo/notizie)
+  - Avviso per procedura selettiva Docenti Esperti PN AVVISO 95165 del 24/04/2026–FORMAZIONE DOCENTI.Avviso di selezione per Collaboratori Scolastici-Formazione docenti AVVISO 95165 DEL 24/04/2026 CUP D94D26001060007.
+
