@@ -164,3 +164,34 @@
 - [selezione-di-159-tutor-della-didattica-per-la.a.-2024-2025](https://www.unipa.it/strutture/orientamento/bandi/selezione-di-159-tutor-della-didattica-per-la.a.-2024-2025)
   - Sono state pubblicate le graduatorie di merito per l'ammissione al colloquio per la selezione di 159 tutor per tutorato e attività didattico-integrative, propedeutiche e di recupero.
 
+## Ricerca del 2026-08-13 06:09 UTC
+
+- [Albo di Ateneo - Università degli Studi del Molise](https://www.albo.unimol.it/nuovo.htm)
+  - Università degli Studi del Molise - Settore Gestione docenti a contratto A.A. 2026/2027 Bando per supplenze-contratti di attività didattica formale a titolo oneroso Dipartimento di Scienze Umanistiche, Sociali e della Formazione
+- [Dipartimento di Ricerca e Innovazione Umanistica D.D. n. 195/2026](https://reclutamento.ict.uniba.it/bandi-di-lavoro/dipartimento-di-ricerca-e-innovazione-umanistica-d-d-n-195-2026/docenza-a-contratto-a-a-2026-27)
+  - Profili ricercati Docenza a contratto a.a. 2026-27 ... pubblicato il01/07/2026 — ultima modifica01/07/2026 Azioni sul documento Flusso RSS Stampa
+- [Bando tutorati a.a. 2025/26 | News | Corso di Laurea Magistrale in ...](https://www.filologiamoderna.unifi.it/art-258-bando-tutorati-a-a-2025-26.html)
+  - Corso di Laurea Magistrale in Filologia Moderna È uscito il nuovo bando per le attività di tutorato orientativo o didattico. La scadenza per le candidature è il 6 novembre 2025 (ore 13).
+- [Filologia Classica e Italianistica - Ficlit](https://ficlit.unibo.it/it)
+  - Bandi Bandi aperti Incarichi di tutorato AFORM Settore Servizi didattici "Lettere-Lingue"- Bando di selezione per titoli e colloquio per l'attribuzione, a titolo oneroso, di un contratto di tutorato didattico per il Corso di laurea in Lettere del Dipartimento di Filologia classica e Italianistica per l'a.a. 2026/2027.
+- [Bando tutorato dottorandi | ITALIANISTICA](https://phd.uniroma1.it/web/bando-tutorato-dottorandi_nA3089IT_IT.aspx)
+  - dottorato in italianistica alla Sapienza Università di Roma: curricula, borse di studio e modalità di ammissione.
+- [unica.it - Università degli Studi di Cagliari](https://web.unica.it/unica/it/ateneo_s14_ss2.page?frame1_item=15)
+  - Facoltà di Studi Umanistici – Bando di selezione per il conferimento di n. 7 incarichi per lo svolgimento di attività di tutor didattico per le esigenze del cdlm in Giornalismo e informazione web.
+- [Voglio fare il tutor | Corsi di Studio UniGe](https://corsi.unige.it/info/studenti-tutorato)
+  - Colloqui di selezione: lunedì 29 giugno alle ore 11, presso lo studio della prof.ssa Benati, sito al quinto piano di Palazzo Serra, Piazza Santa Sabina 2 (sezione di Scandinavistica e Filologia germanica, procedendo oltre l'aula Koch), Genova.
+- [Id: 202505 Dllcm Avviso Di Orientamento E Tutorato a Dipartimento Di ...](https://www.unimi.it/it/media/79474/download)
+  - ID:99981231160000-08'00' 202505_DLLCM AVVISO PUBBLICO PER LA FORMAZIONE DELL'ALBO PER ASSEGNISTE/I, DOTTORANDE/I, BORSISTE/I PROMETTENTI LAUREATE/I ED ESPERTE/I ESTERNE/I PER L'AFFIDAMENTO DI ATTIVITÀ DIDATTICA INTEGRATIVA EXTRACURRICULARE E ATTIVITA' DI ORIENTAMENTO E TUTORATO A
+- [PDF Allegato 2 - Descrizone Attivita Tutorato Centro Linguistico Di Ateneo](https://bandi.unibo.it/s/cla/avviso-pubblico-di-selezione-per-titoli-e-colloquio-per-il-conferimento-di-due-incarichi-di-tutorato-per-il-centro-linguistico/bando/allegato-02_descrizioneattivitatutorcla-1.pdf/@@download/file/Allegato+02_DescrizioneAttivitàTutorCLA+(1).pdf)
+  - attività informative e di supporto allo studente in autoapprendimento per le lingue di competenza mediante colloquio conoscitivo e orientativo con gli studenti; descrizione dell'offerta formativa ai fini dell'organizzazione e pianificazione di percorsi di studio personalizzati in preparazione alla prova di idoneità linguistica ...
+- [25 incarichi di prestazione occasionale per attività di tutorato per ...](https://www1.unisalento.it/c/document_library/get_file?folderId=67473412&name=DLFE-803344.pdf)
+  - 25 incarichi di prestazione occasionale per attività di tutorato per insegnamenti dei Corsi di Studio del Dipartimento di Studi Umanistici Incarico n. 22 Linguistica italiana Avviso pubblico di procedura comparativa per titoli e colloquio per l'affidamento di n. 25 incarichi di prestazione occasionale per attività di tutorato per insegnamenti dei Corsi di Studio del Dipartimento di Studi ...
+- [Regolamento per l'affidamento di incarichi di insegnamento, di tutorato ...](https://normateneo.unibo.it/regolamento-per-l2019affidamento-di-incarichi-di-insegnamento-di-tutorato-didattico-e-di-formazione-linguistica-ai-sensi-dell2019articolo-articolo-23-della-legge-n-240-2010)
+  - Regolamento per l'affidamento di incarichi di insegnamento, di tutorato didattico e di formazione linguistica ai sensi dell'articolo articolo 23 della legge n. 240/2010
+- [AFORM Settore Servizi didattici "Lettere-Lingue"- Bando di selezione ...](https://bandi.unibo.it/s/aform7/aform-settore-servizi-didattici-lettere-lingue-bando-di-selezione-per-soli-titoli-per-l-attribuzione-a-titolo-oneroso-di-un-contratto-di-tutorato-didattico-per-il-corso-di-laurea-magistrale-in-italianistica-e-culture-letterarie-europee-del-dipartimento-di)
+  - AFORM Settore Servizi didattici "Lettere-Lingue"- Bando di selezione per soli titoli per l'attribuzione, a titolo oneroso, di un contratto di tutorato didattico per il Corso di Laurea Magistrale in Italianistica e Culture letterarie europee del Dipartimento di Filologia classica e Italianistica per l'a.a. 2025/2026.
+- [Decreto Dirigenziale 256/xy del 5 marzo 2001](https://reclutamento.ict.uniba.it/bandi-di-lavoro/dipartimento-di-ricerca-e-innovazione-umanistica-363-2025/tutorato-didattico-progetto-pot-unisco-1/@@download/fileapprovazioneatti)
+  - Italianistica e Culture Comparate (LELIA); il Decreto del Rettore n. 4333 del 2 dicembre 2021 con cui il prof. Paolo Ponzio è stato nominato Direttore del Dipartimento di Ricerca e Innovazione Umanistica per il quadriennio 2021-2025; l'Avviso di Selezione per attività di Tutorato POT "UNISCO - Azioni integrate Università-Scuola per le ...
+- [AFORM Settore Servizi didattici "Lettere-Lingue"- Bando per l ...](https://bandi.unibo.it/s/aform7/aform-settore-servizi-didattici-lettere-lingue-bando-per-l-attribuzione-di-un-incarico-di-insegnamento-a-docenti-ricercatori-di-altro-ateneo-fase-4-a-della-programmazione-didattica-a-a-2026-2027-dipartimento-di-filologia-classica-e-italianistica)
+  - AFORM Settore Servizi didattici "Lettere-Lingue"- Bando per l'attribuzione di un incarico di insegnamento a docenti/ricercatori di altro Ateneo - FASE 4 A della Programmazione Didattica a.a. 2026/2027, Dipartimento di Filologia Classica e Italianistica.
+
