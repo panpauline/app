@@ -1013,3 +1013,18 @@
 - [Notizie](https://www.1cdsomma.edu.it/tipologia-articolo/notizie)
   - Avviso per procedura selettiva Docenti Esperti PN AVVISO 95165 del 24/04/2026–FORMAZIONE DOCENTI.Avviso di selezione per Collaboratori Scolastici-Formazione docenti AVVISO 95165 DEL 24/04/2026 CUP D94D26001060007.
 
+## Ricerca del 2026-08-17 05:25 UTC
+
+- [AVVISO SELEZIONE INTERNA PER IL RECLUTAMENTO DI N.01 UNITÀ DI PERSONALE INTERNO - Liceo Statale Regina Margherita](https://www.reginamargherita.edu.it/avviso-selezione-interna-per-il-reclutamento-di-n-01-unita-di-personale-interno-figura-di-supporto)
+  - 3 weeks ago - AVVISO UNICO DI SELEZIONE PERSONALE INTERNO/ESTERNO per il ruolo di ESPERTO/TUTOR - PN2127 FORMAZIONE DOCENTI (DM 38/2026)
+- [AVVISO SELEZIONE ESPERTI E TUTOR – PN2127 FORMAZIONE DOCENTI ...](https://lnx.istitutofalcone.edu.it/avviso-selezione-esperti-e-tutor-pn2127-formazione-docenti-dm-38-2026-fondi-strutturali-europei-programma-nazionale-scuola-e-competenze-2021-2027-prio)
+  - Jul 24, 2026 · AVVISO SELEZIONE ESPERTI E TUTOR – PN2127 FORMAZIONE DOCENTI (DM 38/2026) Fondi Strutturali Europei – Programma Nazionale “Scuola e competenze” 2021-2027 – Priorità 01 – Scuola e competenze – Fondo Sociale Europeo Plus (FSE+) – Obiettivo Specifico ESO4.5, Azione ESO4.5.A2 – Sotto azione ESO4.5.A2.B, interventi di cui al D.M ...
+- [AVVISO di selezione Esperti e Tutor –DM 38 -Formazione ...](https://www.iccariati.edu.it/documento/avviso-di-selezione-esperti-e-tutor-dm-38-formazione-docenti-i-c-cariati)
+  - Jul 28, 2026 · AVVISO di selezione Esperti e Tutor –DM 38 -Formazione Docenti - I C CARIATI Stampa / Condividi
+- [PN 21/27 – Piano Estate 2026 – AVVISO INTERNO PER LA ...](https://www.liceopoerio.edu.it/pn-21-27-piano-estate-2026-avviso-interno-per-la-selezione-di-docenti-esperti-modulo-icdl-full)
+  - Aug 1, 2026 · PN 21/27 - Piano Estate 2026 - AVVISO INTERNO PER LA SELEZIONE DI DOCENTI ESPERTI MODULO ICDL FULL.
+- [Avviso esplorativo per l’individuazione di esperto e tutor ...](https://www.iismarchesimascalucia.edu.it/2026/08/12/avviso-esplorativo-per-lindividuazione-di-esperto-e-tutor-dei-moduli-del-progetto-competenze-trasversali-per-la-scuola-del-futuro)
+  - 5 days ago · Avviso prot. n. 95165 del 24/04/2026 - CUP I64D26001710007 Maria Palazzolo Docente 0 Avviso esplorativo per l’individuazione di esperto e tutor dei moduli del progetto “Competenze Trasversali per la Scuola del Futuro” – CUP I64D26001710007 Fondi Strutturali Europei – Programma Nazionale “Scuola e competenze” 2021-2027 – Priorità 01 – Scuola e competenze – Fondo Sociale ...
+- [Avviso 95165 del 24/04/2026 – Formazione docenti - Progetto ...](https://www.polocelli.edu.it/albo-online/499/avviso-95165-del-24-04-2026-formazione-docenti-progetto-eso4-5-a2-b-fsepn-ma-2026-140-cup-g64d26002650007-decreto-avvio-selezione-personale-interno-per-il-ruolo-di-tutor-ed-esperti/?textMode=2)
+  - Jul 31, 2026 · Avviso 95165 del 24/04/2026 – Formazione docenti - Progetto: ESO4.5.A2.B-FSEPN-MA-2026-140 CUP: G64D26002650007 - DECRETO AVVIO SELEZIONE PERSONALE INTERNO PER IL RUOLO DI TUTOR ED ESPERTI
+
