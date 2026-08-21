@@ -1028,3 +1028,8 @@
 - [Avviso 95165 del 24/04/2026 – Formazione docenti - Progetto ...](https://www.polocelli.edu.it/albo-online/499/avviso-95165-del-24-04-2026-formazione-docenti-progetto-eso4-5-a2-b-fsepn-ma-2026-140-cup-g64d26002650007-decreto-avvio-selezione-personale-interno-per-il-ruolo-di-tutor-ed-esperti/?textMode=2)
   - Jul 31, 2026 · Avviso 95165 del 24/04/2026 – Formazione docenti - Progetto: ESO4.5.A2.B-FSEPN-MA-2026-140 CUP: G64D26002650007 - DECRETO AVVIO SELEZIONE PERSONALE INTERNO PER IL RUOLO DI TUTOR ED ESPERTI
 
+## Ricerca del 2026-08-21 05:22 UTC
+
+- [GRADUATORIA DEFINITIVA AVVISO SELEZIONE INTERNA PER IL RECLUTAMENTO DI N.1 UNITÀ INTERNA - Liceo Statale Regina Margherita](https://www.reginamargherita.edu.it/graduatoria-definitiva-avviso-selezione-interna-per-il-reclutamento-di-n-01-unita-di-personale-inte)
+  - 3 weeks ago - ATTUAZIONE DEL PROGETTO - PN2127 FORMAZIONE DOCENTI (DM 38/2026) AVVISO UNICO DI SELEZIONE PERSONALE INTERNO/ESTERNO per il ruolo di ESPERTO/TUTOR - PN2127 FORMAZIONE DOCENTI (DM 38/2026)
+

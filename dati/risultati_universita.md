@@ -195,3 +195,8 @@
 - [AFORM Settore Servizi didattici "Lettere-Lingue"- Bando per l ...](https://bandi.unibo.it/s/aform7/aform-settore-servizi-didattici-lettere-lingue-bando-per-l-attribuzione-di-un-incarico-di-insegnamento-a-docenti-ricercatori-di-altro-ateneo-fase-4-a-della-programmazione-didattica-a-a-2026-2027-dipartimento-di-filologia-classica-e-italianistica)
   - AFORM Settore Servizi didattici "Lettere-Lingue"- Bando per l'attribuzione di un incarico di insegnamento a docenti/ricercatori di altro Ateneo - FASE 4 A della Programmazione Didattica a.a. 2026/2027, Dipartimento di Filologia Classica e Italianistica.
 
+## Ricerca del 2026-08-21 05:23 UTC
+
+- [AFORM Settore Servizi didattici “Lettere-Lingue”- Bando di ...](https://bandi.unibo.it/s/aform7/aform-settore-servizi-didattici-lettere-lingue-bando-di-selezione-per-soli-titoli-per-l-attribuzione-a-titolo-oneroso-di-contratti-di-tutorato-didattico-per-il-corso-di-laurea-in-scienze-della-comunicazione-del-dipartimento-delle-arti-per-l-a-a-2026-2027-1)
+  - Aug 3, 2026 · La scadenza del bando è prevista per il giorno 1° settembre 2026 ore 12.00. Per informazioni inerenti al procedimento concorsuale rivolgersi a: aform.letterelingue-bandi@unibo.itfacendo riferimento agli estremi del Bando (Rep. e Prot.).
+
