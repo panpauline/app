@@ -1033,3 +1033,20 @@
 - [GRADUATORIA DEFINITIVA AVVISO SELEZIONE INTERNA PER IL RECLUTAMENTO DI N.1 UNITÀ INTERNA - Liceo Statale Regina Margherita](https://www.reginamargherita.edu.it/graduatoria-definitiva-avviso-selezione-interna-per-il-reclutamento-di-n-01-unita-di-personale-inte)
   - 3 weeks ago - ATTUAZIONE DEL PROGETTO - PN2127 FORMAZIONE DOCENTI (DM 38/2026) AVVISO UNICO DI SELEZIONE PERSONALE INTERNO/ESTERNO per il ruolo di ESPERTO/TUTOR - PN2127 FORMAZIONE DOCENTI (DM 38/2026)
 
+## Ricerca del 2026-08-25 05:22 UTC
+
+- [GRADUATORIA DEFINITIVA - Liceo Statale Regina Margherita](https://www.reginamargherita.edu.it/graduatoria-definitiva)
+  - 3 weeks ago - SELEZIONE PERSONALE INTERNO/ESTERNO per il ruolo di ESPERTO/TUTOR -PN2127 FORMAZIONE DOCENTI (DM 38/2026)
+- [Avviso Selezione esperti tutor DM 38/2026 Formazione docenti](https://www.iisfaicchio-castelvenere.edu.it/avviso-selezione-esperti-tutor-dm-38-2026-formazione-docenti)
+  - Aug 12, 2026 · Avviso Selezione esperti tutor DM 38/2026 Formazione docenti Personale scolastico Dirigente Scolastico 0
+- [Avviso per l’individuazione di formatori – esperti per moduli ...](https://www.mameliamantea.edu.it/2026/08/15/avviso-per-lindividuazione-di-esperti-formatori-moduli-di-formazione-per-il-personale-docente-progetto-verso-una-comunita-educativa-di-pratiche)
+  - Aug 15, 2026 · Avviso per l’individuazione di formatori – esperti per moduli di formazione rivolti al personale docente
+- [Graduatoria provvisoria AVVISO SELEZIONE ESPERTI INTERNI ...](https://icsettannimanzoni.edu.it/2026/08/19/graduatoria-provvisoria-avviso-selezione-esperti-interni-esterni-collaborazioni-plurime-pn21-27-formazione-docenti-dm-38-2026-prot-n-5230-del-27-07-2026)
+  - 6 days ago · PN SCUOLA E COMPETENZE 2021-2027 Graduatoria provvisoria AVVISO SELEZIONE ESPERTI INTERNI – ESTERNI – COLLABORAZIONI PLURIME – PN21/27 FORMAZIONE DOCENTI (DM 38/2026) – Prot. n. 5230 del 27.07.2026
+- [Avviso di selezione del personale interno per il reclutamento ...](https://www.scuoladusmetnicolosi.edu.it/circolare/avviso-di-selezione-del-personale-interno-per-il-reclutamento-di-n-3-esperti-n-2-tutor-e-n-1-figura-di-supporto-per-la-realizzazione-di-interventi-finalizzati-al-potenziamento-delle-competenze-pro)
+  - 4 days ago · Avviso di selezione del personale interno per il reclutamento di n. 3 esperti, n. 2 tutor e n. 1 figura di supporto per la realizzazione di interventi finalizzati al potenziamento delle competenze professionali del personale docente ed educativo mediante azioni formative nell’ambito del Programma Nazionale “PN Scuola e competenze 2021-2027”, in attuazione del regolamento (UE) 2021/1060 ...
+- [Avviso di selezione per il reclutamento di Docenti Esperti e ...](https://www.itaspertini.edu.it/site/2026/08/05/20260805132525unidos)
+  - Aug 5, 2026 · Home » Avviso di selezione per il reclutamento di Docenti Esperti e Tutor per la realizzazione di n. 6 Percorsi di formazione e approfondimento sull’intelligenza artificiale nell’organizzazione e nella didattica e di n. 8 Laboratori formativi sul campo per docenti con il coinvolgimento degli studenti, nell’ambito del progetto “AI ...
+- [AVVISO UNICO DI SELEZIONE COMPARATIVA PER IL RECLUTAMENTO DI ...](https://www.btic8ap00t.edu.it/documento/avviso-unico-di-selezione-comparativa-per-il-reclutamento-di-n-6-esperti-formatori-e-n-6-tutor-daula)
+  - 5 days ago · AVVISO UNICO DI SELEZIONE COMPARATIVA PER IL RECLUTAMENTO DI N. 6 ESPERTI FORMATORI E N. 6 TUTOR D’AULA
+
