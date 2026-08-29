@@ -1050,3 +1050,50 @@
 - [AVVISO UNICO DI SELEZIONE COMPARATIVA PER IL RECLUTAMENTO DI ...](https://www.btic8ap00t.edu.it/documento/avviso-unico-di-selezione-comparativa-per-il-reclutamento-di-n-6-esperti-formatori-e-n-6-tutor-daula)
   - 5 days ago · AVVISO UNICO DI SELEZIONE COMPARATIVA PER IL RECLUTAMENTO DI N. 6 ESPERTI FORMATORI E N. 6 TUTOR D’AULA
 
+## Ricerca del 2026-08-29 11:24 UTC
+
+- [Graduatoria provvisoria AVVISO SELEZIONE ESPERTI INTERNI](https://icsettannimanzoni.edu.it/2026/08/19/graduatoria-provvisoria-avviso-selezione-esperti-interni-esterni-collaborazioni-plurime-pn21-27-formazione-docenti-dm-38-2026-prot-n-5230-del-27-07-2026-2)
+  - 19 ago 2026 · Graduatoria provvisoria AVVISO SELEZIONE ESPERTI INTERNI – ESTERNI – COLLABORAZIONI PLURIME – PN21/27 FORMAZIONE DOCENTI (DM 38/2026) – Prot. n. 5230 del 27.07.
+- [PN Scuola 21-27: Selezione Esperti e Tutor per la formazione ...](https://www.comprensivoadriadue.edu.it/pagine/pn-scuola-21-27-selezione-esperti-e-tutor-per-la-formazione-del-personale-docente-dm-382026---azione-eso45a2b)
+  - 15 ago 2026 · PN Scuola 21-27: Selezione Esperti e Tutor per la formazione del personale docente (DM 38/2026 - Azione ESO4.5.A2.B). Avviso di Selezione interna, aperta anche ...
+- [AVVISO UNICO per la SELEZIONE PERSONALE INTERNO ...](https://www.itiangioy.edu.it/avviso-unico-per-la-selezione-personale-interno-esterno-per-il-ruolo-di-tutor-esperti-nei-percorsi-a)
+  - 15 ago 2026 · sigillo DM 38 2026 Avviso unico selezione esperti ... pdf - 652 kb. Pubblicato: 14.08.2026 - Revisione: 14.08.2026. Eccetto dove diversamente specificato ...
+- [Avviso di selezione pubblica reclutamento di esperti e tutor ...](https://www.iccolozzabonfiglio.edu.it/avviso-di-selezione-esperti-e-tutor-dm-38-2026-formazione-docenti-pn-2127-signed-1)
+  - 31 lug 2026 · Avviso di selezione pubblica reclutamento di esperti e tutor interni/esterni – Progettp “EduInnovazi · TIMBRO~1 · DICHIARAZIONE DI INSUSSISTENZA · allegato-E-tracc ...
+- [Avviso di selezione interna per figure professionali (Esperto ...](https://www.icpompei1.edu.it/categoria/le-notizie/4148/avviso-di-selezione-interna-per-figure-professionali-esperto-tutor-pn-scuola-e-competenze-2021-2027-fondo-fse-obiettivo-specifico-eso4-5-formazione-docenti-)
+  - 3 ago 2026 · Avviso di selezione interna per figure professionali (Esperto/Tutor) – PN "Scuola e competenze" 2021-2027 (Fondo FSE+.Obiettivo specifico ESO4.5).
+- [AVVISO UNICO DI SELEZIONE ESPERTI E TUTOR](https://www.doncolletto.edu.it/avviso-unico-di-selezione-esperti-e-tutor-progetto-formazione-docenti)
+  - 7 ago 2026 · AVVISO UNICO DI SELEZIONE ESPERTI E TUTOR – Progetto “Formazione Docenti” ... PN SCUOLA E COMPETENZE 2021-2027. Modulistica. MODULISTICA · Modulistica ...
+- [AVVISO SELEZIONE ESPERTI TUTOR FIGURA AGGIUNTIVA ...](https://icmonteronidarbia.edu.it/avvio-progetto-pn2127-agenda-nord-officina-fucini-2026)
+  - 4 ago 2026 · PN SCUOLA E COMPETENZE 2021-2027. Novità. Amministrazione Trasparente · Albo Online · Circolari · Le notizie · Calendario eventi · Amministrazione Trasparente ...
+- [[PDF] Ministero dell'Istruzione e del Merito](https://www.ic1tortorici.edu.it/wp-content/uploads/2026/08/timbro_2-Avviso-selezione-esperti-e-tutor-dm-38-Formazione-docenti-signed.pdf)
+  - 3 giorni fa · nell'ambito del Programma Nazionale “PN Scuola e competenze 2021-2027”, in attuazione del regolamento (UE) 2021/1060, nonché destinazione di ulteriori ...
+- [PN 2127 Progetto Maestri in forma! Formazione personale ...](https://icmonteronidarbia.edu.it/pn-2127-progetto-maestri-in-forma-formazione-personale-scolastico)
+  - 30 lug 2026 · Formazione personale scolastico AVVISO DI SELEZIONE PERSONALE ESPERTI E Pubblicazione Graduatorie ... PN SCUOLA E COMPETENZE 2021-2027. Novità. Amministrazione ...
+- [Istituto Comprensivo 35° Scudillo Carafa Salvemini](https://www.icscudillocarafasalvemini.edu.it)
+  - 2 giorni fa · Avviso di selezione Esperti e Tutor DM 38/2026. Dettagli atto. Titolo: Avviso di selezione Esperti e Tutor DM 38/2026. Protocollo: 8180. Numero: 8180. Categoria ...
+- [Amministrazione Trasparente - Imola BO - Scarabelli Ghini](https://www.scarabelli-ghini.edu.it/amministrazione-trasparente)
+  - 10 ago 2026 · DECRETO DI VALUTAZIONE IN AUTONOMIA DA PARTE DEL DS PER AVVISO PER LA SELEZIONE ESPERTI/TUTOR INTERNI PN2127 - DM 38/2026 - formazione docenti. Pubblicato il ...
+- [Amministrazione Trasparente - IPSAR "Luigi Veronelli"](https://www.ipsarveronelli.edu.it/amministrazione-trasparente)
+  - 3 giorni fa · ... Avviso di selezione prot. n. 15577 del 30/07/2026 Avviso Pubblico prot. n. 95450 del 24 aprile 2026 (D.M. 38/2026) PON “Per la Scuola – Competenze e ... Mancanti: esperti | Deve includere: esperti
+- [PN SCUOLA E COMPETENZE 21-27](https://www.istitutocomprensivocaria.edu.it/pn-scuola-e-competenze-21-27)
+  - 29 lug 2026 · PN SCUOLA E COMPETENZE 21-27. COESIONE ITALIA 21-27 SCUOLA E COMPETENZE è il ... 21-07-2026, Download · timbro_AVVISO-di-Selezione-ESPERTI-e-TUTOR-DM-38-2026 ...
+- [Le circolari | I.I.S.S. "C. Agostinelli"](https://www.istitutoagostinelli.edu.it/comunicati)
+  - 4 days ago · Circolare del 20/08/2026 Avviso pubblico di selezione per il conferimento di incarichi di esperto e tutor DM 38/2026-PN "Scuola e Competenze" 2021-2026 Pubblicato il: 20/08/2026 Tipologia: Tutto il personale, Docenti, Riservata Allegati:
+- [News docenti - IIS Giovanni XXIII](https://www.iisgiovanni23.edu.it/news-docenti)
+  - 6 ago 2026 · ... AVVISO INTERNO PER SELEZIONE TUTOR. Leggi tutto · PN FESR. GIOVANNI XXIII AVVISO TUTOR ED ESPERTI INTERNI PIANO ESTATE 2026/2027 · 4 Agosto 2026. 04/08/2027 ...
+- [Avviso selezione esperti docenti interni/esterni Avviso 95165 ...](https://www.icmendicino.edu.it/2026/08/24/avviso-selezione-esperti-docenti-interni-esterni-avviso-95165-del-24-04-2026-formazione-docenti)
+  - 5 days ago · Avviso selezione esperti docenti interni/esterni Avviso 95165 del 24/04/2026 – Formazione docenti
+- [PUBBLICAZIONE DELLE GRADUATORIE DI ISTITUTO](https://www.reginamargherita.edu.it/pubblicazione-delle-graduatorie-di-istituto-di-i-e-ii-fascia-del-personale-ata-a-s-2026-27)
+  - 7 ago 2026 · AVVISO UNICO DI SELEZIONE PERSONALE INTERNO/ESTERNO per il ruolo di ESPERTO/TUTOR - PN2127 FORMAZIONE DOCENTI (DM 38/2026). SOSPENSIONE ATTIVITÀ DIDATTICA ...
+- [AVVISO INTERNO PER LA SELEZIONE DI DOCENTI ESPERTO E TUTOR e ...](https://www.icvolturara.edu.it/avviso-interno-per-la-selezione-di-docenti-esperto-e-tutor-e-di-un-referente-per-la-valutazione-a-valere-sul-progetto-2)
+  - Aug 12, 2026 · VISTO l’Avviso pubblico prot. n. 0095165 del 24/04/2026, “azioni rivolte alla formazione del personale docente ed educativo al fine di potenziare le competenze professionali, nell’ambito del Programma Nazionale “PN Scuola e competenze 2021-2027”, in attuazione del regolamento (UE) 2021/1060
+- [AVVISO PUBBLICO DI SELEZIONE ESPERTI E TUTORS INTERNI ED ...](https://www.icedolo.edu.it/2026/08/27/avviso-pubblico-di-selezione-esperti-e-tutors-interni-ed-esterni-pn21-27-formazione-docenti)
+  - 2 days ago · Si pubblica di seguito avviso pubblico di selezione esperti e tutors interni ed esterni di cui a Fondi Strutturali Europei – Programma Nazionale “Scuola e competenze” 2021-2027 – Priorità 01 – Scuola e competenze – Fondo Sociale Europeo Plus (FSE+) – Obiettivo Specifico ESO4.5, Azione ESO4.5.A2 – Sotto azione ESO4.5.A2.B ...
+- [Avviso di selezione per Esperti e Tutor – Piano Formazione ...](https://www.comprensivotolfa.edu.it/2026/08/26/avviso-di-selezione-per-esperti-e-tutor-piano-formazione-docenti)
+  - 3 days ago · Nella sezione “Albo online” del sito è stato pubblicato un avviso di selezione per la figura di esperto (interno o esterno) e tutor (interno) per il progetto “Piano Formazione Docenti”. Maggiori dettagli sono consultabili raggiungendo la relativa pagina, oppure cliccando il link in basso.
+- [Amministrazione Trasparente | IIS Amedeo Avogadro](https://www.itisavogadro.edu.it/amministrazione-trasparente)
+  - 8 ago 2026 · Seconda procedura di selezione per il reclutamento di esperti formatori da impiegare in attività formative a valere sul progetto Programma Nazionale "PN Scuola ...
+- [Amministrazione Trasparente - Liceo Fanti](https://www.liceofanti.edu.it/amministrazione-trasparente)
+  - 7 ore fa · Decreto di individuazione di esperti, tutor e figura aggiuntiva per l'attuazione di “Percorsi educativi e formativi per il potenziamento delle competenze, l' ...
+

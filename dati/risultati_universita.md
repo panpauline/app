@@ -200,3 +200,12 @@
 - [AFORM Settore Servizi didattici “Lettere-Lingue”- Bando di ...](https://bandi.unibo.it/s/aform7/aform-settore-servizi-didattici-lettere-lingue-bando-di-selezione-per-soli-titoli-per-l-attribuzione-a-titolo-oneroso-di-contratti-di-tutorato-didattico-per-il-corso-di-laurea-in-scienze-della-comunicazione-del-dipartimento-delle-arti-per-l-a-a-2026-2027-1)
   - Aug 3, 2026 · La scadenza del bando è prevista per il giorno 1° settembre 2026 ore 12.00. Per informazioni inerenti al procedimento concorsuale rivolgersi a: aform.letterelingue-bandi@unibo.itfacendo riferimento agli estremi del Bando (Rep. e Prot.).
 
+## Ricerca del 2026-08-29 11:24 UTC
+
+- [Docenze a contratto nell'ambito dei corsi di studio e dei master](https://www.dcps.unito.it/do/home.pl/View)
+  - 30 lug 2026 · AVVISO DI SELEZIONE PER IL CONFERIMENTO DI CONTRATTI PER ATTIVITA' DI INSEGNAMENTO-attività didattica integrativa-bando 21_110 Dip. di Culture, Politica e ...
+- [Docenti a contratto: Università Ca' Foscari Venezia](https://www.unive.it/pag/11438)
+  - 5 giorni fa · Docenti a contratto. Bandi attivi e informazioni per i vincitori. Bandi di insegnamento e didattica integrativaInformazioni per i titolari di incarico ... Mancanti: avviso italiano latino
+- [Concorsi - Verona - Dipartimento Culture e Civiltà - Univr](https://www.dcuci.univr.it)
+  - 19 ago 2026 · 471/2022 - Bando FSG - Dipartimento Culture e Civiltà: n. 1 assegno FSG - Tutorato didattico di Letteratura italiana (i). Dettagli. ALBO 09/03/22, 24/03/22 ...
+
