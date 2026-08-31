@@ -1097,3 +1097,46 @@
 - [Amministrazione Trasparente - Liceo Fanti](https://www.liceofanti.edu.it/amministrazione-trasparente)
   - 7 ore fa · Decreto di individuazione di esperti, tutor e figura aggiuntiva per l'attuazione di “Percorsi educativi e formativi per il potenziamento delle competenze, l' ...
 
+## Ricerca del 2026-08-31 23:47 UTC
+
+- [Avviso di selezione interno ed esterno selezione Esperto Formatore per modulo “I.A. in Segreteria” - Istituto Comprensivo Statale "G. Racioppi" Moliterno](https://www.icmoliterno.edu.it/avviso-di-selezione-interno-ed-esterno-selezione-esperto-formatore-per-modulo-i-a-in-segreteria) ⚠️ localita' da verificare
+  - 1 week ago - Progetto Fondi Strutturali Europei ... dell’istruzione e del Merito n. 40 del 9 marzo 2026, Avviso 95498 del 24 aprile 2026, “Formazione personale ATA”. Avviso di selezione interno ed esterno per l’individuazione della ...
+- [Avviso di selezione ESPERTO FORMATORE - Liceo Lucio Piccolo](https://www.liceoluciopiccolo.edu.it/documento/albo-n-00246-2026) ⚠️ localita' da verificare
+  - Descrizione Allegati Avviso di selezione ESPERTO FORMATORE (Prot. n. 15745 del 11/08/2026) pdf - 486 kb
+- [Decisione a contrarre avviso selezione esperto formatore per modulo “I.A. in Segreteria”. - Istituto Comprensivo Statale "G. Racioppi" Moliterno](https://www.icmoliterno.edu.it/decisione-a-contrarre-avviso-selezione-esperto-formatore-per-modulo-i-a-in-segreteria) ⚠️ localita' da verificare
+  - 1 week ago - Progetto Fondi Strutturali Europei ... dell’istruzione e del Merito n. 40 del 9 marzo 2026, Avviso 95498 del 24 aprile 2026, “Formazione personale ATA”. Decisione a contrarre di avvio del procedimento di selezione, ...
+- [Decisione a contrarre selezione esperto formatore Gestione Previdenziale e Pensionistica - Istituto Comprensivo Statale "G. Racioppi" Moliterno](https://www.icmoliterno.edu.it/decisione-a-contrarre-selezione-esperto-formatore-gestione-previdenziale-e-pensionistica) ⚠️ localita' da verificare
+  - 5 days ago - Progetto Fondi Strutturali Europei ... dell’istruzione e del Merito n. 40 del 9 marzo 2026, Avviso 95498 del 24 aprile 2026, “Formazione personale ATA”. Decisione a contrarre di avvio del procedimento di selezione, ...
+- [Avviso selezione esperto formatore Gestione Previdenziale e Pensionistica - Istituto Comprensivo Statale "G. Racioppi" Moliterno](https://www.icmoliterno.edu.it/avviso-selezione-esperto-formatore-gestione-previdenziale-e-pensionistica) ⚠️ localita' da verificare
+  - 5 days ago - Progetto Fondi Strutturali Europei ... dell’istruzione e del Merito n. 40 del 9 marzo 2026, Avviso 95498 del 24 aprile 2026, “Formazione personale ATA”. Avviso di selezione interno ed esterno per l’individuazione della ...
+- [Avviso di selezione, rivolto al personale interno, in regime di collaborazione plurima ed esterno. - ISTITUTO TECNICO INDUSTRIALE "G.M. ANGIOY"](https://www.itiangioy.edu.it/avviso-di-selezione-rivolto-al-personale-interno-in-regime-di-collaborazione-plurima-ed-esterno) ⚠️ localita' da verificare
+  - 2 weeks ago - Avviso di selezione, rivolto al ... Esperto Formatore e Tutor – FSE+ PN Scuola e competenze 2021-2027 Progetto “@T@_Apprendimento Trasversale Avanzato” – ESO4.5.A2.B-FSEPN-SA-2026-5....
+- [Avviso selezione formatore modulo “AMM. TRASPARENTE, ALBO ONLINE E FLUSSO DOCUMENTALE”. - Istituto Comprensivo Statale "G. Racioppi" Moliterno](https://www.icmoliterno.edu.it/avviso-selezione-formatore-modulo-amm-trasparente-albo-online-e-flusso-documentale) ⚠️ localita' da verificare
+  - 1 week ago - Progetto Fondi Strutturali Europei ... dell’istruzione e del Merito n. 40 del 9 marzo 2026, Avviso 95498 del 24 aprile 2026, “Formazione personale ATA”. AVVISO DI SELEZIONE INTERNO ED ESTERNO PER L’INDIVIDUAZIONE DELLA ...
+- [Decisione a contrarre selezione formatore modulo “AMM. TRASPARENTE, ALBO ONLINE E FLUSSO DOCUMENTALE - Istituto Comprensivo Statale "G. Racioppi" Moliterno](https://www.icmoliterno.edu.it/decisione-a-contrarre-selezione-formatore-modulo-amm-trasparente-albo-online-e-flusso-documentale) ⚠️ localita' da verificare
+  - 1 week ago - Progetto Fondi Strutturali Europei ... dell’istruzione e del Merito n. 40 del 9 marzo 2026, Avviso 95498 del 24 aprile 2026, “Formazione personale ATA”. DECISIONE A CONTRARRE DI AVVIO DEL PROCEDIMENTO DI SELEZIONE, ...
+- [Avviso selezione esperto formatore e tutor modulo "Emotions in the classroom" - Istituto Comprensivo Statale "G. Racioppi" Moliterno](https://www.icmoliterno.edu.it/avviso-selezione-esperto-formatore-e-tutor-modulo-emotions-in-the-classroom) ⚠️ localita' da verificare
+  - 1 month ago - AVVISO DI SELEZIONE per l’individuazione delle figure del DOCENTE ESPERTO FORMATORE IN LINGUA INGLESE E DEL TUTOR per lo svolgimento del Modulo 229323 “ Emotions in the classroom” della durata di n.
+- [Avviso di selezione per il conferimento dell’incarico di ...](https://www.icnordprato.edu.it/avviso-di-selezione-per-il-conferimento-dellincarico-di-esperto-formatore-ai)
+  - Aug 5, 2026 · Home Novità Le notizie Avviso di selezione per il conferimento dell’incarico di esperto formatore AI
+- [Annullamento in autotutela, ai sensi dell’art. 21-nonies ...](https://www.liceoluciopiccolo.edu.it/documento/albo-n-00244-2026) ⚠️ localita' da verificare
+  - Aug 11, 2026 · Annullamento in autotutela, ai sensi dell’art. 21-nonies della L. 241/1990, dell’Avviso di selezione per il conferimento di incarichi di Esperto Formatore (prot. n. 15037 del 20/07/2026) e dei relativi atti.
+- [n. 3 Moduli formativi progetto FSE+ Avviso 95165 del 24/04 ...](https://ictongiorgi.edu.it/2026/08/03/avviso-di-selezione-interna-per-docenti-esperti-n-3-moduli-formativi-progetto-fse-avviso-95165-del-24-04-2026-formazione-docenti) ⚠️ localita' da verificare
+  - 3 ago 2026 · Avviso di Selezione interna per Docenti ESPERTI – n. 3 Moduli formativi progetto FSE+ Avviso 95165 del 24/04/2026 – Formazione docenti – Codice Progetto: ESO4.
+- [AVVISO PUBBLICO DI SELEZIONE COMPARATIVA UNICA per il ...](https://www.comprensivocampora-aiello.edu.it/circolare/avviso-pubblico-di-selezione-comparativa-unica-per-il-conferimento-di-incarichi-individuali-in-qualita-di-esperto-formatore-e-tutor-daula-fondo-sociale-europeo-plus-fse-obiettivo-specific) ⚠️ localita' da verificare
+  - Aug 5, 2026 · AVVISO PUBBLICO DI SELEZIONE COMPARATIVA UNICA per il conferimento di incarichi individuali in qualità di ESPERTO FORMATORE e TUTOR D’AULA Fondo Sociale Europeo Plus (FSE+).
+- [Avviso di Selezione per il conferimento di incarichi in ...](https://www.iisancelkeys.edu.it/avviso-di-selezione-per-il-conferimento-di-incarichi-in-qualita-di-esperti-formatori-progetto-formativo-professionisti-per-la-scuola) ⚠️ localita' da verificare
+  - Aug 3, 2026 · Avviso 95498 del 24 aprile 2026–Formazione personale amministrativo, tecnico e ausiliario.
+- [Pubblicazione avviso di selezione integrata per esperti e tutor](https://www.liceocutelli.edu.it/pubblicazione-avviso-di-selezione-integrata-per-esperti-e-tutor-progetto-officina-classica) ⚠️ localita' da verificare
+  - 20 ago 2026 · Pubblicato l'avviso per la selezione di esperti e tutor del modulo “Officina Classica”. Candidature entro le ore 13:00 del 4 settembre 2026. Utente CTPC040006- ...
+- [Istituto Tecnico “Saffi/Alberti” - Homepage del portale ...](https://www.saffialberti.edu.it) ⚠️ localita' da verificare
+  - 6 days ago · Avviso di selezione interna per esperti e tutor – Progetto PN – Formazione docenti 2026-27 Procedura di selezione per il conferimento di incarichi individuali come formatori - esperti e tutor per la realizzazione del progetto PN - Formazione docenti
+- [PNRR - Istituto Professionale "Persolino Strocchi"](https://www.persolinostrocchi.edu.it/pnrrfutura) ⚠️ localita' da verificare
+  - 14 ago 2026 · 4 - AVVISO DI SELEZIONE ESPERTO SUPPORTO SPECIALISTICO CLASSROOM ... 03 - AVVISO SELEZIONE PERSONALE ATA PNRR LABS, 709.29 KB, DownloadAnteprima. 04 ...
+- [Circolare n. 6 – a.s. 2026-2027 – istitutobottardi](https://www.istitutobottardi.edu.it/circolare/circolare-n-6-a-s-2026-2027) ⚠️ localita' da verificare
+  - 23 hours ago · Avviso Selezione Esperti e Tutor PN Scuola e Competenze 2021-2027 Formazione Docenti- Avviso 95165 del 24/04/2026 Amministratore_bottardi
+- [PNRR - Carducci San Cataldo](https://www.carduccisancataldo.edu.it/pnrr-html-0) ⚠️ localita' da verificare
+  - Aug 10, 2026 · Avviso di reclutamento personale interno per la costituzione del “GRUPPO DI PROGETTAZIONE” e per la figura di esperto per “Progettazione architettonica” ai fini della realizzazione delle azioni previste dal PNRR – Piano Nazionale di Ripresa e Resilienza (PNRR) Missione 4: Istruzione e Ricerca – Investimento 3.0: Scuola 4.0 ...
+- [AVVISO PUBBLICO DI SELEZIONE COMPARATIVA UNICA per il ...](https://www.comprensivocampora-aiello.edu.it/circolare/avviso-pubblico-di-selezione-comparativa-unica-per-il-conferimento-di-incarichi-individuali-in-qualita-di-esperto-formatore-e-tutor-daula-fondo-sociale-europeo-plus-fse-obiettivo-specific/?pdf=true) ⚠️ localita' da verificare
+  - Aug 10, 2026 · AVVISO PUBBLICO DI SELEZIONE COMPARATIVA UNICA per il conferimento di incarichi individuali in qualità di ESPERTO FORMATORE e TUTOR D’AULA Fondo Sociale Europeo Plus (FSE+). Obiettivo Specifico: ESO4.5 “Migliorare i sistemi di istruzione e di formazione”.
+

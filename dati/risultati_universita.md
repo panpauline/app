@@ -209,3 +209,26 @@
 - [Concorsi - Verona - Dipartimento Culture e Civiltà - Univr](https://www.dcuci.univr.it)
   - 19 ago 2026 · 471/2022 - Bando FSG - Dipartimento Culture e Civiltà: n. 1 assegno FSG - Tutorato didattico di Letteratura italiana (i). Dettagli. ALBO 09/03/22, 24/03/22 ...
 
+## Ricerca del 2026-08-31 23:48 UTC
+
+- [Albo Pretorio online di: UNIVERSITA' DEGLI STUDI ROMA TRE](https://www.albopretorionline.it/uniroma/alboente.aspx?sez=ATT&categoria=Incarichi+e+collaborazioni) _(tutor abilitanti)_
+  - 3 days ago · Selezione pubblica, per titoli e colloqui, ai fini dell’individuazione di docenti di scuola secondaria di primo e secondo grado per lo svolgimento dei compiti di tutor coordinatore nell’ambito dei percorsi universitari di formazione iniziale dei docenti di cui al DPCM 4 agosto 2023.
+- [ALBO PRETORIO ONLINE - Pubblicazione e Consultazione Bandi e ...](https://www.albopretorionline.it/uniroma/alboente.aspx) _(tutor abilitanti)_
+  - 23 hours ago · Selezione pubblica, per titoli e colloqui, ai fini dell’individuazione di docenti di scuola secondaria di primo e secondo grado per lo svolgimento dei compiti di tutor coordinatore nell’ambito dei percorsi universitari di formazione iniziale dei docenti di cui al DPCM 4 agosto 2023.
+- [ADPR bando n. 26-00067 del 24.08.2026 | Università degli ...](https://www.unimib.it/ateneo/gare-e-concorsi/adpr-bando-n-26-00067-del-24082026) _(docenza)_
+  - 4 days ago · ADPR bando n. 26-00067 del 24.08.2026 Docenti a contratto Bando per la copertura, a titolo retribuito, di attività didattiche curriculari (esercitazioni, laboratori e attività di campo) presso il Dipartimento di Scienze Umane per la Formazione "Riccardo Massa" – Anno accademico 2026/2027 (CdLM in Scienze della Formazione Primaria).
+- [ALBO PRETORIO ONLINE - Pubblicazione e Consultazione Bandi e ...](https://www.albopretorionline.it/uniroma/alboente.aspx?ida=653225) _(tutor abilitanti)_
+  - 23 hours ago · SELEZIONE PUBBLICA, PER TITOLI E COLLOQUIO, PER L’INDIVIDUAZIONE DEL PERSONALE DOCENTE E DIRIGENTE IN SERVIZIO A TEMPO INDETERMINATO NELLE ISTITUZIONI DEL SISTEMA NAZIONALE DI ISTRUZIONE DA UTILIZZARE IN REGIME DI ESONERO TOTALE PER 1 POSTO FINALIZZATO PER LO SVOLGIMENTO DI ATTIVITA’ TUTORIALI (TUTOR ORGANIZZATORE) PRESSO IL DIPARTIMENTO DI ...
+- [CTL - Bando di fase 4B per l'attribuzione, a titolo oneroso ...](https://bandi.unibo.it/s/cfi/ctl-bando-di-fase-4b-per-l-attribuzione-a-titolo-oneroso-di-contratti-di-insegnamento-e-di-moduli-didattici-per-i-percorsi-di-formazione-iniziale-per-docenti-a-a-2026-2027) _(tutor abilitanti)_
+  - Aug 7, 2026 · CTL - Bando di fase 4B per l'attribuzione, a titolo oneroso, di contratti di insegnamento e di moduli didattici per i percorsi di formazione iniziale per docenti - a.a. 2026/2027
+- [Avviso relativo alle modalità di ammissione ai percorsi di ...](https://www.unime.it/bandi/avviso-relativo-alle-modalita-di-ammissione-ai-percorsi-di-formazione-iniziale-e-0) _(tutor abilitanti)_
+  - Aug 7, 2026 · Si comunica che le immatricolazioni ai Percorsi di formazione iniziale insegnanti delle scuole secondarie di I e II grado su posto comune ai sensi del D.P.C.M. 4 agosto 2023 da 60 CFU e 30 CFU (posti riservati), A.A. 2025/2026 saranno aperte a partire dal 7 settembre 2026.
+- [AVVISO PER L’ISCRIZIONE AI PERCORSI DI FORMAZIONE INIZIALE ...](https://www.unime.it/bandi/avviso-liscrizione-ai-percorsi-di-formazione-iniziale-dei-docenti-da-30-cfu-attivati-ai-1) _(tutor abilitanti)_
+  - Aug 7, 2026 · Si comunica che le immatricolazioni a tutti i Percorsi di formazione iniziale insegnanti 30 CFU attivati ai sensi dell’art. 13 del D.P.C.M. 4 agosto 2023, per l'A.A. 2025/2026, saranno aperte a partire dal 7 settembre 2026. Le attività didattiche avranno inizio nell’ultima settimana di settembre.
+- [Incarichi didattici - Concorsi](https://www.univr.it/it/concorsi/incarichi-didattici?_it_univr_aolux_portlet_albo_ConcorsiPortlet_page=1) _(tutor abilitanti)_
+  - 6 days ago · Avviso di selezione pubblica per il conferimento di n. 1 incarico di collaborazione per il supporto specialistico all’attività di tutor coordinatore di tirocinio e di coordinamento delle attività didattiche disciplinari per la classe A041 nell’ambito dei Percorsi di Formazione Iniziale docenti 60 e 30 cfu (all. 2 D.P.C.M. 4 agosto 2023 ...
+- [Formazione e abilitazione all'insegnamento: Università Ca ...](https://unive.it/pag/26427) _(tutor abilitanti)_
+  - Aug 20, 2026 · Percorsi abilitanti da 30 CFU per coloro che hanno svolto servizio presso le istituzioni scolastiche statali o presso le scuole paritarie per almeno tre anni, anche non continuativi, di cui almeno uno nella specifica classe di concorso per la quale scelgono di conseguire l'abilitazione.
+- [Bando Università Link per Percorso abilitante 30 CFU art.13 ...](https://orizzonteinsegnanti.it/bando-universita-link-per-percorso-abilitante-30-cfu-art-13-iscrizioni-entro-il-28-settembre) _(tutor abilitanti)_
+  - Aug 11, 2026 · L'Università degli Studi Link Campus University ha ufficializzato l'apertura del bando per la prima edizione del percorso formativo abilitante da 30 CFU, previsto dall'art. 13 del DPCM 4 agosto 2023.
+
