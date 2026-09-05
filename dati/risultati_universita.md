@@ -232,3 +232,8 @@
 - [Bando Università Link per Percorso abilitante 30 CFU art.13 ...](https://orizzonteinsegnanti.it/bando-universita-link-per-percorso-abilitante-30-cfu-art-13-iscrizioni-entro-il-28-settembre) _(tutor abilitanti)_
   - Aug 11, 2026 · L'Università degli Studi Link Campus University ha ufficializzato l'apertura del bando per la prima edizione del percorso formativo abilitante da 30 CFU, previsto dall'art. 13 del DPCM 4 agosto 2023.
 
+## Ricerca del 2026-09-05 08:43 UTC
+
+- [Bando per tutor coordinatore in Scienze della Formazione Primaria • Dipartimento di Civiltà e Forme del Sapere](https://www.cfs.unipi.it/2026/09/02/bando-per-tutor-coordinatore-in-scienze-della-formazione-primaria) _(tutor abilitanti)_
+  - 3 days ago - Il Dipartimento ha indetto un bando per tutor coordinatore (posizione di esonero parziale) nel Corso di Laurea Magistrale a ciclo unico in Scienze della Formazione Primaria (LM-85 bis), per l’anno scolastico 2026/2027.
+
