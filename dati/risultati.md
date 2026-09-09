@@ -1140,3 +1140,12 @@
 - [AVVISO PUBBLICO DI SELEZIONE COMPARATIVA UNICA per il ...](https://www.comprensivocampora-aiello.edu.it/circolare/avviso-pubblico-di-selezione-comparativa-unica-per-il-conferimento-di-incarichi-individuali-in-qualita-di-esperto-formatore-e-tutor-daula-fondo-sociale-europeo-plus-fse-obiettivo-specific/?pdf=true) ⚠️ localita' da verificare
   - Aug 10, 2026 · AVVISO PUBBLICO DI SELEZIONE COMPARATIVA UNICA per il conferimento di incarichi individuali in qualità di ESPERTO FORMATORE e TUTOR D’AULA Fondo Sociale Europeo Plus (FSE+). Obiettivo Specifico: ESO4.5 “Migliorare i sistemi di istruzione e di formazione”.
 
+## Ricerca del 2026-09-09 09:17 UTC
+
+- 📍 Livorno — [Avviso di selezione per docenti interni ed esterni - DM 38 formazione docenti - Istituto Comprensivo Statale “Giosué Carducci” – PORTO AZZURRO](https://www.icportoazzurro.edu.it/avviso-di-selezione-per-docenti-interni-ed-esterni-dm-38-formazione-docenti)
+  - 3 weeks ago - timbro_AVVISO DI SELEZIONE DM 38_interni ed esterni AVVISO DI SELEZIONE DM 38_interni_ALLEGATO B esperto-Tutor AVVISO DI SELEZIONE DM 38_interni_ALLEGATO A esperto-tutor
+- 📍 Livorno — [PIANO ESTATE 26/27 - AVVISO PER LA SELEZIONE DI PERSONALE PER DOCENTE ESPERTO E TUTOR - ISISS Marco Polo - Carlo Cattaneo](https://www.polocattaneo.edu.it/piano-estate-26-27-avviso-per-la-selezione-di-personale-per-docente-esperto-e-tutor)
+  - 3 weeks ago - AVVISO PER LA SELEZIONE PERSONALE INTERNO / IN COLLABORAZIONE PLURIMA / ESTERNO COME DOCENTE ESPERTO E TUTOR PER IL PROGETTO “PERCORSI EDUCATIVI E FORMATIVI PER IL POTENZIAMENTO DELLE COMPETENZE, L’INCLUSIONE E LA SOCIALITA’ NEL PERIODO DI SOSPENSIONE ESTIVA DELLE LEZIONI” – Fondi Strutturali Europei – Programma Nazionale “Scuola e competenze” 2021-2027 Priorità 01 – Scuola e competenze – Fondo Sociale Europeo Plus (FSE+) – Obiettivo Specifico ESO4.6, Azione ESO4.6.A4 – Sotto-azione ESO4.6.A4A – Interventi di cui al decreto del Ministro dell’istruzione e del merito dell’11 maggio 2026, n.
+- 📍 Lucca — [Avviso selezione esperti e tutor DM38 PN21-27 Formazione ...](https://iccamigliano.edu.it/avviso-selezione-esperti-e-tutor-dm38-pn21-27-formazione-docenti)
+  - 5 days ago · Avviso selezione esperti e tutor DM38 PN21-27 Formazione Docenti Avviso selezione esperti e tutor DM38 PN21-27 Formazione Docenti Si comunica che all’albo on line dell'Istituto è stato pubblicato un avviso di selezione di Esperti e Tutor a supporto dei moduli DM38 Formazione Docenti Personale scolastico 0 Pubblicato:04.09.2026 -Revisione:04. ...
+
