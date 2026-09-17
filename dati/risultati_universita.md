@@ -237,3 +237,16 @@
 - [Bando per tutor coordinatore in Scienze della Formazione Primaria • Dipartimento di Civiltà e Forme del Sapere](https://www.cfs.unipi.it/2026/09/02/bando-per-tutor-coordinatore-in-scienze-della-formazione-primaria) _(tutor abilitanti)_
   - 3 days ago - Il Dipartimento ha indetto un bando per tutor coordinatore (posizione di esonero parziale) nel Corso di Laurea Magistrale a ciclo unico in Scienze della Formazione Primaria (LM-85 bis), per l’anno scolastico 2026/2027.
 
+## Ricerca del 2026-09-17 09:45 UTC
+
+- [Incarichi di insegnamento — Bandi](https://bandi.unibo.it/didattica/incarichi-insegnamento) _(docenza)_
+  - AFORM Settore Servizi didattici “Lettere-Lingue”- Bando di selezione per titoli e colloquio per l’attribuzione, a titolo oneroso, di un contratto di insegnamento per il Corso di Laurea in Filosofia del Dipartimento di Filosofia per l’a.a. 2026/27.
+- [Selezione pubblica per il conferimento di incarichi di ...](https://www.unisi.it/albo_pretorio/bandi/concorsi_interni/selezione-pubblica-il-conferimento-di-incarichi-di-insegnamento-aa-20262027-art-13) _(docenza)_
+  - Sep 1, 2026 · Selezione pubblica per il conferimento di incarichi di insegnamento a.a. 2026/2027 – art. 23, c. 2, L. 30/12/2010, n. 240 - nei corsi di studio Dipartimento Filologia e Critica delle Letterature Antiche e Moderne Università di Siena Rep. 1318/2026
+- [Incarichi di Insegnamento | Formazione Insegnanti - UNISA](https://web.unisa.it/home/bandi/concorsi-selezioni/incarichi-di-insegnamento/formazione-insegnanti) _(tutor abilitanti)_
+  - Sep 7, 2026 · Avviso di selezione pubblica per incarichi di insegnamento disciplinari a titolo retribuito nell’ambito dei percorsi di formazione iniziale e di abilitazione 60 CFU attivati per l’anno accademico 2025/2026
+- [Bandi, Concorsi, Gare e Appalti - Unida](https://www.unidarc.it/bandi-concorsi) _(tutor abilitanti)_
+  - Sep 4, 2026 · È nominata la Commissione giudicatrice per la selezione pubblica, per titoli e colloqui, ai fini dell’individuazione di docenti di scuola secondaria di primo e secondo grado per lo svolgimento dei compiti di tutor coordinatore nell’ambito dei percorsi universitari di formazione iniziale dei docenti di cui al D.P.C.M. 4 agosto 2023 ...
+- [Corso di abilitazione 30 cfu docenti ingabbiati | Università Pegaso](https://unipegasoecplusm.it/abilitazione-30-cfu-docenti-ingabbiati) _(tutor abilitanti)_
+  - 2 weeks ago - Coloro che sono in possesso di abilitazione su una classe di concorso o su un altro grado di istruzione nonchè coloro che sono in possesso della specializzazione sul sostegno possono conseguire, fermo restando il possesso del titolo di studio necessario con riferimento alla classe di concorso, l’abilitazione in altre classi di concorso o in altri gradi di istruzione. Requisiti di Accesso • Laurea in Scienze della Formazione Primaria • Diploma Magistrale conseguito entro l’anno scolastico 2001/2002 • TFA (Tirocinio Formativo Attivo); • Specializzazione sul sostegno. • PAS (Percor
+
