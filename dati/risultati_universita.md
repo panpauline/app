@@ -250,3 +250,8 @@
 - [Corso di abilitazione 30 cfu docenti ingabbiati | Università Pegaso](https://unipegasoecplusm.it/abilitazione-30-cfu-docenti-ingabbiati) _(tutor abilitanti)_
   - 2 weeks ago - Coloro che sono in possesso di abilitazione su una classe di concorso o su un altro grado di istruzione nonchè coloro che sono in possesso della specializzazione sul sostegno possono conseguire, fermo restando il possesso del titolo di studio necessario con riferimento alla classe di concorso, l’abilitazione in altre classi di concorso o in altri gradi di istruzione. Requisiti di Accesso • Laurea in Scienze della Formazione Primaria • Diploma Magistrale conseguito entro l’anno scolastico 2001/2002 • TFA (Tirocinio Formativo Attivo); • Specializzazione sul sostegno. • PAS (Percor
 
+## Ricerca del 2026-09-21 10:18 UTC
+
+- [PUBBLICAZIONE BANDI INCARICHI INSEGNAMENTO A.A. 2026/2027 - I ...](https://lettere.web.uniroma1.it/it/pubblicazione-bandi-incarichi-insegnamento-aa-20262027-ideg-semestre) _(docenza)_
+  - Aug 28, 2026 · Si comunica che sono stati pubblicati, nella sezione "Amministrazione Trasparente", i bandi per il conferimento di incarichi di insegnamento a titolo oneroso per docenza e collaborazione, ai sensi dell'art. 23 comma 2 legge 240/2010 I° semestre a.a. 2026/2027.
+
