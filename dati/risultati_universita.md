@@ -255,3 +255,12 @@
 - [PUBBLICAZIONE BANDI INCARICHI INSEGNAMENTO A.A. 2026/2027 - I ...](https://lettere.web.uniroma1.it/it/pubblicazione-bandi-incarichi-insegnamento-aa-20262027-ideg-semestre) _(docenza)_
   - Aug 28, 2026 · Si comunica che sono stati pubblicati, nella sezione "Amministrazione Trasparente", i bandi per il conferimento di incarichi di insegnamento a titolo oneroso per docenza e collaborazione, ai sensi dell'art. 23 comma 2 legge 240/2010 I° semestre a.a. 2026/2027.
 
+## Ricerca del 2026-09-25 09:56 UTC
+
+- [Incarichi di tutorato | Università degli studi di Bergamo](https://www.unibg.it/ateneo/amministrazione/concorsi-e-selezioni/incarichi-tutorato) _(tutor abilitanti)_
+  - 3 days ago · Avviso di selezione per il conferimento di 2 incarichi di tutor coordinatore del tirocinio nell'ambito dei corsi di specializzazione per le attività di sostegno 2025-2026
+- [Concorsi Scuola 2026 – Tutti i bandi](https://www.concorsando.it/blog/concorsi-scuola) _(tutor abilitanti)_
+  - 1 week ago - Per i docenti è richiesta la laurea magistrale o a ciclo unico nella classe di concorso specifica, oltre all’abilitazione tramite i nuovi percorsi da 60 CFU. Per il personale ATA i requisiti variano: diploma per assistenti amministrativi e tecnici, licenza media per collaboratori scolastici, laurea magistrale per il DSGA.
+- [AVVISO PERCORSI DI FORMAZIONE INIZIALE E ABILITAZIONE DEI ...](https://cemuia.unime.it/it/avvisi/avviso-percorsi-di-formazione-iniziale-e-abilitazione-dei-docenti-delle-scuole-secondarie-di) _(tutor abilitanti)_
+  - 1 day ago · Home Tutti gli avvisi AVVISO PERCORSI DI FORMAZIONE INIZIALE E ABILITAZIONE DEI DOCENTI DELLE SCUOLE SECONDARIE DI I E DI II GRADO SU POSTO COMUNE AI SENSI DEL D.P.C.M. 4 AGOSTO 2023 - 60 CFU E 30 CFU (POSTI RISERVATI), A.A. 2025/2026
+
