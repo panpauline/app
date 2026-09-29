@@ -264,3 +264,10 @@
 - [AVVISO PERCORSI DI FORMAZIONE INIZIALE E ABILITAZIONE DEI ...](https://cemuia.unime.it/it/avvisi/avviso-percorsi-di-formazione-iniziale-e-abilitazione-dei-docenti-delle-scuole-secondarie-di) _(tutor abilitanti)_
   - 1 day ago · Home Tutti gli avvisi AVVISO PERCORSI DI FORMAZIONE INIZIALE E ABILITAZIONE DEI DOCENTI DELLE SCUOLE SECONDARIE DI I E DI II GRADO SU POSTO COMUNE AI SENSI DEL D.P.C.M. 4 AGOSTO 2023 - 60 CFU E 30 CFU (POSTI RISERVATI), A.A. 2025/2026
 
+## Ricerca del 2026-09-29 11:00 UTC
+
+- [AFORM Settore Servizi didattici “Lettere-Lingue”- Bando di ...](https://bandi.unibo.it/s/aform7/aform-settore-servizi-didattici-lettere-lingue-bando-di-selezione-per-soli-titoli-e-per-titoli-e-colloquio-di-accertamento-della-conoscenza-della-lingua-straniera-per-l-attribuzione-a-titolo-oneroso-di-contratti-di-insegnamento-per-i-corsi-di-studio-del-1) _(docenza)_
+  - 1 day ago · AFORM Settore Servizi didattici “Lettere-Lingue”- Bando di selezione per soli titoli e per titoli e colloquio di accertamento della conoscenza della lingua straniera, per l’attribuzione a titolo oneroso, di contratti di insegnamento per i Corsi di studio del Dipartimento di Filologia classica e Italianistica per l’a.a. 2026/27.
+- [AVVISO PERCORSI DI FORMAZIONE INIZIALE E ABILITAZIONE DEI ...](https://cemuia.unime.it/it/avvisi/avviso-percorsi-di-formazione-iniziale-e-abilitazione-dei-docenti-delle-scuole-secondarie-0) _(tutor abilitanti)_
+  - 1 day ago · Home Tutti gli avvisi AVVISO PERCORSI DI FORMAZIONE INIZIALE E ABILITAZIONE DEI DOCENTI DELLE SCUOLE SECONDARIE DI I E DI II GRADO SU POSTO COMUNE AI SENSI DEL D.P.C.M. 4 AGOSTO 2023 - 60 CFU E 30 CFU (POSTI RISERVATI), A.A. 2025/2026
+
