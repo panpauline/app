@@ -271,3 +271,18 @@
 - [AVVISO PERCORSI DI FORMAZIONE INIZIALE E ABILITAZIONE DEI ...](https://cemuia.unime.it/it/avvisi/avviso-percorsi-di-formazione-iniziale-e-abilitazione-dei-docenti-delle-scuole-secondarie-0) _(tutor abilitanti)_
   - 1 day ago · Home Tutti gli avvisi AVVISO PERCORSI DI FORMAZIONE INIZIALE E ABILITAZIONE DEI DOCENTI DELLE SCUOLE SECONDARIE DI I E DI II GRADO SU POSTO COMUNE AI SENSI DEL D.P.C.M. 4 AGOSTO 2023 - 60 CFU E 30 CFU (POSTI RISERVATI), A.A. 2025/2026
 
+## Ricerca del 2026-10-01 11:16 UTC
+
+- [Abilitazione 30 CFU Docenti 2025: Bando, Requisiti e Sedi ...](https://www2.unilink.it/scuola/30-CFU-corsi-abilitanti.asp) _(tutor abilitanti)_
+  - 3 days ago · 30 CFU - Percorsi Abilitanti per Docenti L'Università degli Studi Link apre ufficialmente le iscrizioni ai Percorsi di Formazione Iniziale previsti dall’ art. 13 del D.P.C.M. 4 agosto 2023, finalizzati al conseguimento dell’ abilitazione 30 CFU. Si tratta di un’opportunità concreta per ottenere l’abilitazione all’insegnamento su una nuova classe di concorso, rivolta anche ai ...
+- [UNISOB Napoli - Dipartimento di Scienze formative ...](https://www.unisob.na.it/universita/facolta/formazione/primaria/selezionetutor.htm) _(tutor abilitanti)_
+  - 6 days ago · Corso di laurea magistrale a ciclo unico in Scienze della formazione primaria a.a. 2025/26 Procedura di selezione, per titoli e colloquio di valutazione, finalizzata alla individuazione di personale docente in servizio presso la Scuola dell'Infanzia e la Scuola Primaria del sistema Nazionale di Istruzione da utilizzare per lo svolgimento dei compiti di tutor coordinatore nell'ambito del Corso ...
+- [Coordinatori / Tutor didattici - Concorsi - univr.it](https://www.univr.it/it/concorsi/incarichi-didattici/coordinatori-tutor-didattici) _(tutor abilitanti)_
+  - Sep 23, 2026 · Avviso di selezione pubblica per il conferimento di n. 1 incarico di collaborazione per il supporto specialistico all’attività di tutor coordinatore di tirocinio e di coordinamento delle attività didattiche disciplinari per la classe A041 nell’ambito dei Percorsi di Formazione Iniziale docenti 60 e 30 cfu (all. 2 D.P.C.M. 4 agosto 2023 ...
+- [Tutor Coordinatore | Formazione Insegnanti](https://formazioneinsegnanti.unitn.it/formazione-insegnanti/1614/tutor-coordinatore) _(tutor abilitanti)_
+  - Sep 4, 2026 · Le funzioni e i compiti del Tutor Coordinatore sono indicati nell' Art. 2 del predetto avviso e in particolare: orienta e gestisce i rapporti con i tutor accoglienti, assegnando gli studenti tirocinanti ai gruppi-classe e alle scuole, e ha la responsabilità del progetto di tirocinio dei singoli studenti;
+- [Università di Macerata: Collaborazioni esterne](https://www.unimc.it/it/ateneo/bandi-e-concorsi/bandi-collaborazioni-esterne) _(tutor abilitanti)_
+  - 1 day ago · Avviso di procedura per l’affidamento di collaborazione da tutor tecnico online a supporto dei percorsi di formazione iniziale dei docenti delle scuole secondarie di primo e secondo grado DPCM 4 agosto 2023 (PF 60, 30, 36 e PF30 art.13) e di altre tipologie di percorsi di formazione insegnanti - Anno Accademico 2026/27
+- [Iscrizioni Percorsi Abilitanti 30 CFU - Unimarconi L'Aquila](https://unimarconilaquila.it/corsi-insegnanti/percorsi-abilitanti-30-cfu) _(tutor abilitanti)_
+  - Sep 23, 2026 · Sono aperte le iscrizioni alla quarta edizione percorsi abilitanti da 30 CFU per tutti coloro che, in possesso di abilitazione su una classe di concorso o su un altro grado di istruzione nonché coloro che sono in possesso della specializzazione sul sostegno, fermo restando il possesso del titolo di studio necessario con riferimento alla classe di concorso, intendano conseguire l ...
+
