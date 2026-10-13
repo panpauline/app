@@ -286,3 +286,10 @@
 - [Iscrizioni Percorsi Abilitanti 30 CFU - Unimarconi L'Aquila](https://unimarconilaquila.it/corsi-insegnanti/percorsi-abilitanti-30-cfu) _(tutor abilitanti)_
   - Sep 23, 2026 · Sono aperte le iscrizioni alla quarta edizione percorsi abilitanti da 30 CFU per tutti coloro che, in possesso di abilitazione su una classe di concorso o su un altro grado di istruzione nonché coloro che sono in possesso della specializzazione sul sostegno, fermo restando il possesso del titolo di studio necessario con riferimento alla classe di concorso, intendano conseguire l ...
 
+## Ricerca del 2026-10-13 12:21 UTC
+
+- [Professori a contratto - Concorsi - univr.it](https://www.univr.it/it/concorsi/incarichi-didattici/professori-a-contratto) _(docenza)_
+  - 1 day ago · Bando di Selezione Pubblica n. 26-039 per il conferimento degli incarichi didattici presso i corsi di studio del Dipartimento di Scienze Umane per l’A.A. 2026/2027 Bando aperto Incarichi didattici Professori a contratto Data pubblicazione sul sito web: 1-ott-2026 Scadenza presentazione domanda: 16-ott-2026 Numero posti: 6
+- [Procedura selettiva per il conferimento di n° 2 incarichi di ...](https://www.unimore.it/it/ateneo/bandi/procedura-selettiva-il-conferimento-di-ndeg-2-incarichi-di-tutor-coordinatore) _(tutor abilitanti)_
+  - Sep 22, 2026 · Bando Procedura selettiva per il conferimento di n° 2 incarichi di Tutor coordinatore tirocinio indiretto nell'ambito del Corso di specializzazione per le attività di sostegno didattico agli alunni con disabilità - Undicesima Edizione a.a. 25/26.
+
