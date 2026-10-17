@@ -1149,3 +1149,12 @@
 - 📍 Lucca — [Avviso selezione esperti e tutor DM38 PN21-27 Formazione ...](https://iccamigliano.edu.it/avviso-selezione-esperti-e-tutor-dm38-pn21-27-formazione-docenti)
   - 5 days ago · Avviso selezione esperti e tutor DM38 PN21-27 Formazione Docenti Avviso selezione esperti e tutor DM38 PN21-27 Formazione Docenti Si comunica che all’albo on line dell'Istituto è stato pubblicato un avviso di selezione di Esperti e Tutor a supporto dei moduli DM38 Formazione Docenti Personale scolastico 0 Pubblicato:04.09.2026 -Revisione:04. ...
 
+## Ricerca del 2026-10-17 08:54 UTC
+
+- 📍 Prato — [Avviso di selezione personale esterno progetto "MUSICA E PAROLE PER ...](https://www.icnordprato.edu.it/avviso-di-selezione-personale-esterno-progetto-musica-e-parole-per-crescere-insieme)
+  - E' pubblicato sul sito di questa istituzione scolastica l'avviso di selezione personale esterno progetto "MUSICA E PAROLE PER CRESCERE INSIEME" Laboratorio musicale allegato A esperto formatore allegato B esperto formatore timbro_AVVISO DI SELEZIONE ESPERTO MUSICA-signed
+- 📍 Prato — [Pubblicazione Avviso Unico con procedura d’urgenza per la ...](https://www.sangiuseppe.edu.it/pubblicazione-avviso-unico-con-procedura-durgenza-per-la-selezione-di-figure-professionali-di-esperto-e-tutor-progetto-pn-fse-jump-into-english)
+  - Oct 7, 2026 · Si comunica che in data 07/10/2026 è pubblicato all’Albo Online dell’Istituto San Giuseppe di Prato l’Avviso unico con procedura d’urgenza per la selezione e il reclutamento delle figure professionali di Esperto e Tutor.
+- 📍 Arezzo — [AVVISO ESPERTI E TUTOR interni esterni PNFSE Avviso 95165 ...](https://icmasaccio.edu.it/notizie/485-avviso-esperti-e-tutor-interni-esterni-pnfse-avviso-95165-formazione-docenti)
+  - 5 days ago · Documenti timbro_AVVISO ESPERTI E TUTOR interni esterni PNFSE Avviso 95165 Formazione docenti-signed.pdf avviso pubblico ALLEGATO A.docx istanza ALLEGATO B.docx griglia esperto ALLEGATO B1.docx griglia tutor ALLEGATO C.docx dichiarazione insussistenza cause ostative Pubblicato: lunedì, 12 ottobre 2026 -Revisione: lunedì, 12 ottobre 2026
+
