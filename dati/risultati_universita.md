@@ -293,3 +293,12 @@
 - [Procedura selettiva per il conferimento di n° 2 incarichi di ...](https://www.unimore.it/it/ateneo/bandi/procedura-selettiva-il-conferimento-di-ndeg-2-incarichi-di-tutor-coordinatore) _(tutor abilitanti)_
   - Sep 22, 2026 · Bando Procedura selettiva per il conferimento di n° 2 incarichi di Tutor coordinatore tirocinio indiretto nell'ambito del Corso di specializzazione per le attività di sostegno didattico agli alunni con disabilità - Undicesima Edizione a.a. 25/26.
 
+## Ricerca del 2026-10-21 09:45 UTC
+
+- [AVVISO DI SELEZIONE INTERNA- Esperto per il supporto ...](https://amministrazionetrasparente.uniparthenope.it/page/5/details/37177/avviso-di-selezione-interna-esperto-per-il-supporto-specialistico-alla-progettazione-gestione-e-coordinamento-dei-percorsi-formativi-universitari-di-formazione-iniziale-e-abilitazione-dei-docenti-percorsi-formativi-60-cfu.html) _(tutor abilitanti)_
+  - 2 days ago · AVVISO DI SELEZIONE INTERNA- Esperto per il supporto specialistico alla progettazione, gestione e coordinamento dei percorsi formativi universitari di formazione iniziale e abilitazione dei docenti- Percorsi formativi 60 CFU – Amministrazione trasparente del Università degli Studi di Napoli Parthenope.
+- [Alta Scuola per la Formazione di Insegnanti | Centro](https://www.centroasfi.unict.it) _(tutor abilitanti)_
+  - Oct 14, 2026 · Offerta formativa 2026/2027 - Classi di concorso e numero di posti L'Università di Catania per l'a. a. 2026/2027 ha richiesto al Ministero dell’Università e della Ricerca l'attivazione dei Percorsi abilitanti indicati nel corpo dell'avviso.
+- [Percorso formativo abilitante di 60 CFU | Università degli ...](https://portale.units.it/it/studiare/post-lauream/formazione-insegnanti/60cfu) _(tutor abilitanti)_
+  - 2 days ago · Il percorso 30 CFU art. 13 del DPCM 4 agosto 2023 è riservato a coloro che sono già in possesso di abilitazione su una classe di concorso o su un altro grado di istruzione nonché coloro che sono in possesso della specializzazione sul sostegno e intendono conseguire una seconda abilitazione. I requisiti, i costi e le modalità di iscrizione verranno resi noti nel bando di prossima ...
+
