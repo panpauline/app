@@ -302,3 +302,14 @@
 - [Percorso formativo abilitante di 60 CFU | Università degli ...](https://portale.units.it/it/studiare/post-lauream/formazione-insegnanti/60cfu) _(tutor abilitanti)_
   - 2 days ago · Il percorso 30 CFU art. 13 del DPCM 4 agosto 2023 è riservato a coloro che sono già in possesso di abilitazione su una classe di concorso o su un altro grado di istruzione nonché coloro che sono in possesso della specializzazione sul sostegno e intendono conseguire una seconda abilitazione. I requisiti, i costi e le modalità di iscrizione verranno resi noti nel bando di prossima ...
 
+## Ricerca del 2026-10-25 09:30 UTC
+
+- [Contratti di insegnamento | Università degli Studi di Milano ...](https://www.unimi.it/it/ateneo/lavora-con-noi/reclutamento-professori/contratti-di-insegnamento) _(docenza)_
+  - 1 day ago · Dipartimento di Studi Letterari, Filologici e Linguistici Scadenza 09/11/2026 ore 12:00 (ora italiana) Codice Concorso 2031 - Laboratori Didattici - A.A. 2026/2027 - Pubblicato il 20/10/2026 - Scadenza ore 12:00 (ora italiana) del 05/11/2026
+- [Incarichi per attività di insegnamento – Dipartimento di ...](https://opportunita.org/opportunities/incarichi-per-attivita-di-insegnamento-dipartimento-di-studi-umanistici-avviso-26-00093-unito-2026) _(docenza)_
+  - Sep 30, 2026 · DECRETA ART. 1 – Finalità L’Università avvia la procedura di valutazione comparativa per la copertura di incarichi di insegnamento all’interno dei Corsi di Studio di I e II livello, elencati nella tabella di cui all’ALLEGATO 1 che fa parte integrante del presente Avviso.
+- [Incarichi di Insegnamento | Formazione Insegnanti](https://web.unisa.it/home/bandi/concorsi-selezioni/incarichi-di-insegnamento/formazione-insegnanti?anno=2026&bando=14872) _(tutor abilitanti)_
+  - Oct 5, 2026 · Avviso di selezione pubblica per incarichi di insegnamento disciplinari a titolo retribuito nell’ambito dei percorsi di formazione iniziale e di abilitazione 60 CFU attivati per l’anno accademico 2025/2026 - sede BASILICATA - codici deserti
+- [Abilitazione docenti: come accedere ai percorsi 30 CFU dell ...](https://orizzonteinsegnanti.it/abilitazione-docenti-come-accedere-ai-percorsi-30-cfu-dell-universita-ecampus) _(tutor abilitanti)_
+  - Oct 18, 2026 · Scopri come iscriverti ai percorsi abilitanti da 30 CFU di eCampus. Trova bando, scadenze, requisiti e info per il passaggio di ruolo dei docenti abilitati.
+
