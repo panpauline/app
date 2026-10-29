@@ -1158,3 +1158,8 @@
 - 📍 Arezzo — [AVVISO ESPERTI E TUTOR interni esterni PNFSE Avviso 95165 ...](https://icmasaccio.edu.it/notizie/485-avviso-esperti-e-tutor-interni-esterni-pnfse-avviso-95165-formazione-docenti)
   - 5 days ago · Documenti timbro_AVVISO ESPERTI E TUTOR interni esterni PNFSE Avviso 95165 Formazione docenti-signed.pdf avviso pubblico ALLEGATO A.docx istanza ALLEGATO B.docx griglia esperto ALLEGATO B1.docx griglia tutor ALLEGATO C.docx dichiarazione insussistenza cause ostative Pubblicato: lunedì, 12 ottobre 2026 -Revisione: lunedì, 12 ottobre 2026
 
+## Ricerca del 2026-10-29 11:10 UTC
+
+- 📍 Lucca — [I.C. CAMAIORE 1- AVVISO DI SELEZIONE Per il reclutamento di n. 1 ...](https://iccastiglionedigarfagnana.edu.it/2026/10/06/i-c-camaiore-1-avviso-di-selezione-per-il-reclutamento-di-n-1-esperto-formatore-per-il-personale-docente-del-primo-ciclo-ambito-officina-stem-didattica-laboratoriale-innovazione-metodologica-e)
+  - I.C. CAMAIORE 1- AVVISO DI SELEZIONE Per il reclutamento di n. 1 ESPERTO FORMATORE PER IL PERSONALE DOCENTE DEL PRIMO CICLO Ambito: "Officina STEM: Didattica laboratoriale, innovazione metodologica e tecnologie digitali"
+
