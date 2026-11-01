@@ -1163,3 +1163,8 @@
 - 📍 Lucca — [I.C. CAMAIORE 1- AVVISO DI SELEZIONE Per il reclutamento di n. 1 ...](https://iccastiglionedigarfagnana.edu.it/2026/10/06/i-c-camaiore-1-avviso-di-selezione-per-il-reclutamento-di-n-1-esperto-formatore-per-il-personale-docente-del-primo-ciclo-ambito-officina-stem-didattica-laboratoriale-innovazione-metodologica-e)
   - I.C. CAMAIORE 1- AVVISO DI SELEZIONE Per il reclutamento di n. 1 ESPERTO FORMATORE PER IL PERSONALE DOCENTE DEL PRIMO CICLO Ambito: "Officina STEM: Didattica laboratoriale, innovazione metodologica e tecnologie digitali"
 
+## Ricerca del 2026-11-01 11:33 UTC
+
+- 📍 Arezzo — [AVVISO SELEZIONE ESPERTI PER LO SVOLGIMENTO DI ATTIVITA ...](https://icmasaccio.edu.it/notizie/492-avviso-selezione-esperti-per-lo-svolgimento-di-attivita-progettuali-di-ampliamento-dellofferta-formativa)
+  - 2 days ago · Documenti timbro_AVVISO SELEZIONE ESPERTI PER LO SVOLGIMENTO DI ATTIVITA' PROGETTUALI DI AMPLIAMENTO DELL'OFFERTA FORMATIVA-signed.pdf avviso pubblico ALLEGATO A - DOMANDA DI PARTECIPAZIONE.docx istanza ALLEGATO B - DICHIARAZIONE TITOLI CON GRIGLIA DI VALUTAZIONE.docx dichiarazione titoli ALLEGATO C - CURRICULUM VITAE.docx modello CV europeo ALLEGATO D -ASSENZA CONFLITTO DI INTERESSI .docx ...
+

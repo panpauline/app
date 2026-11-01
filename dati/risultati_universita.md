@@ -313,3 +313,8 @@
 - [Abilitazione docenti: come accedere ai percorsi 30 CFU dell ...](https://orizzonteinsegnanti.it/abilitazione-docenti-come-accedere-ai-percorsi-30-cfu-dell-universita-ecampus) _(tutor abilitanti)_
   - Oct 18, 2026 · Scopri come iscriverti ai percorsi abilitanti da 30 CFU di eCampus. Trova bando, scadenze, requisiti e info per il passaggio di ruolo dei docenti abilitati.
 
+## Ricerca del 2026-11-01 11:35 UTC
+
+- [AFORM Settore Servizi didattici “Lettere-Lingue”- Bando di ...](https://bandi.unibo.it/s/aform7/aform-settore-servizi-didattici-lettere-lingue-bando-di-selezione-per-soli-titoli-per-l-attribuzione-a-titolo-oneroso-di-contratti-di-moduli-didattici-per-i-corsi-di-studio-del-dipartimento-di-lingue-letterature-e-culture-moderne-per-l-a-a-2026-27) _(docenza)_
+  - 5 days ago · AFORM Settore Servizi didattici “Lettere-Lingue”- Bando di selezione per soli titoli per l’attribuzione, a titolo oneroso, di contratti di moduli didattici per i Corsi di studio del Dipartimento di Lingue, Letterature e Culture moderne per l’a.a. 2026/27
+
