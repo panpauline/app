@@ -318,3 +318,10 @@
 - [AFORM Settore Servizi didattici “Lettere-Lingue”- Bando di ...](https://bandi.unibo.it/s/aform7/aform-settore-servizi-didattici-lettere-lingue-bando-di-selezione-per-soli-titoli-per-l-attribuzione-a-titolo-oneroso-di-contratti-di-moduli-didattici-per-i-corsi-di-studio-del-dipartimento-di-lingue-letterature-e-culture-moderne-per-l-a-a-2026-27) _(docenza)_
   - 5 days ago · AFORM Settore Servizi didattici “Lettere-Lingue”- Bando di selezione per soli titoli per l’attribuzione, a titolo oneroso, di contratti di moduli didattici per i Corsi di studio del Dipartimento di Lingue, Letterature e Culture moderne per l’a.a. 2026/27
 
+## Ricerca del 2026-11-05 12:51 UTC
+
+- [Bando 3 Tutor coordinatori per Corso attività di sostegno ...](https://www.uniroma4.it/index.php/avvisi/bando-3-tutor-coordinatori-per-corso-attivita-di-sostegno-alunni-con-disabilita-xi-ciclo-a-a-2025-2026) _(tutor abilitanti)_
+  - Oct 13, 2026 · È stato pubblicato un bando per la copertura di n. 3 incarichi di Tutor coordinatori per il Corso di specializzazione per le attività di sostegno didattico agli alunni con disabilità 2025-2026, XI ciclo per la Scuola primaria, Scuola secondaria di primo grado e Scuola secondaria di secondo grado.
+- [Home Percorsi 30 cfu ex art. 13 DPCM 4 agosto 2023, a.a. 2025 ...](https://www.centroasfi.unisa.it/news/5102x288x30638-Percorsi+30+cfu+ex+art.+13+DPCM+4+agosto+2023,+a.a.+2025/2026+-+offerta+didattica+insegnamenti+trasversali) _(tutor abilitanti)_
+  - 1 day ago · Centro ASFI / Home / News Home Percorsi 30 cfu ex art. 13 DPCM 4 agosto 2023, a.a. 2025/2026 - offerta didattica insegnamenti trasversali Facendo seguito all'avviso pubblicato il 3 novembre in merito al riconoscimento dei crediti, si pubblica l'offerta degli insegnamenti trasversali Pubblicato il 4 Novembre 2026
+
