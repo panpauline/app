@@ -325,3 +325,12 @@
 - [Home Percorsi 30 cfu ex art. 13 DPCM 4 agosto 2023, a.a. 2025 ...](https://www.centroasfi.unisa.it/news/5102x288x30638-Percorsi+30+cfu+ex+art.+13+DPCM+4+agosto+2023,+a.a.+2025/2026+-+offerta+didattica+insegnamenti+trasversali) _(tutor abilitanti)_
   - 1 day ago · Centro ASFI / Home / News Home Percorsi 30 cfu ex art. 13 DPCM 4 agosto 2023, a.a. 2025/2026 - offerta didattica insegnamenti trasversali Facendo seguito all'avviso pubblicato il 3 novembre in merito al riconoscimento dei crediti, si pubblica l'offerta degli insegnamenti trasversali Pubblicato il 4 Novembre 2026
 
+## Ricerca del 2026-11-09 13:29 UTC
+
+- [Percorsi universitari di formazione iniziale e abilitazione ...](https://formazioneinsegnanti.unitn.it/formazione-insegnanti/1627/percorsi-universitari-di-formazione-iniziale-e-abilitazione-dei-docenti-delle-scuole-secondarie) _(tutor abilitanti)_
+  - Oct 21, 2026 · Per l'a.a. 2026/2027 l’Università degli Studi di Trento ha previsto l'attivazione dei percorsi abilitanti per 12 classi di concorso. I bandi di ammissione comprendenti l'offerta formativa, i posti disponibili e i requisiti di ammissione saranno pubblicati su questa pagina web non appena verrà emanato il decreto ministeriale. Offerta formativa a.a. 2026/2027 L’offerta formativa e il ...
+- [DISSUF - SELEZIONE PUBBLICA ATTRIBUZIONE DI INCARICO N° 01 ...](https://www.uniss.it/it/bandi/dissuf-selezione-pubblica-attribuzione-di-incarico-ndeg-01-tutor-coordinatore-delle-attivita) _(tutor abilitanti)_
+  - 13 hours ago · BANDO DI SELEZIONE PUBBLICA PER L’ATTRIBUZIONE DI INCARICO PER N° 01 TUTOR COORDINATORE DELLE ATTIVITÀ DI TIROCINIO INDIRETTO RELATIVA ALL'UTILIZZO DELLE NUOVE TECNOLOGIE, APPLICATE ALLA DIDATTICA SPECIALE (TIC), NEL PERCORSO DI FORMAZIONE PER IL CONSEGUIMENTO DELLA SPECIALIZZAZIONE PER LE ATTIVITÀ DI SOSTEGNO DIDATTICO AGLI ALUNNI CON ...
+- [Home Percorsi 30 cfu ex art. 13 DPCM 4 agosto 2023, a.a. 2025 ...](https://www.centroasfi.unisa.it/news/5102x288x30623-Percorsi+30+cfu+ex+art.+13+DPCM+4+agosto+2023,+a.a.+2025/2026+-+inoltro+richieste+riconoscimento) _(tutor abilitanti)_
+  - Nov 2, 2026 · Centro ASFI / Home / News Home Percorsi 30 cfu ex art. 13 DPCM 4 agosto 2023, a.a. 2025/2026 - inoltro richieste riconoscimento Pubblicato il 2 Novembre 2026 Avviso Modulo richiesta
+
