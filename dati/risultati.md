@@ -1168,3 +1168,8 @@
 - 📍 Arezzo — [AVVISO SELEZIONE ESPERTI PER LO SVOLGIMENTO DI ATTIVITA ...](https://icmasaccio.edu.it/notizie/492-avviso-selezione-esperti-per-lo-svolgimento-di-attivita-progettuali-di-ampliamento-dellofferta-formativa)
   - 2 days ago · Documenti timbro_AVVISO SELEZIONE ESPERTI PER LO SVOLGIMENTO DI ATTIVITA' PROGETTUALI DI AMPLIAMENTO DELL'OFFERTA FORMATIVA-signed.pdf avviso pubblico ALLEGATO A - DOMANDA DI PARTECIPAZIONE.docx istanza ALLEGATO B - DICHIARAZIONE TITOLI CON GRIGLIA DI VALUTAZIONE.docx dichiarazione titoli ALLEGATO C - CURRICULUM VITAE.docx modello CV europeo ALLEGATO D -ASSENZA CONFLITTO DI INTERESSI .docx ...
 
+## Ricerca del 2026-11-13 12:42 UTC
+
+- 📍 Pisa — [Avviso pubblico di selezione Esperti per le attività di ...](https://www.itcattaneo.edu.it/2026/10/17/avviso-pubblico-di-selezione-per-la-costituzione-degli-elenchi-di-esperti-per-le-attivita-di-formazione-di-cui-al-d-m-n-219-2025)
+  - Oct 17, 2026 · Avviso pubblico di selezione Esperti per le attività di formazione di cui al D.M. n. 219/2025
+
