@@ -358,3 +358,8 @@
 - [DISSUF - SELEZIONE PUBBLICA PER L’ATTRIBUZIONE DI INCARICO ...](https://www.uniss.it/it/bandi/dissuf-selezione-pubblica-lattribuzione-di-incarico-ndeg-01-tutor-coordinatore-delle-0) _(tutor abilitanti)_
   - Nov 9, 2026 · BANDO DI SELEZIONE PUBBLICA PER L’ATTRIBUZIONE DI INCARICO PER N° 01 TUTOR COORDINATORE DELLE ATTIVITÀ DI TIROCINIO INDIRETTO NEL PERCORSO DI FORMAZIONE PER IL CONSEGUIMENTO DELLA SPECIALIZZAZIONE PER LE ATTIVITÀ DI SOSTEGNO DIDATTICO AGLI ALUNNI CON DISABILITÀ - DECRETI MINISTERO ISTRUZIONE UNIVERSITA’ E RICERCA 10 SETTEMBRE 2010 N ...
 
+## Ricerca del 2026-11-25 15:08 UTC
+
+- [Percorsi abilitanti docenti 2026/27, le università preparano ...](https://www.ascuolaoggi.com/post/percorsi-abilitanti-docenti-2026-2027-quarto-ciclo-universita-requisiti-di-accesso-e-novita) _(tutor abilitanti)_
+  - Le informazioni pubblicate consentono quindi di orientarsi tra le offerte in preparazione. Posti richiesti e classi di concorso proposte dagli atenei dovranno trovare conferma nelle autorizzazioni, alle quali seguiranno i bandi con requisiti, scadenze e modalità di presentazione delle domande.
+
